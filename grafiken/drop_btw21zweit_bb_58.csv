@@ -1,0 +1,362 @@
+value,name
+1,Wahlkreis 58 (alle Wahlbezirke)
+2,Amt Gransee/Briefwahlbezirk 9040
+3,Amt Gransee/Briefwahlbezirk 9041
+4,Birkenwerder/Briefwahlbezirk 9007
+5,Birkenwerder/Briefwahlbezirk 9008
+6,Birkenwerder/Briefwahlbezirk 9009
+7,Birkenwerder/Urnenwahlbezirk 1
+8,Birkenwerder/Urnenwahlbezirk 2
+9,Birkenwerder/Urnenwahlbezirk 3
+10,Birkenwerder/Urnenwahlbezirk 4
+11,Birkenwerder/Urnenwahlbezirk 5
+12,Birkenwerder/Urnenwahlbezirk 6
+13,Brieselang/Briefwahlbezirk 9014
+14,Brieselang/Briefwahlbezirk 9015
+15,Brieselang/Briefwahlbezirk 9016
+16,Brieselang/Urnenwahlbezirk 1
+17,Brieselang/Urnenwahlbezirk 10
+18,Brieselang/Urnenwahlbezirk 11
+19,Brieselang/Urnenwahlbezirk 12
+20,Brieselang/Urnenwahlbezirk 13
+21,Brieselang/Urnenwahlbezirk 2
+22,Brieselang/Urnenwahlbezirk 3
+23,Brieselang/Urnenwahlbezirk 4
+24,Brieselang/Urnenwahlbezirk 5
+25,Brieselang/Urnenwahlbezirk 6
+26,Brieselang/Urnenwahlbezirk 7
+27,Brieselang/Urnenwahlbezirk 8
+28,Brieselang/Urnenwahlbezirk 9
+29,Dallgow-Döberitz/Briefwahlbezirk 9008
+30,Dallgow-Döberitz/Briefwahlbezirk 9042
+31,Dallgow-Döberitz/Briefwahlbezirk 9043
+32,Dallgow-Döberitz/Urnenwahlbezirk 1
+33,Dallgow-Döberitz/Urnenwahlbezirk 2
+34,Dallgow-Döberitz/Urnenwahlbezirk 3
+35,Dallgow-Döberitz/Urnenwahlbezirk 4
+36,Dallgow-Döberitz/Urnenwahlbezirk 5
+37,Dallgow-Döberitz/Urnenwahlbezirk 6
+38,Dallgow-Döberitz/Urnenwahlbezirk 7
+39,Dallgow-Döberitz/Urnenwahlbezirk 8
+40,Falkensee/Briefwahlbezirk 9036
+41,Falkensee/Briefwahlbezirk 9037
+42,Falkensee/Briefwahlbezirk 9038
+43,Falkensee/Briefwahlbezirk 9039
+44,Falkensee/Briefwahlbezirk 9040
+45,Falkensee/Briefwahlbezirk 9041
+46,Falkensee/Briefwahlbezirk 9042
+47,Falkensee/Briefwahlbezirk 9043
+48,Falkensee/Briefwahlbezirk 9044
+49,Falkensee/Briefwahlbezirk 9045
+50,Falkensee/Briefwahlbezirk 9046
+51,Falkensee/Briefwahlbezirk 9047
+52,Falkensee/Briefwahlbezirk 9048
+53,Falkensee/Briefwahlbezirk 9049
+54,Falkensee/Briefwahlbezirk 9050
+55,Falkensee/Briefwahlbezirk 9051
+56,Falkensee/Urnenwahlbezirk 1
+57,Falkensee/Urnenwahlbezirk 10
+58,Falkensee/Urnenwahlbezirk 11
+59,Falkensee/Urnenwahlbezirk 12
+60,Falkensee/Urnenwahlbezirk 13
+61,Falkensee/Urnenwahlbezirk 14
+62,Falkensee/Urnenwahlbezirk 15
+63,Falkensee/Urnenwahlbezirk 16
+64,Falkensee/Urnenwahlbezirk 17
+65,Falkensee/Urnenwahlbezirk 18
+66,Falkensee/Urnenwahlbezirk 19
+67,Falkensee/Urnenwahlbezirk 2
+68,Falkensee/Urnenwahlbezirk 20
+69,Falkensee/Urnenwahlbezirk 21
+70,Falkensee/Urnenwahlbezirk 22
+71,Falkensee/Urnenwahlbezirk 23
+72,Falkensee/Urnenwahlbezirk 24
+73,Falkensee/Urnenwahlbezirk 25
+74,Falkensee/Urnenwahlbezirk 26
+75,Falkensee/Urnenwahlbezirk 27
+76,Falkensee/Urnenwahlbezirk 28
+77,Falkensee/Urnenwahlbezirk 29
+78,Falkensee/Urnenwahlbezirk 3
+79,Falkensee/Urnenwahlbezirk 30
+80,Falkensee/Urnenwahlbezirk 31
+81,Falkensee/Urnenwahlbezirk 32
+82,Falkensee/Urnenwahlbezirk 33
+83,Falkensee/Urnenwahlbezirk 34
+84,Falkensee/Urnenwahlbezirk 35
+85,Falkensee/Urnenwahlbezirk 4
+86,Falkensee/Urnenwahlbezirk 5
+87,Falkensee/Urnenwahlbezirk 6
+88,Falkensee/Urnenwahlbezirk 7
+89,Falkensee/Urnenwahlbezirk 8
+90,Falkensee/Urnenwahlbezirk 9
+91,Fürstenberg/Havel/Briefwahlbezirk 9012
+92,Fürstenberg/Havel/Briefwahlbezirk 9013
+93,Fürstenberg/Havel/Briefwahlbezirk 9014
+94,Fürstenberg/Havel/Urnenwahlbezirk 1
+95,Fürstenberg/Havel/Urnenwahlbezirk 2
+96,Fürstenberg/Havel/Urnenwahlbezirk 3
+97,Fürstenberg/Havel/Urnenwahlbezirk 6
+98,Fürstenberg/Havel/Urnenwahlbezirk 7
+99,Fürstenberg/Havel/Urnenwahlbezirk 8
+100,Glienicke/Nordbahn/Briefwahlbezirk 9010
+101,Glienicke/Nordbahn/Briefwahlbezirk 9011
+102,Glienicke/Nordbahn/Briefwahlbezirk 9012
+103,Glienicke/Nordbahn/Urnenwahlbezirk 1
+104,Glienicke/Nordbahn/Urnenwahlbezirk 2
+105,Glienicke/Nordbahn/Urnenwahlbezirk 3
+106,Glienicke/Nordbahn/Urnenwahlbezirk 4
+107,Glienicke/Nordbahn/Urnenwahlbezirk 5
+108,Glienicke/Nordbahn/Urnenwahlbezirk 6
+109,Glienicke/Nordbahn/Urnenwahlbezirk 7
+110,Glienicke/Nordbahn/Urnenwahlbezirk 8
+111,Glienicke/Nordbahn/Urnenwahlbezirk 9
+112,Hennigsdorf/Briefwahlbezirk 9023
+113,Hennigsdorf/Briefwahlbezirk 9024
+114,Hennigsdorf/Briefwahlbezirk 9025
+115,Hennigsdorf/Briefwahlbezirk 9026
+116,Hennigsdorf/Briefwahlbezirk 9027
+117,Hennigsdorf/Briefwahlbezirk 9028
+118,Hennigsdorf/Briefwahlbezirk 9029
+119,Hennigsdorf/Briefwahlbezirk 9030
+120,Hennigsdorf/Urnenwahlbezirk 1
+121,Hennigsdorf/Urnenwahlbezirk 10
+122,Hennigsdorf/Urnenwahlbezirk 11
+123,Hennigsdorf/Urnenwahlbezirk 12
+124,Hennigsdorf/Urnenwahlbezirk 13
+125,Hennigsdorf/Urnenwahlbezirk 14
+126,Hennigsdorf/Urnenwahlbezirk 15
+127,Hennigsdorf/Urnenwahlbezirk 16
+128,Hennigsdorf/Urnenwahlbezirk 17
+129,Hennigsdorf/Urnenwahlbezirk 18
+130,Hennigsdorf/Urnenwahlbezirk 19
+131,Hennigsdorf/Urnenwahlbezirk 2
+132,Hennigsdorf/Urnenwahlbezirk 20
+133,Hennigsdorf/Urnenwahlbezirk 21
+134,Hennigsdorf/Urnenwahlbezirk 22
+135,Hennigsdorf/Urnenwahlbezirk 3
+136,Hennigsdorf/Urnenwahlbezirk 4
+137,Hennigsdorf/Urnenwahlbezirk 5
+138,Hennigsdorf/Urnenwahlbezirk 6
+139,Hennigsdorf/Urnenwahlbezirk 7
+140,Hennigsdorf/Urnenwahlbezirk 8
+141,Hennigsdorf/Urnenwahlbezirk 9
+142,Hohen Neuendorf/Briefwahlbezirk 9023
+143,Hohen Neuendorf/Briefwahlbezirk 9024
+144,Hohen Neuendorf/Briefwahlbezirk 9025
+145,Hohen Neuendorf/Briefwahlbezirk 9026
+146,Hohen Neuendorf/Briefwahlbezirk 9027
+147,Hohen Neuendorf/Briefwahlbezirk 9028
+148,Hohen Neuendorf/Briefwahlbezirk 9029
+149,Hohen Neuendorf/Urnenwahlbezirk 1
+150,Hohen Neuendorf/Urnenwahlbezirk 10
+151,Hohen Neuendorf/Urnenwahlbezirk 11
+152,Hohen Neuendorf/Urnenwahlbezirk 12
+153,Hohen Neuendorf/Urnenwahlbezirk 13
+154,Hohen Neuendorf/Urnenwahlbezirk 14
+155,Hohen Neuendorf/Urnenwahlbezirk 15
+156,Hohen Neuendorf/Urnenwahlbezirk 16
+157,Hohen Neuendorf/Urnenwahlbezirk 17
+158,Hohen Neuendorf/Urnenwahlbezirk 18
+159,Hohen Neuendorf/Urnenwahlbezirk 19
+160,Hohen Neuendorf/Urnenwahlbezirk 2
+161,Hohen Neuendorf/Urnenwahlbezirk 20
+162,Hohen Neuendorf/Urnenwahlbezirk 21
+163,Hohen Neuendorf/Urnenwahlbezirk 22
+164,Hohen Neuendorf/Urnenwahlbezirk 3
+165,Hohen Neuendorf/Urnenwahlbezirk 4
+166,Hohen Neuendorf/Urnenwahlbezirk 5
+167,Hohen Neuendorf/Urnenwahlbezirk 6
+168,Hohen Neuendorf/Urnenwahlbezirk 7
+169,Hohen Neuendorf/Urnenwahlbezirk 8
+170,Hohen Neuendorf/Urnenwahlbezirk 9
+171,Ketzin/Havel/Briefwahlbezirk 9010
+172,Ketzin/Havel/Briefwahlbezirk 9011
+173,Ketzin/Havel/Urnenwahlbezirk 1
+174,Ketzin/Havel/Urnenwahlbezirk 2
+175,Ketzin/Havel/Urnenwahlbezirk 3
+176,Ketzin/Havel/Urnenwahlbezirk 4
+177,Ketzin/Havel/Urnenwahlbezirk 5
+178,Ketzin/Havel/Urnenwahlbezirk 6
+179,Ketzin/Havel/Urnenwahlbezirk 7
+180,Ketzin/Havel/Urnenwahlbezirk 8
+181,Ketzin/Havel/Urnenwahlbezirk 9
+182,Kremmen/Briefwahlbezirk 9009
+183,Kremmen/Briefwahlbezirk 9010
+184,Kremmen/Briefwahlbezirk 9011
+185,Kremmen/Briefwahlbezirk 9012
+186,Kremmen/Briefwahlbezirk 9013
+187,Kremmen/Urnenwahlbezirk 1
+188,Kremmen/Urnenwahlbezirk 2
+189,Kremmen/Urnenwahlbezirk 4
+190,Kremmen/Urnenwahlbezirk 5
+191,Kremmen/Urnenwahlbezirk 6
+192,Kremmen/Urnenwahlbezirk 7
+193,Kremmen/Urnenwahlbezirk 8
+194,Leegebruch/Briefwahlbezirk 9007
+195,Leegebruch/Briefwahlbezirk 9008
+196,Leegebruch/Urnenwahlbezirk 1
+197,Leegebruch/Urnenwahlbezirk 2
+198,Leegebruch/Urnenwahlbezirk 3
+199,Leegebruch/Urnenwahlbezirk 4
+200,Leegebruch/Urnenwahlbezirk 5
+201,Leegebruch/Urnenwahlbezirk 6
+202,Liebenwalde/Briefwahlbezirk 9008
+203,Liebenwalde/Briefwahlbezirk 9009
+204,Liebenwalde/Urnenwahlbezirk 1
+205,Liebenwalde/Urnenwahlbezirk 2
+206,Liebenwalde/Urnenwahlbezirk 3
+207,Liebenwalde/Urnenwahlbezirk 4
+208,Liebenwalde/Urnenwahlbezirk 5
+209,Liebenwalde/Urnenwahlbezirk 6
+210,Liebenwalde/Urnenwahlbezirk 7
+211,Löwenberger Land/Briefwahlbezirk 9015
+212,Löwenberger Land/Briefwahlbezirk 9016
+213,Löwenberger Land/Urnenwahlbezirk 1
+214,Löwenberger Land/Urnenwahlbezirk 10
+215,Löwenberger Land/Urnenwahlbezirk 11
+216,Löwenberger Land/Urnenwahlbezirk 12
+217,Löwenberger Land/Urnenwahlbezirk 13
+218,Löwenberger Land/Urnenwahlbezirk 14
+219,Löwenberger Land/Urnenwahlbezirk 2
+220,Löwenberger Land/Urnenwahlbezirk 3
+221,Löwenberger Land/Urnenwahlbezirk 4
+222,Löwenberger Land/Urnenwahlbezirk 5
+223,Löwenberger Land/Urnenwahlbezirk 6
+224,Löwenberger Land/Urnenwahlbezirk 7
+225,Löwenberger Land/Urnenwahlbezirk 8
+226,Löwenberger Land/Urnenwahlbezirk 9
+227,Mühlenbecker Land/Briefwahlbezirk 9013
+228,Mühlenbecker Land/Briefwahlbezirk 9014
+229,Mühlenbecker Land/Briefwahlbezirk 9015
+230,Mühlenbecker Land/Briefwahlbezirk 9016
+231,Mühlenbecker Land/Briefwahlbezirk 9017
+232,Mühlenbecker Land/Briefwahlbezirk 9018
+233,Mühlenbecker Land/Urnenwahlbezirk 1
+234,Mühlenbecker Land/Urnenwahlbezirk 10
+235,Mühlenbecker Land/Urnenwahlbezirk 11
+236,Mühlenbecker Land/Urnenwahlbezirk 12
+237,Mühlenbecker Land/Urnenwahlbezirk 2
+238,Mühlenbecker Land/Urnenwahlbezirk 3
+239,Mühlenbecker Land/Urnenwahlbezirk 4
+240,Mühlenbecker Land/Urnenwahlbezirk 5
+241,Mühlenbecker Land/Urnenwahlbezirk 6
+242,Mühlenbecker Land/Urnenwahlbezirk 7
+243,Mühlenbecker Land/Urnenwahlbezirk 8
+244,Mühlenbecker Land/Urnenwahlbezirk 9
+245,Oberkrämer/Briefwahlbezirk 9009
+246,Oberkrämer/Briefwahlbezirk 9010
+247,Oberkrämer/Briefwahlbezirk 9011
+248,Oberkrämer/Urnenwahlbezirk 1
+249,Oberkrämer/Urnenwahlbezirk 2
+250,Oberkrämer/Urnenwahlbezirk 3
+251,Oberkrämer/Urnenwahlbezirk 4
+252,Oberkrämer/Urnenwahlbezirk 5
+253,Oberkrämer/Urnenwahlbezirk 6
+254,Oberkrämer/Urnenwahlbezirk 7
+255,Oberkrämer/Urnenwahlbezirk 8
+256,Oranienburg/Briefwahlbezirk 9033
+257,Oranienburg/Briefwahlbezirk 9034
+258,Oranienburg/Briefwahlbezirk 9035
+259,Oranienburg/Briefwahlbezirk 9036
+260,Oranienburg/Briefwahlbezirk 9037
+261,Oranienburg/Briefwahlbezirk 9038
+262,Oranienburg/Briefwahlbezirk 9039
+263,Oranienburg/Briefwahlbezirk 9040
+264,Oranienburg/Briefwahlbezirk 9041
+265,Oranienburg/Briefwahlbezirk 9042
+266,Oranienburg/Briefwahlbezirk 9043
+267,Oranienburg/Briefwahlbezirk 9044
+268,Oranienburg/Briefwahlbezirk 9045
+269,Oranienburg/Briefwahlbezirk 9046
+270,Oranienburg/Briefwahlbezirk 9047
+271,Oranienburg/Urnenwahlbezirk 1
+272,Oranienburg/Urnenwahlbezirk 10
+273,Oranienburg/Urnenwahlbezirk 11
+274,Oranienburg/Urnenwahlbezirk 13
+275,Oranienburg/Urnenwahlbezirk 14
+276,Oranienburg/Urnenwahlbezirk 15
+277,Oranienburg/Urnenwahlbezirk 16
+278,Oranienburg/Urnenwahlbezirk 17
+279,Oranienburg/Urnenwahlbezirk 18
+280,Oranienburg/Urnenwahlbezirk 19
+281,Oranienburg/Urnenwahlbezirk 2
+282,Oranienburg/Urnenwahlbezirk 20
+283,Oranienburg/Urnenwahlbezirk 21
+284,Oranienburg/Urnenwahlbezirk 22
+285,Oranienburg/Urnenwahlbezirk 23
+286,Oranienburg/Urnenwahlbezirk 25
+287,Oranienburg/Urnenwahlbezirk 26
+288,Oranienburg/Urnenwahlbezirk 28
+289,Oranienburg/Urnenwahlbezirk 29
+290,Oranienburg/Urnenwahlbezirk 3
+291,Oranienburg/Urnenwahlbezirk 31
+292,Oranienburg/Urnenwahlbezirk 32
+293,Oranienburg/Urnenwahlbezirk 35
+294,Oranienburg/Urnenwahlbezirk 4
+295,Oranienburg/Urnenwahlbezirk 5
+296,Oranienburg/Urnenwahlbezirk 6
+297,Oranienburg/Urnenwahlbezirk 8
+298,Oranienburg/Urnenwahlbezirk 9
+299,Schönwalde-Glien/Briefwahlbezirk 9012
+300,Schönwalde-Glien/Briefwahlbezirk 9013
+301,Schönwalde-Glien/Briefwahlbezirk 9014
+302,Schönwalde-Glien/Urnenwahlbezirk 1
+303,Schönwalde-Glien/Urnenwahlbezirk 10
+304,Schönwalde-Glien/Urnenwahlbezirk 11
+305,Schönwalde-Glien/Urnenwahlbezirk 2
+306,Schönwalde-Glien/Urnenwahlbezirk 3
+307,Schönwalde-Glien/Urnenwahlbezirk 4
+308,Schönwalde-Glien/Urnenwahlbezirk 5
+309,Schönwalde-Glien/Urnenwahlbezirk 6
+310,Schönwalde-Glien/Urnenwahlbezirk 7
+311,Schönwalde-Glien/Urnenwahlbezirk 8
+312,Schönwalde-Glien/Urnenwahlbezirk 9
+313,Velten/Briefwahlbezirk 9010
+314,Velten/Briefwahlbezirk 9011
+315,Velten/Briefwahlbezirk 9012
+316,Velten/Urnenwahlbezirk 1
+317,Velten/Urnenwahlbezirk 2
+318,Velten/Urnenwahlbezirk 3
+319,Velten/Urnenwahlbezirk 4
+320,Velten/Urnenwahlbezirk 5
+321,Velten/Urnenwahlbezirk 6
+322,Velten/Urnenwahlbezirk 7
+323,Velten/Urnenwahlbezirk 8
+324,Velten/Urnenwahlbezirk 9
+325,Wustermark/Briefwahlbezirk 9009
+326,Wustermark/Briefwahlbezirk 9011
+327,Wustermark/Briefwahlbezirk 9013
+328,Wustermark/Urnenwahlbezirk 1
+329,Wustermark/Urnenwahlbezirk 10
+330,Wustermark/Urnenwahlbezirk 2
+331,Wustermark/Urnenwahlbezirk 3
+332,Wustermark/Urnenwahlbezirk 4
+333,Wustermark/Urnenwahlbezirk 5
+334,Wustermark/Urnenwahlbezirk 6
+335,Wustermark/Urnenwahlbezirk 7
+336,Wustermark/Urnenwahlbezirk 8
+337,Wustermark/Urnenwahlbezirk 9
+338,Zehdenick/Briefwahlbezirk 9022
+339,Zehdenick/Briefwahlbezirk 9023
+340,Zehdenick/Briefwahlbezirk 9024
+341,Zehdenick/Urnenwahlbezirk 1
+342,Zehdenick/Urnenwahlbezirk 10
+343,Zehdenick/Urnenwahlbezirk 11
+344,Zehdenick/Urnenwahlbezirk 12
+345,Zehdenick/Urnenwahlbezirk 13
+346,Zehdenick/Urnenwahlbezirk 14
+347,Zehdenick/Urnenwahlbezirk 15
+348,Zehdenick/Urnenwahlbezirk 16
+349,Zehdenick/Urnenwahlbezirk 17
+350,Zehdenick/Urnenwahlbezirk 18
+351,Zehdenick/Urnenwahlbezirk 19
+352,Zehdenick/Urnenwahlbezirk 2
+353,Zehdenick/Urnenwahlbezirk 20
+354,Zehdenick/Urnenwahlbezirk 21
+355,Zehdenick/Urnenwahlbezirk 3
+356,Zehdenick/Urnenwahlbezirk 4
+357,Zehdenick/Urnenwahlbezirk 5
+358,Zehdenick/Urnenwahlbezirk 6
+359,Zehdenick/Urnenwahlbezirk 7
+360,Zehdenick/Urnenwahlbezirk 8
+361,Zehdenick/Urnenwahlbezirk 9

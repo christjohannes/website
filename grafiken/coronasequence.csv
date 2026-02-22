@@ -1,0 +1,233 @@
+land,id,genomes,cases,percent
+Afghanistan,AF,16,63484,0
+Albanien,AL,30,131978,0
+Algerien,DZ,28,125194,0
+Amerikanische Samoa-Inseln,AS,NA,0,999
+Andorra,AD,1,13510,0
+Angola,AO,189,30354,0.6
+Anguilla,AI,0,109,0
+Antigua und Barbuda,AG,1,1240,0.1
+Argentinien,AR,2475,3269466,0.1
+Armenien,AM,81,220860,0
+Aruba,AW,893,10826,8.2
+Australien,AU,17724,29967,59.1
+Österreich,AT,15076,632398,2.4
+Aserbaidschan,AZ,9,329371,0
+Bahamas,BS,28,11073,0.3
+Bahrain,BH,202,199093,0.1
+Bangladesch,BD,1499,779796,0.2
+Barbados,BB,5,3961,0.1
+Belarus,BY,42,374714,0
+Belgien,BE,19767,1030071,1.9
+Belize,BZ,52,12714,0.4
+Benin,BJ,12,7984,0.1
+Bermuda,BM,30,2466,1.2
+Bhutan,BT,0,1279,0
+Bolivien,BO,39,329733,0
+Bosnien und Herzegowina,BA,100,202143,0
+Botswana,BW,194,52162,0.4
+Brasilien,BR,8899,15519525,0.1
+Britische Jungferninseln,VG,5,248,2
+Brunei,BN,10,232,4.3
+Bulgarien,BG,2071,414041,0.5
+Burkina Faso,BF,96,13395,0.7
+Burundi,BI,0,4329,0
+Kap Verde,CV,0,27951,0
+Kambodscha,KH,210,21834,1
+Kamerun,CM,73,74733,0.1
+Kanada,CA,19433,1318399,1.5
+Cayman Islands,KY,3,565,0.5
+Zentralafrikanische Republik,CF,0,6866,0
+Tschad,TD,0,4901,0
+Chile,CL,2199,1280252,0.2
+China,CN,2797,104192,2.7
+Kolumbien,CO,965,3084460,0
+Komoren,KM,6,3930,0.2
+Cookinseln,CK,NA,0,999
+Costa Rica,CR,513,282741,0.2
+Elfenbeinküste,CI,0,46619,0
+Kroatien,HR,1456,350390,0.4
+Kuba,CU,595,123221,0.5
+Curaçao,CW,371,12244,3
+Zypern,CY,133,70899,0.2
+Tschechien,CZ,2694,1652840,0.2
+DR Kongo,CD,376,30546,1.2
+Dänemark,DK,92532,265539,34.8
+Dschibuti,DJ,0,11414,0
+Dominica,DM,0,178,0
+Dominikanische Republik,DO,20,276272,0
+Ecuador,EC,366,409520,0.1
+Ägypten,EG,664,244520,0.3
+El Salvador,SV,1,70915,0
+Äquatorialguinea,GQ,191,7694,2.5
+Eritrea,ER,0,3844,0
+Estland,EE,1782,127053,1.4
+Eswatini,SZ,33,18519,0.2
+Äthiopien,ET,14,265832,0
+Falkland Inseln,FK,0,63,0
+Färöer Inseln,FO,38,670,5.7
+Fiji,FJ,0,168,0
+Finnland,FI,4632,89686,5.2
+Frankreich,FR,31529,5769839,0.5
+Französisch-Guayana,GF,255,21465,1.2
+Französisch-Polynesien,PF,10,18815,0.1
+Gabun,GA,167,23799,0.7
+Gambia,GM,463,5946,7.8
+Georgien,GE,54,330375,0
+Deutschland,DE,99027,3593434,2.8
+Ghana,GH,438,93243,0.5
+Gibraltar,GI,482,4286,11.2
+Griechenland,EL,1128,375831,0.3
+Grönland,GL,0,31,0
+Grenada,GD,0,161,0
+Guadeloupe,GP,97,15429,0.6
+Guam,GU,30,7855,0.4
+Guatemala,GT,41,240170,0
+Guernsey,GG,0,822,0
+Guinea,GN,8,22734,0
+Guinea Bissau,GW,0,3746,0
+Guyana,GY,0,14988,0
+Haiti,HT,0,13393,0
+Vatikan,VA,0,26,0
+Honduras,HN,0,225256,0
+Ungarn,HU,435,798147,0.1
+Island,IS,5070,6537,77.6
+Indien,IN,12762,24684077,0.1
+Indonesien,ID,1686,1736670,0.1
+Iran,IR,280,2739875,0
+Irak,IQ,159,1136917,0
+Irland,IE,12391,254870,4.9
+Isle of Man,IM,0,1590,0
+Israel,IL,10531,839118,1.3
+Italien,IT,24765,4153374,0.6
+Jamaika,JM,13,47233,0
+Japan,JP,36296,677988,5.3
+Jersey,JE,0,3236,0
+Jordanien,JO,627,723345,0.1
+Kasachstan,KZ,172,412236,0
+Kenia,KE,846,165379,0.5
+Kiribati,KI,NA,0,999
+Kosovo,KV,30,106800,0
+Kuwait,KW,32,290801,0
+Kirgisistan,KG,0,100473,0
+Laos,LA,0,1570,0
+Lettland,LV,2840,127597,2.2
+Libanon,LB,64,535233,0
+Lesotho,LS,18,10790,0.2
+Liberia,LR,0,2128,0
+Libyen,LY,0,181179,0
+Liechtenstein,LI,44,3073,1.4
+Litauen,LT,8539,265536,3.2
+Luxemburg,LU,7771,68922,11.3
+Madagaskar,MG,122,40005,0.3
+Malawi,MW,159,34210,0.5
+Malaysia,MY,683,466330,0.1
+Malediven,MV,0,43782,0
+Mali,ML,24,14176,0.2
+Malta,MT,144,30478,0.5
+Marshallinseln,MH,0,4,0
+Martinique,MQ,17,11490,0.1
+Mauretanien,MR,0,18806,0
+Mauritius,MU,76,1288,5.9
+Mayotte,YT,699,20176,3.5
+Mexiko,MX,7746,2377995,0.3
+Mikronesien,FM,NA,0,999
+Moldawien,MD,12,253736,0
+Monaco,MC,6,2493,0.2
+Mongolei,MN,26,48101,0.1
+Montenegro,ME,31,98772,0
+Montserrat,MS,0,20,0
+Marokko,MA,208,514817,0
+Mosambik,MZ,153,70410,0.2
+Myanmar,MM,10,143059,0
+Namibia,NA,0,51113,0
+Nauru,NR,NA,0,999
+Nepal,NP,23,447704,0
+Niederlande,NL,29734,1593728,1.9
+Neu-Kaledonien,NC,0,124,0
+Neuseeland,NZ,1064,2290,46.5
+Nicaragua,NI,0,5649,0
+Niger,NE,0,5330,0
+Nigeria,NG,708,165702,0.4
+Niue,NU,NA,0,999
+Nordkorea,KP,NA,0,999
+Nordmazedonien,MK,522,154636,0.3
+Nördliche Marianen,MP,62,173,35.8
+Norwegen,NO,8668,118275,7.3
+Oman,OM,246,202713,0.1
+Pakistan,PK,252,874751,0
+Palau,PW,NA,0,999
+Panama,PA,896,370043,0.2
+Papua-Neuguinea,PG,198,13928,1.4
+Paraguay,PY,60,309638,0
+Peru,PE,1226,1879049,0.1
+Philippinen,PH,557,1138187,0
+Pitcairn,PN,NA,0,999
+Polen,PL,9969,2854079,0.3
+Portugal,PT,7494,841848,0.9
+Puerto Rico,PR,0,136426,0
+Katar,QA,2081,212927,1
+Kongo,CG,111,11343,1
+Réunion,RE,1027,22644,4.5
+Rumänien,RO,825,1071334,0.1
+Russland,RU,3540,4940245,0.1
+Ruanda,RW,276,25934,1.1
+Saint Barthélemy,BL,2,994,0.2
+Saint Helena,SH,NA,0,999
+St. Kitts und Nevis,KN,3,45,6.7
+Saint Lucia,LC,10,4788,0.2
+St. Vincent Grenadines,VC,1,1932,0.1
+Samoa,WS,0,1,0
+San Marino,SM,0,5087,0
+São Tomé und Príncipe,ST,0,2327,0
+Saudi-Arabien,SA,955,432269,0.2
+Senegal,SN,317,40828,0.8
+Serbien,RS,255,705890,0
+Seychellen,SC,0,9184,0
+Sierra Leone,SL,15,4103,0.4
+Singapur,SG,2405,61536,3.9
+St. Martin,MF,148,2272,6.5
+Slowakei,SK,2501,387523,0.6
+Slowenien,SI,9680,249014,3.9
+Salomon-Inseln,SB,0,20,0
+Somalia,SO,15,14486,0.1
+Südafrika,ZA,5809,1611143,0.4
+Südkorea,KR,5410,131671,4.1
+Südsudan,SS,0,10652,0
+Spanien,ES,26496,3598452,0.7
+Sri Lanka,LK,383,140471,0.3
+Sudan,SD,0,34889,0
+Surinam,SR,135,11707,1.1
+Schweden,SE,39610,1037126,3.8
+Schweiz,CH,37736,676437,5.6
+Syrien,SY,0,23693,0
+Taiwan,TW,179,1681,10.6
+Tadschikistan,TJ,0,13714,0
+Tansania,TZ,0,509,0
+Thailand,TH,992,101447,1
+Osttimor,TL,18,4279,0.4
+Togo,TG,113,13244,0.9
+Tokelau,TK,NA,0,999
+Tonga,TO,NA,0,999
+Trinidad Tobago,TT,55,15379,0.4
+Tunesien,TN,114,325832,0
+Türkei,TR,4144,5106862,0.1
+Turkmenistan,TM,NA,0,999
+Turks-und Caicosinseln,TC,0,2404,0
+Tuvalu,TV,NA,0,999
+Uganda,UG,358,42674,0.8
+Ukraine,UA,171,2153864,0
+VAE,AE,1846,544931,0.3
+Großbritannien,UK,401958,4448855,9
+USA,US,436938,32574504,1.3
+US Jungferninseln,VI,0,3267,0
+Uruguay,UY,194,235206,0.1
+Usbekistan,UZ,28,96670,0
+Vanuatu,VU,0,3,0
+Venezuela,VE,113,212998,0.1
+Vietnam,VN,122,4112,3
+Wallis and Futuna,WF,0,454,0
+Palästina,PS,128,332499,0
+Jemen,YE,0,6542,0
+Sambia,ZM,221,92409,0.2
+Simbabwe,ZW,398,38554,1

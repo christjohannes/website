@@ -1,0 +1,599 @@
+land,country,name,id,nuts,2020-04-05,2020-04-12,2020-04-19,2020-04-26,2020-05-03,2020-05-10,2020-05-17,2020-05-24,2020-05-31,2020-06-07,2020-06-14,2020-06-21,2020-06-28,2020-07-05,2020-07-12,2020-07-19,2020-07-26,2020-08-02,2020-08-09,2020-08-16,2020-08-23,2020-08-30,2020-09-06,2020-09-13,2020-09-20,2020-09-27,2020-10-04,2020-10-11,2020-10-18,2020-10-25,2020-11-01,2020-11-08,2020-11-15,2020-11-22,2020-11-29,2020-12-06,2020-12-13,2020-12-20,2020-12-27,2021-01-04,2021-01-10,2021-01-17,2021-01-24
+Österreich,Austria,Burgenland,AT,AT11,39,37,28,14,6,4,3,3,1,1,0,2,3,5,7,9,11,11,8,7,16,24,28,35,53,73,90,125,153,287,522,752,943,826,625,447,296,272,220,252,280,239,213
+Österreich,Austria,Niederösterreich,AT,AT12,63,62,34,9,9,7,9,9,4,2,3,4,5,5,5,11,15,12,10,15,21,24,33,61,85,100,108,128,171,276,444,665,788,732,603,454,389,338,288,311,313,273,231
+Österreich,Austria,Wien,AT,AT13,46,52,28,17,17,17,20,20,17,16,16,15,16,20,23,25,32,34,37,59,88,97,117,185,221,232,243,283,323,406,511,583,815,804,538,413,381,326,237,239,264,231,188
+Österreich,Austria,Kärnten,AT,AT21,24,25,15,4,2,0,0,0,1,0,1,2,2,2,3,3,2,4,8,21,22,10,7,13,23,37,40,68,98,153,310,565,1077,1237,1021,798,615,535,385,348,362,301,230
+Österreich,Austria,Steiermark,AT,AT22,49,54,29,12,9,4,4,2,1,1,0,1,3,5,6,8,10,8,6,11,17,23,25,34,48,48,45,63,119,257,457,759,923,839,731,593,503,404,286,288,300,243,203
+Österreich,Austria,Oberösterreich,AT,AT31,61,45,18,5,3,1,2,2,1,2,2,3,13,31,37,35,35,27,19,29,41,38,35,48,67,76,88,132,198,400,709,1178,1474,1326,1056,698,525,449,319,304,296,234,192
+Österreich,Austria,Salzburg,AT,AT32,88,60,23,6,1,0,1,1,0,0,1,4,6,5,8,12,12,14,17,26,31,25,22,32,54,70,79,155,310,501,675,970,1330,1366,1095,776,648,539,435,589,650,481,394
+Österreich,Austria,Tirol,AT,AT33,148,180,92,18,10,3,3,2,1,1,1,1,2,4,5,7,11,9,5,27,45,51,67,109,136,122,124,197,306,494,739,1153,1438,1340,1043,692,544,430,293,345,344,218,195
+Österreich,Austria,Vorarlberg,AT,AT34,79,62,30,5,3,3,3,5,3,2,2,0,1,1,1,2,8,10,8,16,21,22,41,95,130,108,109,149,267,535,823,1231,1515,1242,797,594,483,380,339,372,366,253,203
+Belgien,Belgium,Brussels,BE,BE1,124,192,166,124,79,48,40,28,24,21,20,17,8,10,18,20,25,56,97,126,147,142,147,177,282,396,516,864,1350,1993,2152,1425,738,446,300,221,190,190,179,155,222,285,264
+Belgien,Belgium,Flanders,BE,BE2,117,201,184,101,67,55,47,35,27,18,14,12,10,9,13,22,40,62,74,65,52,46,48,69,109,141,167,290,546,938,1126,864,559,396,300,270,290,319,285,223,226,245,260
+Belgien,Belgium,Région Wallone,BE,BE3,111,187,214,156,86,45,38,27,21,14,11,10,7,3,7,13,21,38,54,61,55,45,44,64,139,211,303,697,1413,2353,2874,2180,1184,666,423,322,273,286,248,190,199,224,223
+Bulgarien,Bulgaria,Widin,BG,BG311,keine Daten,keine Daten,29,77,138,99,21,19,13,6,7,27,24,keine Daten,7,12,12,12,14,9,12,9,7,6,1,5,27,34,19,46,113,317,454,386,348,316,288,283,206,163,154,103,61
+Bulgarien,Bulgaria,Montana,BG,BG312,keine Daten,keine Daten,-4,-2,5,5,2,1,0,0,1,1,2,keine Daten,9,-5,4,23,11,4,8,19,26,33,31,36,54,85,127,212,310,508,610,618,561,420,390,282,143,118,128,83,43
+Bulgarien,Bulgaria,Wraza,BG,BG313,keine Daten,keine Daten,1,2,5,5,2,2,2,0,1,2,8,keine Daten,17,17,12,16,18,8,5,5,2,7,13,18,25,45,98,200,309,452,557,560,586,602,620,546,337,253,247,167,118
+Bulgarien,Bulgaria,Plewen,BG,BG314,keine Daten,0,12,52,56,25,15,10,4,4,18,20,11,keine Daten,32,22,12,22,22,22,13,8,3,3,9,10,15,23,67,139,194,317,463,564,549,464,454,401,273,211,204,155,123
+Bulgarien,Bulgaria,Lowetsch,BG,BG315,keine Daten,2,0,0,0,0,0,2,2,2,6,6,4,keine Daten,10,14,6,4,9,11,10,6,4,3,4,11,18,28,79,141,199,287,365,408,416,372,383,377,251,188,148,81,66
+Bulgarien,Bulgaria,Weliko Tarnowo,BG,BG321,keine Daten,keine Daten,3,5,6,1,0,2,1,0,1,2,4,keine Daten,45,67,40,19,14,16,10,6,4,6,9,11,17,38,64,106,141,250,393,421,433,461,460,368,193,120,120,72,51
+Bulgarien,Bulgaria,Gabrowo,BG,BG322,0,1,1,2,4,2,1,2,1,1,6,6,3,keine Daten,16,31,72,77,45,33,11,2,2,7,20,65,90,74,156,293,437,712,1046,1098,1017,863,586,442,246,98,116,94,48
+Bulgarien,Bulgaria,Russe,BG,BG323,keine Daten,keine Daten,1,3,5,1,1,1,0,0,0,0,5,keine Daten,25,35,38,63,47,15,19,19,26,28,14,18,24,36,93,232,411,619,796,810,755,704,655,553,356,228,187,121,88
+Bulgarien,Bulgaria,Rasgrad,BG,BG324,keine Daten,0,0,0,1,4,11,9,5,17,22,13,22,keine Daten,43,32,13,11,26,27,9,8,15,13,6,10,25,75,136,216,321,416,449,393,335,285,289,294,168,83,72,53,50
+Bulgarien,Bulgaria,Silistra,BG,BG325,keine Daten,keine Daten,0,3,3,1,1,0,0,-1,-1,0,0,keine Daten,8,14,20,25,28,51,50,34,37,27,17,27,33,33,49,63,122,255,498,691,621,526,459,329,195,165,164,140,108
+Bulgarien,Bulgaria,Varna,BG,BG331,keine Daten,3,0,0,0,0,0,0,0,0,0,3,12,keine Daten,45,71,76,88,86,62,35,24,27,28,25,25,36,65,94,169,285,455,613,711,753,740,727,578,337,239,215,129,76
+Bulgarien,Bulgaria,Dobritsch,BG,BG332,3,3,1,0,0,0,0,0,0,1,3,3,1,keine Daten,33,63,89,134,150,121,105,79,42,33,21,22,32,56,66,64,92,146,235,414,470,379,380,341,260,207,156,114,64
+Bulgarien,Bulgaria,Schumen,BG,BG333,keine Daten,keine Daten,0,0,0,0,0,2,5,12,52,50,20,keine Daten,24,17,8,4,15,34,37,27,19,19,19,23,43,79,172,331,419,480,516,500,443,416,403,318,219,191,184,126,114
+Bulgarien,Bulgaria,Targowischte,BG,BG334,keine Daten,0,0,0,0,1,1,0,0,0,5,6,4,keine Daten,12,13,5,5,12,11,20,23,16,18,24,83,133,142,323,496,457,396,348,281,236,198,178,170,163,133,93,64,33
+Bulgarien,Bulgaria,Burgas,BG,BG341,4,4,3,5,2,1,1,0,0,1,1,2,14,keine Daten,31,34,28,20,15,13,11,10,24,37,29,55,71,69,118,166,194,318,504,590,636,711,753,576,278,159,180,162,124
+Bulgarien,Bulgaria,Sliwen,BG,BG342,keine Daten,5,8,17,18,8,9,12,16,32,48,44,38,keine Daten,62,54,25,22,20,17,8,4,12,22,18,21,36,96,208,241,213,321,399,448,593,639,670,576,306,185,170,130,128
+Bulgarien,Bulgaria,Jambol,BG,BG343,keine Daten,keine Daten,3,8,26,54,59,53,42,22,13,13,14,keine Daten,24,26,32,33,29,24,33,39,24,38,44,62,80,79,90,138,177,301,492,521,776,876,660,521,299,195,164,93,59
+Bulgarien,Bulgaria,Stara Sagora,BG,BG344,keine Daten,keine Daten,8,4,2,1,-4,0,4,0,15,19,9,keine Daten,25,28,25,27,20,24,26,23,28,37,38,47,62,78,125,196,263,412,548,667,755,711,617,443,223,149,157,113,94
+Bulgarien,Bulgaria,Sofia,BG,BG412X,keine Daten,19,15,15,13,10,13,11,7,1,6,17,23,keine Daten,81,102,61,42,35,29,20,18,21,24,22,31,92,143,205,417,657,948,1053,912,759,597,503,363,212,163,158,127,105
+Bulgarien,Bulgaria,Blagoewgrad,BG,BG413,-17,5,1,8,14,15,10,13,12,6,7,8,12,keine Daten,53,74,92,112,123,121,88,74,88,108,90,107,114,153,228,303,403,584,732,703,586,533,486,345,198,119,124,114,79
+Bulgarien,Bulgaria,Pernik,BG,BG414,keine Daten,0,0,2,9,10,7,3,1,13,13,7,12,keine Daten,27,36,35,34,36,28,17,14,8,12,12,21,34,52,98,215,394,616,708,740,733,596,556,473,290,225,216,148,97
+Bulgarien,Bulgaria,Kjustendil,BG,BG415,keine Daten,keine Daten,13,37,45,18,11,7,2,3,21,66,108,keine Daten,165,150,87,71,42,21,23,25,19,13,12,19,27,33,58,153,278,578,965,1091,1014,853,647,431,239,175,180,146,169
+Bulgarien,Bulgaria,Plowdiw,BG,BG421,keine Daten,4,1,4,6,3,2,1,0,1,3,6,12,keine Daten,53,68,51,43,45,46,28,22,22,21,20,27,41,79,144,234,314,462,620,675,649,581,543,409,220,151,137,97,80
+Bulgarien,Bulgaria,Chaskowo,BG,BG422,1,4,5,10,13,5,0,0,1,1,4,4,1,keine Daten,5,4,7,19,13,18,28,22,24,22,13,11,14,35,57,92,149,210,304,371,411,419,399,365,238,145,158,142,104
+Bulgarien,Bulgaria,Pasardschik,BG,BG423,keine Daten,3,0,4,18,14,9,22,21,12,16,19,33,keine Daten,73,42,34,54,35,39,32,36,37,29,22,36,41,43,69,122,173,252,387,466,444,433,410,306,195,138,120,101,106
+Bulgarien,Bulgaria,Smoljan,BG,BG424,-154,20,18,7,5,5,4,5,1,2,43,60,181,keine Daten,269,36,53,147,65,79,66,58,57,42,28,48,54,67,110,142,177,254,280,225,238,284,278,216,151,120,99,65,53
+Bulgarien,Bulgaria,Kardschali,BG,BG425,keine Daten,keine Daten,3,0,0,1,1,0,0,2,16,18,13,keine Daten,29,27,20,25,17,14,16,15,31,51,31,17,56,93,118,226,276,226,175,131,109,126,162,148,106,87,113,107,78
+Kroatien,Croatia,Primorsko-goranska županija,HR,HR031,keine Daten,keine Daten,keine Daten,1,0,0,0,0,0,0,0,1,7,11,7,9,13,6,5,15,30,49,59,52,42,63,78,73,118,313,482,615,735,914,1132,1227,1430,1396,1041,674,488,379,215
+Kroatien,Croatia,Licko-senjska županija,HR,HR032,keine Daten,keine Daten,keine Daten,13,0,0,0,0,0,0,0,0,0,9,16,7,0,0,11,29,56,74,103,98,129,141,170,201,328,517,459,408,562,1075,1461,1423,1452,1200,696,381,270,207,116
+Kroatien,Croatia,Zadarska županija,HR,HR033,keine Daten,keine Daten,keine Daten,7,2,1,1,0,0,0,0,2,8,14,32,33,12,9,12,39,104,130,128,118,80,48,40,53,89,165,243,324,417,717,1038,1045,1053,981,627,356,293,266,213
+Kroatien,Croatia,Šibensko-kninska županija,HR,HR034,keine Daten,keine Daten,keine Daten,9,7,2,2,1,0,0,0,2,4,13,27,25,25,21,10,79,192,191,134,97,64,40,33,45,110,256,371,422,493,702,983,1100,1377,1361,892,544,372,321,279
+Kroatien,Croatia,Splitsko-dalmatinska županija,HR,HR035,keine Daten,keine Daten,keine Daten,23,16,17,11,1,0,0,0,4,8,10,21,26,36,43,42,89,216,283,253,196,141,117,100,139,237,457,595,670,795,968,1208,1186,1159,1094,727,462,412,346,247
+Kroatien,Croatia,Istarska županija,HR,HR036,keine Daten,keine Daten,keine Daten,2,0,0,1,0,0,0,0,2,4,3,22,33,52,44,7,12,44,52,35,27,13,10,12,13,48,203,276,364,480,523,610,568,549,517,395,257,212,177,72
+Kroatien,Croatia,Dubrovacko-neretvanska županija,HR,HR037,keine Daten,keine Daten,keine Daten,10,5,5,2,0,0,0,0,3,7,17,30,27,17,12,12,26,73,116,180,177,98,70,112,156,216,396,562,612,587,635,680,503,431,399,255,175,163,198,159
+Kroatien,Croatia,Grad Zagreb,HR,HR050,keine Daten,keine Daten,keine Daten,5,2,1,1,1,0,0,1,8,28,34,34,31,23,20,22,52,88,101,92,73,59,56,78,175,375,711,897,896,855,944,990,855,876,804,537,320,263,221,161
+Kroatien,Croatia,Zagrebacka Zupanija,HR,HR065,keine Daten,keine Daten,keine Daten,4,2,0,0,0,0,0,0,3,12,14,13,14,13,8,6,22,43,53,56,48,47,55,64,120,243,470,644,754,769,940,1179,843,1068,1456,982,518,450,412,241
+Kroatien,Croatia,Krapinsko-Zagorska Zupanija,HR,HR064,keine Daten,keine Daten,keine Daten,18,6,0,0,0,0,0,0,1,2,2,7,6,6,6,2,10,19,33,45,49,71,91,135,237,470,857,1019,1016,978,1170,1550,1646,1624,1228,672,371,272,226,115
+Kroatien,Croatia,Varazdinska Zupanija,HR,HR062,keine Daten,keine Daten,keine Daten,9,7,1,0,0,0,0,0,0,2,4,5,4,5,7,5,11,40,43,26,24,13,11,26,90,236,509,856,1386,1690,1933,2248,2086,1820,1459,875,522,480,387,248
+Kroatien,Croatia,Koprivnicko-Krizevacka Zupanija,HR,HR063,keine Daten,keine Daten,keine Daten,38,21,17,16,5,3,2,2,1,4,3,1,3,5,3,2,3,24,40,49,43,18,26,43,49,108,260,368,464,643,1014,1287,1415,1502,1235,764,397,309,279,203
+Kroatien,Croatia,Medimurska Zupanija,HR,HR061,keine Daten,keine Daten,keine Daten,0,0,0,0,0,0,0,0,1,3,3,1,0,1,1,1,10,26,30,26,24,52,72,95,191,382,738,1064,1315,1419,1621,2015,2099,2037,1707,1148,748,628,526,322
+Kroatien,Croatia,Bjelovarsko-Bilogorska Zupanija,HR,HR021,keine Daten,keine Daten,keine Daten,0,0,0,0,0,0,0,0,1,2,3,3,1,13,20,7,6,15,19,65,103,85,71,70,105,188,402,531,450,446,617,790,952,1208,1267,941,566,431,373,236
+Kroatien,Croatia,Viroviticko-Podravska Zupanija,HR,HR022,keine Daten,keine Daten,keine Daten,7,3,3,0,0,0,0,0,0,3,4,13,17,12,11,5,8,24,48,71,115,111,86,95,160,309,447,503,527,523,648,963,972,910,931,655,421,403,335,215
+Kroatien,Croatia,Pozesko-Slavonska Zupanija,HR,HR023,keine Daten,keine Daten,keine Daten,0,0,3,7,4,0,0,0,0,15,95,103,25,10,7,6,24,52,121,160,163,179,188,145,122,167,255,277,324,410,552,728,779,847,806,542,307,251,209,134
+Kroatien,Croatia,Brodsko-Posavska Zupanija,HR,HR024,keine Daten,keine Daten,keine Daten,3,0,7,12,8,4,1,0,1,6,27,55,46,19,14,22,46,105,125,100,102,101,63,30,45,111,308,612,858,889,961,1099,1081,1119,981,626,463,434,354,251
+Kroatien,Croatia,Osjecko-Baranjska Zupanija,HR,HR025,keine Daten,keine Daten,keine Daten,7,6,5,2,1,1,0,0,10,58,78,68,53,31,29,25,34,48,42,33,40,42,38,54,110,257,507,671,726,754,967,1127,1060,1125,1086,764,430,318,256,146
+Kroatien,Croatia,Vukovarsko-Srijemska Zupanija,HR,HR026,keine Daten,keine Daten,keine Daten,3,1,0,0,1,1,0,0,1,9,29,57,102,158,142,89,69,52,47,50,59,52,71,139,196,258,399,540,700,760,752,870,889,874,761,451,255,212,182,132
+Kroatien,Croatia,Karlovacka Zupanija,HR,HR027,keine Daten,keine Daten,keine Daten,2,1,0,1,1,0,0,0,0,9,17,34,28,12,14,12,30,51,35,32,46,81,105,92,137,258,454,532,534,580,702,1114,1274,1178,1110,834,516,404,316,158
+Kroatien,Croatia,Sisacko-Moslavacka Zupanija,HR,HR028,keine Daten,keine Daten,keine Daten,3,0,1,1,0,0,0,0,1,6,14,23,16,14,14,4,16,34,48,55,42,20,16,107,174,194,383,526,547,537,721,1043,1215,1467,1360,961,578,447,507,354
+Zypern,Cyprus,Kýpros,CY,CY0,34,55,39,14,11,7,4,4,4,4,4,2,1,2,3,4,4,16,25,20,22,15,4,6,12,20,29,31,110,209,219,260,288,325,374,400,558,634,480,758,911,513,286
+Tschechien,Czechia,Ústecký kraj,CZ,CZ042,keine Daten,35,19,10,4,3,4,4,4,4,1,1,1,1,1,2,9,12,12,13,13,20,33,67,140,199,247,415,735,1245,1469,1342,1072,726,545,502,568,712,795,976,1233,1026,722
+Tschechien,Czechia,Liberecký kraj,CZ,CZ051,keine Daten,24,9,2,1,0,1,1,0,0,1,10,13,13,12,12,19,19,18,14,14,27,45,92,200,252,342,615,1024,1518,1551,1456,1304,860,617,580,701,943,1058,1247,1665,1620,1239
+Tschechien,Czechia,Královéhradecký kraj,CZ,CZ052,keine Daten,15,7,1,1,2,2,1,1,1,1,2,3,3,4,5,8,15,19,20,25,29,47,107,164,184,251,477,977,1724,1871,1545,1195,775,604,537,635,886,1152,1634,2242,2125,1791
+Tschechien,Czechia,Kraj Vysocina,CZ,CZ063,keine Daten,12,6,2,2,1,1,1,1,0,0,1,1,4,7,8,30,36,18,22,42,48,68,119,188,266,345,618,1025,1412,1553,1686,1653,1155,847,703,640,785,889,1083,1403,1227,800
+Tschechien,Czechia,Jihomoravský kraj,CZ,CZ064,keine Daten,16,10,7,5,4,5,3,5,5,4,4,4,4,4,11,17,20,22,21,29,43,68,117,181,226,314,538,856,1245,1209,1098,1000,641,488,457,520,657,731,909,1241,1151,823
+Tschechien,Czechia,Olomoucký kraj,CZ,CZ071,keine Daten,53,37,14,7,5,5,3,3,14,15,8,10,6,6,8,8,17,17,11,21,27,35,74,139,236,356,571,1103,1721,1641,1398,1159,696,517,510,621,796,839,1035,1362,1213,891
+Tschechien,Czechia,Pardubický kraj,CZ,CZ053,keine Daten,31,15,6,4,2,2,2,1,1,1,3,5,3,3,4,14,22,19,25,38,41,62,136,203,229,267,484,850,1352,1575,1521,1349,974,721,580,655,871,970,1305,1764,1553,1125
+Tschechien,Czechia,Hlavní mesto Praha,CZ,CZ010,keine Daten,55,38,16,10,11,16,16,13,13,14,16,13,12,14,21,43,57,57,66,77,98,159,270,428,483,530,749,1069,1368,1171,734,541,416,346,361,440,656,869,1122,1320,1041,747
+Tschechien,Czechia,Stredoceský kraj,CZ,CZ020,keine Daten,30,20,8,6,5,8,7,3,3,6,6,5,9,9,12,25,30,32,35,37,50,90,171,283,347,405,644,1027,1473,1493,1211,939,642,528,514,624,818,948,1243,1558,1316,980
+Tschechien,Czechia,Jihoceský kraj,CZ,CZ031,keine Daten,11,7,3,2,1,1,0,1,2,1,0,2,2,2,5,12,20,21,19,29,36,59,102,171,210,286,555,1012,1532,1665,1637,1379,800,515,463,487,572,687,887,1182,1132,834
+Tschechien,Czechia,Plzenský kraj,CZ,CZ032,keine Daten,66,54,16,9,6,6,5,2,1,1,1,2,2,1,2,6,10,19,33,35,34,59,127,223,269,346,600,1154,1737,1567,1111,879,639,503,477,524,707,850,938,1139,1074,920
+Tschechien,Czechia,Karlovarský kraj,CZ,CZ041,keine Daten,41,39,47,47,25,9,8,6,8,11,5,4,-4,-6,1,1,8,11,6,12,23,57,126,197,210,222,327,645,987,1015,1034,930,604,392,394,454,597,688,868,1355,1448,1503
+Tschechien,Czechia,Moravskoslezský kraj,CZ,CZ080,keine Daten,37,35,22,19,12,13,32,29,20,20,28,93,113,68,56,53,45,43,39,34,33,36,63,124,168,267,515,816,1225,1361,1337,1159,736,572,589,727,1062,1283,1550,1915,1585,988
+Tschechien,Czechia,Zlínský kraj,CZ,CZ072,keine Daten,23,17,11,6,2,3,5,4,1,1,1,1,1,6,13,14,14,16,25,27,26,38,101,209,294,427,754,1344,2028,1992,1724,1387,847,686,628,729,997,1117,1354,1728,1415,892
+Dänemark,Denmark,Nordjylland,DK,DK05,25,33,18,9,10,7,2,2,2,0,7,13,14,11,6,4,3,7,10,15,17,16,20,49,95,107,95,97,107,170,253,239,181,142,107,116,234,400,466,440,371,266,190
+Dänemark,Denmark,Hovedstaden,DK,DK01,75,130,109,73,68,55,38,30,27,20,18,21,17,7,7,15,17,17,18,25,26,24,51,103,163,196,163,122,131,212,321,370,370,397,465,633,999,1259,1124,811,572,413,293
+Dänemark,Denmark,Midtjylland,DK,DK04,28,51,42,26,20,11,5,3,2,1,2,2,3,2,1,2,3,12,48,70,49,28,22,28,46,77,100,111,110,139,188,199,222,252,246,285,455,605,534,431,370,229,126
+Dänemark,Denmark,Sjælland,DK,DK02,35,68,72,56,45,38,28,17,13,13,10,10,8,2,3,8,11,20,27,20,14,12,19,43,64,91,97,68,62,99,161,215,229,219,238,335,558,796,766,593,488,349,240
+Dänemark,Denmark,Syddanmark,DK,DK03,26,35,22,9,6,4,6,6,3,2,2,1,1,1,1,2,3,6,9,11,13,15,27,46,58,69,69,61,73,111,151,165,167,209,229,223,291,413,428,346,289,212,153
+Estland,Estonia,Järva Maakond,EE,EEG11215,keine Daten,keine Daten,13,7,7,3,0,0,0,0,0,0,0,3,3,-7,-7,3,7,3,0,0,0,0,3,13,10,0,0,0,13,53,80,99,96,89,89,209,408,481,414,355,268
+Estland,Estonia,Harju Maakond,EE,EEG11212,keine Daten,keine Daten,31,22,11,6,6,9,10,13,11,3,2,2,2,1,0,2,3,4,8,13,23,30,31,50,58,43,36,51,90,171,274,354,384,413,518,707,724,722,803,704,553
+Estland,Estonia,Lääne Maakond,EE,EEG11218,keine Daten,keine Daten,0,0,10,10,20,34,15,5,0,-5,0,0,5,5,0,0,0,0,0,0,0,5,10,29,29,20,15,5,24,54,73,132,176,166,181,220,166,161,215,279,274
+Estland,Estonia,Jõgeva Maakond,EE,EEG11216,keine Daten,keine Daten,4,0,0,0,0,7,7,0,0,0,0,0,0,0,0,4,7,7,7,11,18,14,4,14,18,42,109,105,46,25,42,98,141,148,155,158,151,137,190,260,316
+Estland,Estonia,Hiiu Maakond,EE,EEG11213,keine Daten,keine Daten,21,43,32,11,0,0,0,0,0,0,-11,-11,0,0,0,0,0,0,11,11,0,0,0,32,32,21,32,21,86,354,440,247,150,172,247,301,397,633,666,623,408
+Estland,Estonia,Ida-Viru Maakond,EE,EEG11214,keine Daten,keine Daten,22,28,21,4,5,1,6,14,11,4,3,5,6,4,5,9,6,5,49,77,45,49,97,127,133,139,114,95,110,241,456,606,765,954,1050,1114,975,807,918,961,832
+Estland,Estonia,Saare Maakond,EE,EEG11222,keine Daten,keine Daten,263,121,70,15,15,12,3,0,0,0,0,0,0,6,6,0,3,6,3,6,6,6,9,24,36,21,9,12,21,18,33,66,76,85,94,109,154,178,199,206,151
+Estland,Estonia,Tartu Maakond,EE,EEG11223,keine Daten,keine Daten,22,10,5,3,3,3,-1,1,2,1,-6,-6,1,1,4,24,42,27,8,2,4,10,10,7,7,10,15,15,13,32,85,168,274,327,290,288,255,271,320,322,367
+Estland,Estonia,Valga Maakond,EE,EEG11224,keine Daten,keine Daten,4,7,7,0,0,0,0,4,4,0,4,4,0,0,0,0,4,4,0,0,0,0,0,11,14,4,4,18,25,28,64,121,149,131,113,121,191,319,425,620,681
+Estland,Estonia,Viljandi Maakond,EE,EEG11225,keine Daten,keine Daten,11,6,2,0,0,0,2,4,2,0,0,0,0,0,0,0,2,2,0,2,6,4,2,11,17,17,9,2,6,24,67,119,156,208,169,119,132,175,256,277,217
+Estland,Estonia,Võru Maakond,EE,EEG11226,keine Daten,keine Daten,31,20,6,8,6,3,6,3,0,0,0,0,0,0,0,0,3,6,8,6,48,59,25,93,110,42,17,11,17,28,34,54,158,254,322,325,268,356,418,500,531
+Estland,Estonia,Pärnu Maakond,EE,EEG11219,keine Daten,keine Daten,35,16,28,30,19,17,12,5,1,0,0,0,1,0,-1,0,0,1,2,1,7,8,2,7,9,6,10,23,27,52,95,121,122,102,146,306,338,318,480,629,635
+Estland,Estonia,Põlva Maakond,EE,EEG11220,keine Daten,keine Daten,8,0,-4,-4,0,0,0,0,8,0,-8,0,0,0,0,0,4,12,8,0,0,0,4,8,24,20,4,8,12,32,57,105,195,276,239,203,195,162,191,211,231
+Estland,Estonia,Lääne-Viru Maakond,EE,EEG11217,keine Daten,keine Daten,0,2,2,0,0,0,0,7,7,0,0,0,0,0,0,2,3,2,3,8,7,8,12,12,12,8,5,5,20,49,78,107,117,161,209,243,348,437,450,389,257
+Estland,Estonia,Rapla Maakond,EE,EEG11221,keine Daten,keine Daten,15,6,0,0,0,3,3,0,3,3,-3,-3,0,0,0,6,6,0,0,0,6,6,12,27,21,6,0,99,141,174,201,123,129,174,294,526,454,264,270,315,340
+Finnland,Finland,Päijät-Häme,FI,FI1C3,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,6,12,9,3,2,0,0,0,0,1,4,4,0,1,3,2,0,10,30,34,20,10,7,13,15,13,17,23,71,141,135,110,85,51,48,43,43,40
+Finnland,Finland,Pohjois-Karjala,FI,FI1D3,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,0,0,0,0,0,0,1,2,1,1,1,0,0,0,0,2,0,1,3,1,17,30,25,17,7,5,10,14,39,66,47,42,47,31,34,33,23,33
+Finnland,Finland,Kymenlaakso,FI,FI1C4,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,2,2,2,0,1,1,1,2,2,1,0,2,2,0,2,2,0,2,9,12,11,10,5,13,38,50,39,30,42,62,70,61,40,28,47,70,63,64
+Finnland,Finland,Etelä-Karjala,FI,FI1C5,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,3,2,1,5,4,1,0,-1,0,0,0,0,0,0,2,2,2,1,0,1,10,15,12,12,14,19,21,16,19,30,39,34,37,35,29,30,20,17
+Finnland,Finland,Åland,FI,FI2,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,0,0,3,7,13,17,7,3,3,3,3,0,0,0,0,0,3,3,0,0,3,3,13,20,30,34,20,13,7,17,13,30,70,131,121,30,34,40
+Finnland,Finland,Satakunta,FI,FI196,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,1,0,0,0,0,1,3,2,0,1,3,5,6,5,2,1,0,1,1,1,3,4,6,9,11,9,9,12,16,38,54,42,23,14,13,11,12,22
+Finnland,Finland,Pirkanmaa,FI,FI197,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,6,4,2,2,1,0,0,0,0,0,0,0,0,1,1,2,2,6,11,14,20,19,22,33,32,28,24,17,44,82,69,79,74,37,34,30,42,52
+Finnland,Finland,Helsinki-Uusimaa,FI,FI1B1,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,54,41,35,25,17,11,6,5,4,2,3,4,4,8,13,14,12,14,17,20,42,60,73,94,94,83,93,114,159,201,197,188,166,128,113,114,105,127
+Finnland,Finland,Varsinais-Suomi,FI,FI1C1,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,9,6,7,6,2,1,1,3,5,1,1,3,3,6,11,12,10,2,1,9,10,19,31,34,41,54,61,60,53,66,105,162,186,147,109,90,88,101
+Finnland,Finland,Kanta-Häme,FI,FI1C2,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,13,9,4,2,1,1,1,2,1,1,1,0,1,1,2,4,2,2,7,17,15,18,32,36,34,32,25,12,27,46,41,74,80,42,34,44,46,40
+Finnland,Finland,Keski-Pohjanmaa,FI,FI1D5,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,6,7,1,10,13,3,0,0,0,1,1,0,0,0,0,0,0,0,9,12,9,20,34,26,13,15,16,25,31,34,32,16,6,7,10,9,12,16
+Finnland,Finland,Lappi,FI,FI1D7,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,17,12,4,1,1,0,1,2,2,3,2,1,1,2,2,4,4,1,2,3,4,17,26,21,20,45,82,77,53,38,30,31,29,25,30,38,31,32
+Finnland,Finland,Etelä-Savo,FI,FI1D1,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,1,2,6,4,-1,1,1,0,0,-1,0,1,1,1,0,1,1,15,24,25,24,19,20,14,10,12,10,53,68,37,89,113,77,46,19,15,20,24
+Finnland,Finland,Pohjois-Savo,FI,FI1D2,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,3,2,1,0,1,0,0,0,0,1,1,0,0,0,0,2,3,2,2,5,14,16,8,11,25,23,22,20,24,33,26,24,20,15,17,18,38,79
+Finnland,Finland,Pohjanmaa,FI,FI195,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,2,1,1,1,1,1,1,0,0,1,2,1,0,1,4,4,2,2,2,3,9,72,305,360,159,72,55,34,37,25,7,45,80,52,33,61,75,68
+Finnland,Finland,Kainuu,FI,FI1D8,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,4,3,3,-1,-3,0,0,0,0,1,1,0,0,1,1,0,18,29,14,3,1,14,12,7,8,3,11,18,19,33,26,10,26,23,7,30,37,16
+Finnland,Finland,Pohjois-Pohjanmaa,FI,FI1D9,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,2,1,1,0,0,0,0,1,0,1,2,0,1,2,2,2,3,5,5,2,4,8,11,15,29,37,34,31,43,105,129,87,52,29,43,68,66,65
+Finnland,Finland,Keski-Suomi,FI,FI193,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,1,1,1,1,1,1,1,0,0,0,0,1,1,1,3,6,9,15,26,38,45,32,34,68,61,29,18,11,30,61,54,68,81,51,48,43,25,36
+Finnland,Finland,Etelä-Pohjanmaa,FI,FI194,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,3,4,2,1,1,0,0,0,0,0,1,1,1,0,2,3,3,3,3,2,4,18,28,22,12,9,10,13,30,61,61,43,26,9,9,11,24,24
+Frankreich,France,Pays de la Loire,FR,FRG,keine Daten,keine Daten,keine Daten,keine Daten,10,7,5,9,12,10,8,6,5,8,13,18,29,31,27,36,48,55,71,96,108,117,130,172,258,415,562,626,536,330,189,142,158,173,168,169,215,252,290
+Frankreich,France,Alsace-Champagne-Ardenne-Lorraine,FR,FRF,keine Daten,keine Daten,keine Daten,keine Daten,45,32,21,19,18,16,15,13,10,6,5,9,12,14,18,22,31,47,58,71,86,85,85,138,250,474,722,837,695,445,306,260,314,401,427,412,460,455,424
+Frankreich,France,Centre – Val de Loire,FR,FRB,keine Daten,keine Daten,keine Daten,keine Daten,29,20,14,14,13,8,5,5,5,5,5,4,7,14,18,29,46,58,70,87,107,115,121,170,260,454,628,670,565,371,241,196,217,248,241,229,298,352,370
+Frankreich,France,Ile-de-France,FR,FR1,keine Daten,keine Daten,keine Daten,keine Daten,61,35,22,17,18,15,12,12,12,13,14,18,25,39,59,81,112,161,192,202,239,295,361,505,655,789,900,830,580,345,220,189,218,249,253,250,316,377,402
+Frankreich,France,La Réunion,FR,FRY4,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,46,38,55,59,65
+Frankreich,France,Bourgogne-Franche-Comté,FR,FRC,keine Daten,keine Daten,keine Daten,keine Daten,32,23,14,9,8,6,5,4,4,4,5,6,6,8,10,16,30,51,69,89,110,123,132,177,310,578,826,1001,927,616,399,330,373,448,457,445,529,539,492
+Frankreich,France,Normandie,FR,FRD,keine Daten,keine Daten,keine Daten,keine Daten,15,9,7,6,4,3,3,6,8,8,7,6,6,7,10,15,23,43,70,94,127,153,163,223,320,457,589,634,515,336,222,148,155,189,195,206,279,340,363
+Frankreich,France,Nord-Pas de Calais-Picardie,FR,FRE,keine Daten,keine Daten,keine Daten,keine Daten,36,23,14,14,17,15,12,10,9,10,10,11,16,23,28,32,37,47,96,170,236,273,287,378,571,854,1072,1084,826,491,302,226,236,262,262,249,310,379,403
+Frankreich,France,Corse,FR,FRM,keine Daten,keine Daten,keine Daten,keine Daten,9,5,4,6,5,4,4,3,2,2,3,7,6,3,8,10,16,72,149,181,157,119,97,134,300,483,602,610,408,179,80,62,58,44,56,101,151,173,181
+Frankreich,France,Mayotte,FR,FRY5,keine Daten,keine Daten,keine Daten,keine Daten,28,36,33,18,121,181,119,99,97,86,53,53,55,32,45,65,66,65,72,85,84,79,63,72,105,120,112,138,168,134,99,111,122,105,101,101,133,245,417
+Frankreich,France,Bretagne,FR,FRH,keine Daten,keine Daten,keine Daten,keine Daten,6,4,5,9,8,4,2,1,2,2,4,10,14,15,20,22,28,39,59,84,107,121,120,137,193,289,365,405,347,206,112,81,86,98,94,96,139,181,197
+Frankreich,France,Aquitaine-Limousin-Poitou-Charentes,FR,FRI,keine Daten,keine Daten,keine Daten,keine Daten,8,5,4,6,7,4,2,2,2,2,3,4,6,6,7,15,42,81,117,141,153,149,135,152,209,342,482,537,460,299,191,161,169,171,155,156,226,285,312
+Frankreich,France,La Réunion,FR,FRY4,keine Daten,keine Daten,keine Daten,keine Daten,1,2,2,2,3,3,3,2,3,5,8,9,7,6,8,32,71,98,130,145,133,125,108,85,76,96,125,146,149,138,108,71,58,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten
+Frankreich,France,Guadeloupe,FR,FRY1,keine Daten,keine Daten,keine Daten,keine Daten,2,1,0,2,3,2,3,3,3,2,3,4,6,17,25,46,117,219,365,470,527,558,469,344,244,167,140,121,81,57,45,31,24,30,36,40,56,60,56
+Frankreich,France,Martinique,FR,FRY2,keine Daten,keine Daten,keine Daten,keine Daten,2,1,1,2,2,3,6,7,5,4,3,3,4,6,22,50,77,79,89,103,94,118,156,207,267,349,384,318,236,155,84,43,32,42,37,34,46,44,41
+Frankreich,France,Guyane,FR,FRY3,keine Daten,keine Daten,keine Daten,keine Daten,3,3,2,10,30,50,128,429,803,945,793,562,488,414,300,245,208,183,170,153,128,124,128,106,80,86,87,89,107,118,122,148,219,317,325,305,458,576,509
+Frankreich,France,Provence-Alpes-Côte d'Azur,FR,FRL,keine Daten,keine Daten,keine Daten,keine Daten,33,21,14,11,9,8,8,6,4,4,8,9,13,25,49,90,156,218,253,280,281,254,242,288,414,669,875,929,755,451,279,231,255,309,368,410,539,639,690
+Frankreich,France,Languedoc-Roussillon-Midi-Pyrénées,FR,FRJ,keine Daten,keine Daten,keine Daten,keine Daten,13,10,8,7,6,3,5,5,4,4,4,4,9,15,23,40,71,94,113,154,201,231,242,313,441,634,780,771,595,340,191,152,158,171,181,196,278,346,384
+Frankreich,France,Auvergne-Rhône-Alpes,FR,FRK,keine Daten,keine Daten,keine Daten,keine Daten,23,15,9,7,7,5,5,5,5,5,6,7,11,16,19,26,50,80,115,158,198,232,265,394,670,1128,1467,1602,1322,752,434,321,328,368,389,353,392,429,429
+Deutschland,Germany,Saarland,DE,DEC,99,151,89,32,26,15,7,7,4,3,4,4,3,1,2,3,3,6,10,13,13,14,12,8,4,6,24,58,99,173,279,309,310,295,254,264,332,384,327,232,283,296,228
+Deutschland,Germany,Thüringen,DE,DEG,30,41,32,27,26,20,15,14,13,10,8,6,3,2,2,2,3,3,5,6,6,6,6,9,12,11,13,22,40,77,108,139,178,233,288,339,446,568,593,536,591,603,469
+Deutschland,Germany,Baden-Württemberg,DE,DE1,101,135,86,49,33,18,13,10,7,4,3,4,5,4,4,6,8,9,8,13,24,31,31,31,31,33,36,56,91,156,215,266,300,284,290,312,359,417,373,289,278,262,209
+Deutschland,Germany,Sachsen,DE,DED,39,53,34,14,13,11,9,7,4,2,1,2,2,1,1,1,1,1,4,5,4,7,9,11,15,18,21,38,79,139,210,317,407,431,514,655,730,921,971,780,742,654,454
+Deutschland,Germany,Sachsen-Anhalt,DE,DEE,23,30,20,13,9,6,4,2,1,1,3,6,4,2,2,3,3,3,4,4,6,5,4,5,8,11,14,16,28,62,92,117,134,154,188,229,292,370,397,404,478,504,474
+Deutschland,Germany,Schleswig-Holstein,DE,DEF,30,43,28,13,11,10,6,4,4,2,1,1,1,2,2,3,5,8,10,11,10,8,7,8,11,17,18,21,33,63,90,103,104,98,94,100,138,176,188,170,175,187,177
+Deutschland,Germany,Hessen,DE,DE7,38,54,43,27,20,14,12,13,11,6,5,6,7,6,6,7,9,13,17,25,34,30,22,22,24,30,40,62,111,205,276,320,350,354,344,319,346,395,359,293,305,294,242
+Deutschland,Germany,Mecklenburg-Vorpommern,DE,DE8,17,17,8,3,3,3,3,2,1,1,2,1,1,1,0,0,3,5,6,6,3,2,2,4,6,7,11,18,30,53,70,91,96,91,95,99,144,190,177,176,231,259,229
+Deutschland,Germany,Niedersachsen,DE,DE9,39,56,41,22,15,12,9,10,11,12,11,9,8,5,3,4,6,7,10,11,14,17,15,16,21,25,29,43,65,109,153,189,217,215,193,173,185,225,218,191,217,227,197
+Deutschland,Germany,Nordrhein-Westfalen,DE,DEA,57,79,60,34,21,16,14,12,9,7,8,16,20,15,11,11,15,21,26,30,17,22,30,22,30,37,47,70,113,195,275,327,352,339,315,300,325,372,340,263,272,274,227
+Deutschland,Germany,Rheinland-Pfalz,DE,DEB,47,61,42,22,15,9,8,6,5,5,4,3,4,4,5,6,6,7,12,18,20,20,18,17,18,21,26,42,71,132,186,231,286,295,267,257,320,364,308,253,270,259,215
+Deutschland,Germany,Bremen,DE,DE5,58,32,33,42,43,38,47,39,31,33,23,16,9,4,4,7,10,10,9,11,15,22,24,21,24,40,66,107,150,223,319,376,348,301,266,227,240,261,223,170,165,169,159
+Deutschland,Germany,Bayern,DE,DE2,118,162,106,51,35,21,17,14,11,8,4,4,6,7,7,8,10,11,11,18,27,31,33,38,43,40,35,49,90,168,231,308,370,376,374,373,395,444,410,339,335,312,253
+Deutschland,Germany,Berlin,DE,DE3,47,65,45,24,21,15,11,11,11,11,14,25,23,14,12,9,11,15,21,27,27,26,28,31,41,56,79,124,178,248,290,340,432,462,442,405,402,438,402,315,351,371,271
+Deutschland,Germany,Brandenburg,DE,DE4,54,52,42,28,23,14,9,5,4,3,4,4,3,3,1,1,3,4,4,6,7,6,6,6,6,9,15,29,47,78,120,153,182,202,233,274,332,427,412,386,545,616,507
+Deutschland,Germany,Hamburg,DE,DE6,71,103,66,31,25,24,21,6,3,3,3,3,3,3,1,1,6,12,22,25,20,21,23,33,41,50,63,71,95,163,222,287,332,299,242,225,264,307,314,280,297,282,215
+Griechenland,Greece,Attika,EL,EL30,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,2,2,1,1,1,1,1,1,2,3,4,4,12,23,28,30,30,43,62,70,65,62,72,83,114,168,211,198,147,119,108,93,80,83,94,88,82
+Griechenland,Greece,Südliche Ägäis,EL,EL42,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,0,0,0,0,0,1,3,5,4,4,5,5,15,38,57,51,36,32,36,43,40,43,50,60,66,69,66,65,59,41,32,22,16,25,27,20,19
+Griechenland,Greece,Kreta,EL,EL43,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,0,0,0,0,0,0,0,1,1,2,3,3,6,14,21,22,27,28,23,17,12,13,17,26,38,74,99,96,85,69,49,29,15,9,24,34,24
+Griechenland,Greece,Ostmakedonien und Thrakien,EL,EL51,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,2,2,3,9,15,27,24,15,18,9,4,9,26,30,17,13,9,5,1,-1,6,9,16,49,246,503,568,523,423,401,401,296,199,155,135,85,57
+Griechenland,Greece,Nördliche Ägäis,EL,EL41,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,1,2,1,1,1,0,2,2,2,2,4,4,10,18,32,49,36,49,173,156,38,34,34,43,94,153,189,210,173,167,151,109,89,62,66,65,45
+Griechenland,Greece,Mittelgriechenland,EL,EL64,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,0,0,0,1,2,1,0,0,2,2,1,2,4,8,9,6,9,18,-4,-6,15,20,30,33,28,53,105,112,89,97,96,67,45,46,72,81,73
+Griechenland,Greece,Peloponnes,EL,EL65,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,0,1,1,1,1,1,0,0,1,1,0,1,6,10,7,5,8,7,6,12,15,18,21,27,50,89,100,77,60,57,54,49,38,37,51,53,50
+Griechenland,Greece,Epirus,EL,EL54,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,0,0,0,0,1,3,4,2,1,1,0,0,4,7,7,11,13,14,18,26,31,59,70,111,169,147,122,106,86,72,51,32,21,20,20,16,28
+Griechenland,Greece,Thessalien,EL,EL61,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,3,11,10,3,2,0,0,2,2,1,2,2,15,24,20,14,9,14,26,32,31,26,28,60,145,279,446,552,482,383,315,244,170,102,97,90,78
+Griechenland,Greece,Zentralmakedonien,EL,EL52,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,0,0,0,0,0,1,1,2,6,7,5,8,28,50,45,33,29,37,32,17,20,25,47,115,299,578,762,781,670,536,407,273,182,132,115,94,72
+Griechenland,Greece,Westmakedonien,EL,EL53,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,0,-1,-1,1,3,0,6,9,9,7,1,2,9,16,27,36,30,34,43,45,45,93,169,173,162,220,345,445,403,362,360,310,210,155,148,118,95
+Griechenland,Greece,Ionische Inseln,EL,EL62,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,0,0,0,0,0,0,0,3,12,12,10,16,8,35,53,31,26,30,26,27,40,35,31,36,46,71,88,84,62,39,19,14,21,20,17,10,10
+Griechenland,Greece,Westgriechenland,EL,EL63,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,0,0,0,0,0,0,0,1,1,0,2,2,2,5,6,4,4,4,11,15,16,24,25,25,39,65,93,122,133,99,72,60,42,40,46,49,53
+Ungarn,Hungary,Fejér,HU,HU211,keine Daten,keine Daten,38,35,31,17,12,7,3,1,1,0,0,1,0,0,0,0,0,3,5,11,42,87,104,99,86,91,118,169,299,437,450,503,593,605,594,508,332,270,373,334,233
+Ungarn,Hungary,Komárom-Esztergom,HU,HU212,keine Daten,keine Daten,11,24,33,27,17,23,23,15,11,5,2,2,0,1,1,1,1,1,1,10,24,52,103,110,96,107,138,201,249,396,665,741,766,820,713,615,400,217,282,294,219
+Ungarn,Hungary,Vas,HU,HU222,keine Daten,keine Daten,2,0,0,0,1,1,0,0,0,0,0,0,0,1,2,4,6,6,2,4,17,39,102,146,131,168,271,456,523,508,799,966,989,1021,846,625,355,219,267,233,170
+Ungarn,Hungary,Zala,HU,HU223,keine Daten,keine Daten,12,24,36,29,32,27,11,4,2,1,0,0,0,0,1,1,0,5,5,6,25,42,52,69,70,106,180,291,407,522,600,641,772,870,780,618,385,269,326,169,209
+Ungarn,Hungary,Veszprém,HU,HU213,keine Daten,keine Daten,11,6,3,2,1,1,1,1,-1,-1,0,0,0,1,1,3,19,21,8,16,35,60,85,85,86,126,170,333,449,605,846,779,819,933,792,620,406,276,361,327,208
+Ungarn,Hungary,Gyor-Moson-Sopron,HU,HU221,keine Daten,keine Daten,9,3,1,1,1,0,0,0,0,0,0,0,1,0,2,3,1,1,3,12,31,77,134,173,182,249,299,333,519,946,1143,844,747,776,614,421,271,209,229,217,142
+Ungarn,Hungary,Hajdú-Bihar,HU,HU321,keine Daten,keine Daten,1,1,0,0,0,0,0,0,0,0,-1,-1,1,1,4,5,6,7,8,22,42,61,88,98,115,163,188,239,382,546,620,666,795,861,738,696,435,210,285,219,153
+Ungarn,Hungary,Jász-Nagykun-Szolnok,HU,HU322,keine Daten,keine Daten,3,2,1,0,1,1,-2,-2,0,1,0,-1,-1,1,2,1,1,2,2,5,14,44,78,110,114,129,145,226,434,577,588,502,689,886,787,644,430,293,276,227,152
+Ungarn,Hungary,Szabolcs-Szatmár-Bereg,HU,HU323,keine Daten,keine Daten,3,1,1,0,0,-1,-1,1,1,1,1,1,0,0,0,0,2,8,13,15,32,51,91,106,96,157,212,284,383,496,646,581,575,654,519,408,286,194,213,183,132
+Ungarn,Hungary,Bács-Kiskun,HU,HU331,keine Daten,keine Daten,1,0,0,0,0,0,0,0,-1,-1,0,0,1,2,1,0,2,3,2,6,20,38,50,59,54,67,100,167,328,514,598,612,768,778,565,466,347,263,283,243,173
+Ungarn,Hungary,Békés,HU,HU332,keine Daten,keine Daten,1,1,1,1,-2,-1,0,0,1,1,0,0,1,1,0,1,1,1,0,3,10,18,40,63,53,76,108,154,274,419,533,573,968,1138,859,664,392,254,255,194,130
+Ungarn,Hungary,Csongrád,HU,HU333,keine Daten,keine Daten,6,11,11,3,3,2,0,0,1,1,-2,-1,1,6,6,2,4,3,2,8,35,77,143,166,126,154,191,274,440,534,595,621,775,880,779,723,510,324,328,258,179
+Ungarn,Hungary,Borsod-Abaúj-Zemplén,HU,HU311,keine Daten,keine Daten,7,2,2,0,0,0,0,0,0,0,0,3,6,6,4,3,3,2,3,7,19,33,60,85,136,196,218,314,411,431,496,582,736,695,484,381,239,160,179,165,132
+Ungarn,Hungary,Baranya,HU,HU231,keine Daten,keine Daten,3,1,0,1,0,0,0,1,1,1,0,0,0,0,0,1,4,3,1,11,34,52,67,104,110,121,149,181,302,447,442,419,532,604,611,611,503,409,457,394,278
+Ungarn,Hungary,Somogy,HU,HU232,keine Daten,keine Daten,3,1,1,1,0,0,0,-2,-2,0,0,0,0,1,2,1,2,2,0,3,21,40,60,89,91,98,115,108,193,379,493,440,517,694,764,696,475,359,427,387,243
+Ungarn,Hungary,Tolna,HU,HU233,keine Daten,keine Daten,1,1,1,0,0,0,0,-1,-2,0,0,0,0,0,0,2,2,1,2,6,29,56,63,51,41,53,94,124,199,381,511,500,621,841,859,697,411,303,478,451,266
+Ungarn,Hungary,Pest,HU,HU120,keine Daten,keine Daten,13,9,8,6,6,7,6,4,3,2,2,2,2,2,3,2,2,4,5,16,50,85,107,114,116,132,167,242,341,561,709,659,682,733,601,437,288,189,241,212,147
+Ungarn,Hungary,Heves,HU,HU312,keine Daten,keine Daten,3,1,1,0,0,-1,-1,0,0,0,0,2,3,1,2,1,0,1,1,4,26,50,54,67,91,134,194,263,307,424,689,661,628,772,650,497,338,223,243,243,191
+Ungarn,Hungary,Nógrád,HU,HU313,keine Daten,keine Daten,7,3,1,1,0,5,12,9,2,-1,1,1,0,1,1,0,2,2,3,7,21,51,74,111,176,233,291,449,546,593,857,737,696,966,953,803,468,278,329,290,211
+Ungarn,Hungary,Budapest,HU,HU110,keine Daten,keine Daten,45,31,24,14,9,12,10,6,4,2,3,2,1,2,2,3,4,6,11,45,112,185,220,215,189,187,214,291,405,629,791,707,639,630,512,377,270,188,210,188,137
+Island,Iceland,Norðurland Vestra,IS,ISG34,keine Daten,keine Daten,0,0,0,0,0,0,0,0,0,0,keine Daten,keine Daten,0,keine Daten,0,0,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten
+Island,Iceland,Island,IS,IS,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,3,2,6,22,31,14,31,41,20,16,75,155,185,263,322,254,196,148,80,55,55,55,44,48,43,40,52,45,22
+Island,Iceland,Höfuðborgarsvæði,IS,ISG31,keine Daten,keine Daten,68,32,6,1,1,0,1,1,2,2,keine Daten,keine Daten,0,keine Daten,0,-1,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten
+Island,Iceland,Vesturland,IS,ISG32,keine Daten,keine Daten,79,73,6,6,6,6,0,0,0,6,keine Daten,keine Daten,6,keine Daten,0,-6,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten
+Island,Iceland,Vestfirðir,IS,ISG33,keine Daten,keine Daten,637,311,71,0,0,0,0,0,0,0,keine Daten,keine Daten,0,keine Daten,0,0,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten
+Island,Iceland,Suðurnes,IS,ISG39,keine Daten,keine Daten,18,0,0,0,0,0,0,0,0,0,keine Daten,keine Daten,0,keine Daten,0,0,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten
+Island,Iceland,Norðurland Eystra,IS,ISG35,keine Daten,keine Daten,10,-3,0,0,0,0,0,0,0,0,keine Daten,keine Daten,0,keine Daten,0,0,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten
+Island,Iceland,Austurland,IS,ISG36,keine Daten,keine Daten,15,8,0,0,0,0,0,0,0,0,keine Daten,keine Daten,0,keine Daten,0,0,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten
+Island,Iceland,Suðurland,IS,ISG37,keine Daten,keine Daten,40,37,4,0,0,4,4,0,0,11,keine Daten,keine Daten,11,keine Daten,0,-11,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten
+Irland,Ireland,Border,IE,IE041,keine Daten,161,190,156,157,108,42,36,23,13,8,-2,1,8,5,3,2,5,10,12,10,16,23,26,54,110,172,300,418,452,318,179,170,126,123,142,136,171,284,725,1451,1397,817
+Irland,Ireland,South-West,IE,IE053,keine Daten,104,103,44,22,24,27,30,22,13,2,1,1,1,2,3,3,2,4,4,5,7,9,10,24,56,95,163,287,322,241,168,95,59,66,49,24,62,177,408,1254,1434,703
+Irland,Ireland,Dublin,IE,IE061,keine Daten,303,304,207,208,176,74,52,29,19,10,6,2,1,4,10,11,12,12,15,33,45,57,93,133,155,161,172,224,248,196,161,132,92,99,108,90,121,241,431,1434,1710,907
+Irland,Ireland,Mid-East,IE,IE062,keine Daten,164,208,154,146,125,33,20,16,9,4,8,12,8,6,7,7,16,50,66,55,39,31,48,61,66,83,140,267,357,261,135,107,99,97,92,83,110,178,422,1123,1261,756
+Irland,Ireland,Midland,IE,IE063,keine Daten,147,180,110,162,190,101,56,15,6,3,2,2,2,3,1,2,21,57,52,26,20,25,44,47,48,89,142,230,294,214,139,124,74,47,58,70,93,111,347,787,826,552
+Irland,Ireland,South-East,IE,IE052,keine Daten,63,76,48,43,43,23,20,15,6,4,4,3,1,3,4,1,1,7,15,25,32,30,37,47,38,39,90,189,242,169,106,98,78,76,83,98,156,252,420,1368,1654,874
+Irland,Ireland,West,IE,IE042,keine Daten,77,93,71,74,71,49,40,21,9,3,2,0,0,1,2,2,3,4,3,4,5,10,17,31,55,79,136,245,keine Daten,396,302,103,74,62,64,71,70,118,427,842,1202,961
+Irland,Ireland,Mid-West,IE,IE051,keine Daten,86,103,73,91,87,25,13,10,4,2,0,0,1,1,1,1,11,15,20,43,54,49,42,34,33,82,158,217,236,188,148,137,keine Daten,keine Daten,104,84,89,193,550,1347,1441,767
+Italien,Italy,Puglia,IT,ITF4,28,41,32,20,14,9,5,4,3,1,0,0,0,0,0,1,1,2,4,6,9,15,23,27,27,27,32,54,89,142,197,269,386,448,468,518,479,398,334,320,376,386,354
+Italien,Italy,Campania,IT,ITF3,28,35,20,10,7,4,3,3,2,1,-3,-3,1,2,2,2,3,3,3,6,15,31,41,38,39,54,78,127,234,406,582,805,910,834,690,481,340,257,198,205,245,253,241
+Italien,Italy,Sardegna,IT,ITG2,25,32,20,8,5,4,2,1,0,0,0,0,0,1,0,0,1,2,4,6,24,45,46,44,45,54,62,88,128,175,224,270,332,391,359,339,307,252,231,205,227,236,197
+Italien,Italy,Basilicata,IT,ITF5,26,21,13,8,8,4,-1,2,1,0,0,0,0,1,1,1,8,8,5,7,5,6,12,17,14,28,51,52,67,127,204,333,470,528,539,430,240,179,179,193,259,243,170
+Italien,Italy,Calabria,IT,ITF6,21,18,13,6,4,2,2,1,0,0,0,1,1,0,2,3,2,2,2,4,6,8,12,11,11,13,12,22,44,93,134,190,248,324,325,231,167,131,151,182,221,232,209
+Italien,Italy,Sicilia,IT,ITG1,17,22,17,12,9,4,3,2,1,0,0,-8,-8,0,1,1,2,3,7,10,10,11,15,21,26,31,37,60,104,168,213,279,382,442,414,361,308,256,223,255,388,481,420
+Italien,Italy,Friuli-Venezia Giulia,IT,ITH4,68,88,61,37,83,12,-50,9,6,3,2,2,1,2,2,3,3,5,6,9,16,22,24,33,38,38,46,80,138,257,397,519,653,822,926,888,810,791,606,506,719,768,652
+Italien,Italy,Emilia-Romagna,IT,ITH5,141,177,135,87,71,44,22,16,13,8,6,7,9,10,11,12,14,14,6,15,28,34,39,39,37,33,39,71,127,245,389,541,713,777,718,618,521,483,465,502,578,528,421
+Italien,Italy,Toscana,IT,ITI1,70,95,74,42,28,15,9,8,4,2,2,2,2,2,2,2,3,4,6,10,16,27,35,35,38,40,54,118,231,434,645,802,890,827,579,348,251,194,166,157,171,164,160
+Italien,Italy,Umbria,IT,ITI2,50,34,13,6,5,4,3,2,1,0,1,0,0,1,1,1,2,2,5,9,19,28,29,34,35,35,58,136,266,483,684,837,909,751,527,378,276,235,217,251,318,329,361
+Italien,Italy,Marche,IT,ITI3,89,128,93,44,34,24,19,11,4,2,2,2,1,1,1,1,2,6,8,10,11,13,17,21,25,23,28,51,95,219,363,458,552,505,407,379,339,321,318,387,480,455,390
+Italien,Italy,Lazio,IT,ITI4,30,43,34,21,17,12,10,8,4,3,4,3,2,3,4,4,4,4,5,9,23,36,36,36,42,48,55,78,155,290,399,511,613,630,563,453,361,316,302,324,377,362,300
+Italien,Italy,Provincia Autonoma di Bolzano / Bozen,IT,ITH1,139,190,144,52,25,14,8,4,3,2,2,5,5,3,7,7,3,10,16,12,22,27,21,39,61,69,66,117,270,537,798,1264,1599,1459,1117,756,579,506,390,342,512,697,971
+Italien,Italy,Provincia Autonoma di Trento,IT,ITH2,183,301,246,149,120,50,17,22,15,4,3,5,77,76,3,3,16,17,6,4,6,17,59,82,76,77,93,103,139,305,465,551,594,570,551,562,506,533,495,428,473,491,469
+Italien,Italy,Veneto,IT,ITH3,87,128,106,63,41,21,11,7,4,2,1,1,1,2,3,7,9,12,18,22,30,35,39,40,38,47,62,102,159,299,488,703,857,891,871,868,976,1054,1018,967,902,657,377
+Italien,Italy,Piemonte,IT,ITC1,134,230,220,166,134,76,42,35,25,13,9,8,6,4,4,3,3,4,7,9,12,18,21,21,26,32,48,99,224,461,651,942,1246,1163,885,629,426,259,195,242,298,291,246
+Italien,Italy,Valle d'Aosta / Vallée d'Aoste,IT,ITC2,298,298,247,128,40,31,25,18,10,8,3,2,3,2,1,0,8,10,9,7,5,18,25,20,22,33,55,176,533,953,1175,1281,1471,1403,927,516,298,232,284,254,231,232,169
+Italien,Italy,Liguria,IT,ITC3,121,184,149,118,110,68,46,46,35,18,10,7,6,4,4,7,9,8,8,17,24,30,47,70,80,79,96,169,335,561,683,798,890,738,512,354,268,248,222,242,305,291,249
+Italien,Italy,Lombardia,IT,ITC4,155,210,174,121,106,75,64,55,42,31,28,26,18,14,13,10,8,8,9,11,16,28,35,33,29,29,36,82,217,479,787,1019,1146,1107,824,534,366,293,278,256,295,292,244
+Italien,Italy,Abruzzo,IT,ITF1,58,75,73,48,27,16,13,9,4,3,2,1,1,2,3,3,3,4,11,13,11,16,20,19,27,28,29,70,143,262,380,487,633,697,625,466,324,239,172,194,255,255,235
+Italien,Italy,Molise,IT,ITF2,40,45,19,11,6,28,40,16,5,2,1,2,2,0,0,0,8,10,3,6,10,10,12,14,24,26,21,48,110,193,287,378,401,478,521,438,330,260,219,204,238,272,270
+Lettland,Latvia,Kurzeme,LV,LV003,keine Daten,keine Daten,keine Daten,1,1,2,2,1,1,0,0,0,0,2,2,0,0,0,3,5,3,1,0,1,1,17,62,88,57,35,67,91,87,105,137,152,182,237,298,420,464,444,394
+Lettland,Latvia,Latgale,LV,LV005,keine Daten,keine Daten,keine Daten,0,0,6,9,3,0,4,4,0,0,1,0,0,4,4,2,4,4,9,9,8,9,8,66,117,123,114,139,221,306,361,452,622,733,851,935,955,1127,1131,937
+Lettland,Latvia,Riga,LV,LV006,keine Daten,keine Daten,keine Daten,16,12,8,6,4,3,2,1,0,2,4,6,6,3,2,2,2,2,4,4,5,12,20,31,65,100,149,203,249,307,346,461,532,517,573,630,617,604,594,553
+Lettland,Latvia,Pieriga,LV,LV007,keine Daten,keine Daten,keine Daten,6,8,4,3,3,2,1,1,1,0,1,2,2,2,5,9,7,4,6,5,5,8,11,18,29,46,66,108,164,205,265,344,388,381,405,453,558,659,592,463
+Lettland,Latvia,Vidzeme,LV,LV008,keine Daten,keine Daten,keine Daten,9,8,8,23,33,17,4,0,0,3,3,1,1,5,9,6,3,0,0,3,3,1,1,10,12,48,98,114,100,106,145,148,137,157,200,231,306,442,601,658
+Lettland,Latvia,Zemgale,LV,LV009,keine Daten,keine Daten,keine Daten,3,3,2,2,0,2,3,4,3,0,0,0,0,0,1,3,3,1,2,1,1,2,1,3,19,36,29,63,123,149,174,238,501,630,661,694,714,841,776,683
+Liechtenstein,Liechtenstein,Liechtenstein,LI,LI0,keine Daten,keine Daten,55,5,5,keine Daten,-3,0,0,0,0,0,3,8,5,5,5,5,5,21,31,29,18,8,21,23,36,91,310,855,933,870,995,889,925,711,677,1037,1272,1230,834,412,287
+Litauen,Lithuania,Kauno apskritis,LT,LT022,13,9,4,2,2,1,2,1,1,keine Daten,1,1,0,1,1,6,11,11,19,28,26,19,13,15,23,62,102,64,64,175,312,577,692,804,986,1150,1466,1507,1292,1165,969,624,435
+Litauen,Lithuania,Panevežio apskritis,LT,LT025,12,8,5,5,3,0,0,0,0,keine Daten,0,0,0,0,0,3,6,14,17,9,8,16,13,10,22,26,24,17,37,75,139,353,564,691,886,1123,1446,1668,1553,1275,976,667,513
+Litauen,Lithuania,Vilniaus apskritis,LT,LT011,30,24,20,24,17,10,13,15,12,keine Daten,14,12,4,3,4,6,6,6,7,10,21,30,25,22,29,37,40,31,74,208,356,542,681,736,776,848,1054,1284,1445,1402,1147,812,600
+Litauen,Lithuania,Alytaus apskritis,LT,LT021,18,11,7,4,3,2,0,1,2,keine Daten,1,1,1,0,0,0,1,1,0,0,0,1,2,4,5,2,10,11,13,28,112,300,579,910,1070,990,1360,1740,1647,1443,1185,845,521
+Litauen,Lithuania,Marijampoles apskritis,LT,LT024,7,35,49,26,9,2,1,0,0,keine Daten,1,1,1,1,3,5,4,2,2,0,2,6,5,4,6,8,7,6,37,106,196,356,542,733,911,938,1064,1180,1137,1024,849,635,457
+Litauen,Lithuania,Utenos apskritis,LT,LT029,6,6,3,6,4,1,1,0,2,keine Daten,3,2,1,3,5,6,7,13,18,10,9,27,24,7,2,3,9,7,6,27,65,112,224,362,509,771,1055,1336,1327,1171,1201,1029,755
+Litauen,Lithuania,Šiauliu apskritis,LT,LT026,13,8,3,1,1,1,0,0,0,keine Daten,0,2,1,0,0,0,0,2,2,3,3,1,7,26,69,120,163,110,105,226,377,525,800,1013,1111,1177,1265,1376,1279,1094,906,623,371
+Litauen,Lithuania,Taurages apskritis,LT,LT027,9,9,4,1,1,1,1,1,1,keine Daten,0,0,0,0,0,1,2,1,1,5,7,10,43,53,22,9,6,20,49,110,284,520,873,984,906,888,946,1099,986,735,588,417,256
+Litauen,Lithuania,Telšiu apskritis,LT,LT028,13,8,4,3,3,2,2,1,1,keine Daten,2,1,0,0,0,0,0,1,1,1,2,2,2,11,26,24,17,13,61,228,559,819,817,876,933,847,918,1037,872,673,574,484,407
+Litauen,Lithuania,Klaipedos apskritis,LT,LT023,56,53,42,29,17,15,6,4,2,keine Daten,3,3,0,1,2,3,2,3,3,9,12,9,7,13,15,9,11,15,68,205,437,737,895,947,1019,1049,1129,1279,1224,1041,964,755,548
+Luxemburg,Luxembourg,Luxembourg,LU,LU0,keine Daten,keine Daten,keine Daten,60,36,keine Daten,26,17,12,8,9,14,36,77,123,183,215,194,141,95,97,-134,-141,99,170,187,157,230,368,822,1280,1359,1302,1284,1236,1157,1176,1037,643,392,355,310,278
+Malta,Malta,Malta,MT,MT0,keine Daten,49,44,13,8,8,15,22,13,4,7,7,3,2,1,1,7,26,62,105,140,119,80,110,145,118,113,183,335,354,278,316,352,384,352,308,280,214,237,339,426,477,472
+Niederlande,Netherlands,Utrecht,NL,NL31,keine Daten,keine Daten,74,55,40,36,30,21,24,22,19,13,9,7,6,11,14,20,34,44,41,38,58,87,132,230,312,492,780,864,810,646,471,450,440,461,645,917,925,718,568,456,369
+Niederlande,Netherlands,Noord-Holland,NL,NL32,keine Daten,keine Daten,79,52,33,22,15,11,8,10,12,10,7,6,5,9,17,32,59,82,78,61,79,128,200,305,351,459,727,803,710,596,472,424,393,388,504,720,805,699,570,474,416
+Niederlande,Netherlands,Noord-Brabant,NL,NL41,keine Daten,keine Daten,113,75,45,26,16,12,12,16,17,12,7,3,2,6,10,19,33,41,40,36,39,52,82,155,228,368,640,758,823,758,547,496,462,455,597,838,861,696,608,515,436
+Niederlande,Netherlands,Limburg (NL),NL,NL42,keine Daten,keine Daten,145,100,59,35,23,20,15,13,12,7,3,2,1,2,3,4,9,19,27,26,25,34,46,79,114,199,363,465,479,456,408,378,379,423,658,1024,1143,931,773,730,629
+Niederlande,Netherlands,Zuid-Holland,NL,NL33,keine Daten,keine Daten,99,67,41,28,23,22,17,18,21,17,13,11,10,17,27,49,77,91,77,58,81,134,205,324,403,556,830,957,971,809,584,512,458,436,556,746,763,643,541,433,361
+Niederlande,Netherlands,Zeeland,NL,NL34,keine Daten,keine Daten,68,26,17,13,8,12,17,11,7,5,2,3,5,16,24,23,26,23,21,20,19,24,40,60,84,141,243,286,345,405,362,328,288,256,355,542,629,566,527,496,437
+Niederlande,Netherlands,Groningen,NL,NL11,keine Daten,keine Daten,19,8,5,3,1,-1,0,1,1,1,1,1,1,1,2,6,12,21,21,13,15,44,99,163,217,291,390,332,257,227,171,201,227,258,368,554,642,582,523,492,439
+Niederlande,Netherlands,Friesland (NL),NL,NL12,keine Daten,keine Daten,41,20,8,9,8,4,3,2,3,2,0,1,1,1,1,2,7,16,17,10,8,15,40,104,154,247,358,321,267,223,186,215,219,220,303,450,521,528,513,478,458
+Niederlande,Netherlands,Drenthe,NL,NL13,keine Daten,keine Daten,39,27,17,6,2,3,3,3,3,2,1,0,0,2,3,3,5,7,6,5,5,11,37,111,154,269,459,436,338,292,242,251,242,210,314,563,677,665,630,522,412
+Niederlande,Netherlands,Overijssel,NL,NL21,keine Daten,keine Daten,106,62,32,18,10,9,6,4,5,6,5,4,2,3,4,4,8,13,17,13,14,28,53,107,181,319,538,711,754,651,509,446,439,443,571,942,1099,1004,922,694,525
+Niederlande,Netherlands,Gelderland,NL,NL22,keine Daten,keine Daten,108,74,43,24,14,20,24,19,17,12,7,4,2,2,3,6,12,18,23,22,28,52,87,155,209,303,486,529,585,575,413,383,386,413,574,846,971,856,715,579,455
+Niederlande,Netherlands,Flevoland,NL,NL23,keine Daten,keine Daten,84,67,42,31,19,16,15,10,9,6,5,4,-1,-1,3,12,26,38,41,34,43,68,97,153,192,266,446,538,579,560,480,537,575,552,686,983,1099,927,697,512,385
+Norwegen,Norway,Vestland,NO,NO0A2,keine Daten,keine Daten,33,15,9,6,1,1,0,0,0,1,1,1,0,1,1,5,6,6,15,20,39,74,66,43,32,32,53,86,125,182,233,186,97,49,31,36,45,39,50,52,38
+Norwegen,Norway,Trøndelag,NO,NO060,keine Daten,keine Daten,10,14,18,10,5,3,1,0,0,0,0,1,1,2,3,2,6,10,9,5,3,5,6,6,9,12,17,26,30,41,44,32,21,15,49,96,143,209,214,134,63
+Norwegen,Norway,Troms Og Finnmark,NO,NO074,keine Daten,keine Daten,17,13,8,7,2,0,0,0,0,0,0,1,2,1,0,14,17,11,8,2,3,4,3,3,6,24,35,38,54,83,85,57,32,14,21,32,35,33,61,70,25
+Norwegen,Norway,Møre Og Romsdal,NO,NO0A3,keine Daten,keine Daten,1,2,2,3,4,2,3,5,3,1,3,4,2,0,0,1,2,3,5,5,5,4,5,7,23,34,26,28,46,50,37,39,39,29,34,32,41,68,81,66,40
+Norwegen,Norway,Nordland,NO,NO071,keine Daten,keine Daten,11,4,2,1,1,2,2,0,0,2,2,1,1,1,0,0,3,6,16,15,4,8,9,5,4,5,8,18,31,60,65,42,31,19,24,25,16,31,65,54,43
+Norwegen,Norway,Oslo,NO,NO081,keine Daten,keine Daten,71,45,38,29,15,11,10,16,20,15,15,9,5,6,8,12,24,35,37,33,35,60,81,88,86,94,92,121,178,245,316,342,308,219,193,208,195,208,261,254,217
+Norwegen,Norway,Rogaland,NO,NO0A1,keine Daten,keine Daten,3,8,8,3,1,0,0,0,1,0,1,0,1,1,2,4,6,8,7,5,9,13,22,24,17,19,18,33,55,59,64,56,34,21,22,34,89,156,197,156,79
+Norwegen,Norway,Vestfold Og Telemark,NO,NO091,keine Daten,keine Daten,7,5,4,2,1,2,1,1,1,1,1,1,1,0,1,3,5,8,6,4,4,6,8,9,11,16,19,22,30,54,77,76,62,56,73,116,136,121,129,109,83
+Norwegen,Norway,Agder,NO,NO092,keine Daten,keine Daten,20,16,10,4,2,1,0,1,2,1,1,1,1,1,1,1,2,9,11,9,10,7,9,19,21,22,23,20,27,50,81,76,45,28,23,24,24,22,48,50,31
+Norwegen,Norway,Viken,NO,NO082,keine Daten,keine Daten,24,14,13,12,9,7,5,4,4,4,8,7,3,3,5,7,15,23,16,12,33,44,32,26,22,31,38,60,102,156,208,220,215,188,186,194,176,178,203,186,149
+Norwegen,Norway,Innlandet,NO,NO020,keine Daten,keine Daten,10,8,9,9,7,6,8,5,1,1,1,0,-2,-1,2,3,4,8,7,8,11,8,9,15,20,18,14,54,111,115,82,60,75,91,118,150,129,101,94,75,54
+Polen,Poland,Malopolskie,PL,PL21,keine Daten,12,12,9,8,6,4,3,3,7,9,6,7,8,12,23,34,41,43,54,59,53,50,43,39,64,89,180,425,607,579,860,977,737,529,288,219,174,127,122,147,144,116
+Polen,Poland,Slaskie,PL,PL22,keine Daten,17,23,24,30,42,61,79,64,58,60,44,36,29,26,28,39,54,51,45,43,32,21,18,17,28,42,81,202,345,399,856,1152,856,571,394,475,414,225,213,232,209,158
+Polen,Poland,Pomorskie,PL,PL63,keine Daten,6,5,11,10,3,2,2,2,1,1,3,3,2,2,4,7,10,16,32,44,36,27,28,38,75,107,150,262,382,440,681,771,727,735,590,704,683,457,476,538,481,377
+Polen,Poland,Lódzkie,PL,PL71,keine Daten,15,17,14,14,12,7,8,15,30,38,32,24,15,14,16,16,18,19,24,31,25,17,15,22,43,61,126,302,513,626,810,834,697,599,472,373,324,326,317,343,290,206
+Polen,Poland,Swietokrzyskie,PL,PL72,keine Daten,11,12,8,5,5,4,6,11,13,12,12,14,10,5,7,8,7,11,15,20,20,19,19,19,36,65,136,275,443,475,704,892,792,595,350,153,98,153,136,158,155,128
+Polen,Poland,Lubelskie,PL,PL81,keine Daten,keine Daten,8,4,2,2,1,4,4,2,2,4,5,6,9,8,5,7,9,13,15,14,15,15,21,37,58,110,232,366,569,878,842,657,609,483,358,318,290,251,272,258,210
+Polen,Poland,Podkarpackie,PL,PL82,keine Daten,8,6,4,5,2,0,0,1,1,5,8,9,11,15,16,12,17,21,23,27,24,27,26,26,42,70,146,330,512,586,863,880,575,457,314,137,105,142,125,195,190,120
+Polen,Poland,Podlaskie,PL,PL84,keine Daten,keine Daten,21,9,4,1,1,4,6,9,14,17,19,13,5,3,5,9,5,12,19,12,13,17,20,47,80,121,213,300,426,722,800,728,645,441,557,517,261,266,313,291,249
+Polen,Poland,Wielkopolskie,PL,PL41,keine Daten,19,24,18,15,9,6,12,11,5,6,6,11,15,16,14,10,19,24,21,24,25,22,20,22,40,57,110,255,458,574,930,1083,835,707,569,329,290,383,360,406,363,260
+Polen,Poland,Zachodniopomorskie,PL,PL42,keine Daten,9,11,10,10,6,3,3,2,2,3,2,1,1,2,3,4,7,11,13,11,7,8,9,14,31,49,84,179,334,406,570,744,833,826,713,602,595,616,572,651,582,404
+Polen,Poland,Lubuskie,PL,PL43,keine Daten,keine Daten,2,1,1,0,0,2,3,2,2,2,1,1,11,18,12,12,17,16,9,9,12,9,10,22,43,77,190,389,440,586,777,751,664,543,725,686,360,325,359,321,255
+Polen,Poland,Dolnoslaskie,PL,PL51,keine Daten,18,23,26,23,19,16,16,14,8,5,5,5,3,2,5,8,10,11,13,14,12,12,14,16,24,34,77,179,296,327,757,1092,897,676,452,275,222,228,209,235,211,176
+Polen,Poland,Opolskie,PL,PL52,keine Daten,18,23,18,14,12,11,11,12,15,15,12,14,13,7,9,14,18,20,25,24,19,18,24,41,52,54,126,345,550,547,828,1061,987,875,639,732,608,268,247,262,259,205
+Polen,Poland,Kujawsko-pomorskie,PL,PL61,keine Daten,14,10,9,5,2,1,1,1,0,2,2,2,2,2,2,3,5,8,11,14,15,14,16,17,49,90,151,289,540,740,920,861,675,687,697,619,580,572,545,615,554,411
+Polen,Poland,Warminsko-mazurskie,PL,PL62,keine Daten,5,5,1,0,1,2,1,0,0,1,2,4,4,3,3,4,6,13,18,18,18,16,15,16,38,56,77,171,297,388,596,749,812,877,810,770,723,593,583,646,552,403
+Polen,Poland,Mazowiecki Regionalny,PL,PL9,keine Daten,25,20,11,11,8,7,10,12,13,15,14,11,8,8,11,13,18,20,26,29,24,22,21,23,40,56,102,249,462,535,627,594,575,587,411,406,375,283,290,321,282,220
+Portugal,Portugal,Norte,PT,PT11,keine Daten,keine Daten,176,111,69,38,34,18,9,8,10,10,11,14,19,15,10,12,16,21,25,38,57,72,85,90,112,194,348,570,733,968,1298,1375,1190,934,758,671,559,608,922,1169,1399
+Portugal,Portugal,Regiao Autonoma Dos Acores,PT,PTG303,keine Daten,keine Daten,16,9,10,6,1,0,1,3,2,1,3,3,1,3,6,4,7,7,9,11,9,11,11,12,13,13,17,20,21,51,97,140,168,157,154,160,134,180,343,409,290
+Portugal,Portugal,Alentejo,PT,PT18,keine Daten,keine Daten,19,10,10,8,5,3,3,4,6,27,42,31,22,20,24,24,16,21,27,22,21,49,76,69,50,38,113,165,171,247,298,351,397,367,396,476,501,620,1061,1370,1519
+Portugal,Portugal,Algarve,PT,PT15,keine Daten,keine Daten,26,8,7,5,3,3,4,6,8,34,48,29,24,29,29,25,18,19,24,29,30,34,57,83,96,92,97,114,156,222,279,297,258,207,200,207,225,391,743,995,1117
+Portugal,Portugal,Centro,PT,PT16,keine Daten,keine Daten,94,40,31,16,8,8,7,9,9,11,12,12,11,9,8,7,6,8,9,14,20,30,41,45,49,67,124,190,291,388,467,532,522,464,436,490,469,585,1048,1435,1723
+Portugal,Portugal,Area Metropolitana De Lisboa,PT,PT17,keine Daten,keine Daten,54,41,47,52,50,62,82,104,105,98,103,101,105,96,71,54,45,45,45,52,64,89,119,136,139,155,214,283,356,426,520,545,482,438,418,416,380,504,890,1272,1675
+Portugal,Portugal,Regiao Autonoma Da Madeira,PT,PT30,keine Daten,keine Daten,13,11,0,2,2,0,0,0,0,1,1,1,2,3,2,6,7,7,7,10,13,13,14,12,17,29,37,44,52,58,85,92,79,71,72,112,157,196,262,389,479
+Rumänien,Romania,Bistrita-Nasaud,RO,RO112,keine Daten,keine Daten,23,29,37,35,24,18,13,16,34,34,36,43,38,46,66,69,54,52,47,41,55,65,51,61,73,92,160,246,328,471,615,586,416,313,269,259,227,188,195,152,122
+Rumänien,Romania,Salaj,RO,RO116,keine Daten,keine Daten,8,6,9,9,15,16,8,7,7,6,5,4,2,5,21,30,32,43,49,46,54,69,70,94,119,209,387,530,666,823,772,552,394,237,152,154,112,118,203,222,222
+Rumänien,Romania,Cluj,RO,RO113,keine Daten,keine Daten,19,17,26,27,11,3,5,7,7,10,10,8,15,27,49,55,49,58,62,51,57,78,82,110,134,180,349,507,548,695,886,893,771,681,573,510,437,383,456,439,356
+Rumänien,Romania,Maramures,RO,RO114,keine Daten,keine Daten,5,4,0,0,4,5,3,3,5,9,16,15,9,15,32,47,57,82,88,67,73,98,90,94,100,122,209,302,353,429,460,391,362,288,186,202,203,201,277,306,289
+Rumänien,Romania,Satu Mare,RO,RO115,keine Daten,keine Daten,7,5,2,0,2,2,1,0,2,4,3,2,2,1,4,8,11,27,39,32,38,48,48,72,75,73,140,186,209,380,623,621,483,375,236,171,140,128,164,206,218
+Rumänien,Romania,Timis,RO,RO424,keine Daten,keine Daten,22,18,13,3,3,4,2,1,1,1,2,5,13,40,71,77,37,94,139,79,81,89,83,106,124,167,279,426,506,693,790,646,524,464,444,467,437,365,458,491,392
+Rumänien,Romania,Iasi,RO,RO213,keine Daten,keine Daten,9,15,16,10,8,24,27,19,20,28,31,18,12,15,38,55,53,75,103,112,114,108,101,137,181,239,338,383,360,429,533,595,599,529,446,424,362,273,313,282,198
+Rumänien,Romania,Neamt,RO,RO214,keine Daten,keine Daten,43,26,37,71,65,23,11,10,10,8,8,7,9,20,45,73,43,100,143,73,91,119,106,121,180,246,300,328,327,367,377,341,287,221,180,167,152,141,188,186,167
+Rumänien,Romania,Suceava,RO,RO215,keine Daten,keine Daten,151,155,106,88,71,29,9,30,44,47,36,24,25,31,45,49,48,64,62,54,72,103,102,95,97,119,222,268,233,267,303,295,256,209,178,189,193,177,208,248,243
+Rumänien,Romania,Vaslui,RO,RO216,keine Daten,keine Daten,14,16,14,6,8,6,3,2,1,1,5,7,14,56,91,85,113,179,167,123,144,142,109,169,216,209,240,248,261,318,326,328,359,364,326,314,293,247,265,243,183
+Rumänien,Romania,Braila,RO,RO221,keine Daten,keine Daten,2,2,2,-1,-2,2,4,6,21,30,44,42,34,58,154,180,126,134,123,135,155,130,99,103,104,128,187,172,156,231,345,398,428,424,424,461,380,256,257,232,135
+Rumänien,Romania,Alba,RO,RO121,keine Daten,keine Daten,24,12,17,24,18,31,37,16,7,7,10,13,16,37,61,54,39,55,63,57,67,88,90,128,169,277,506,533,551,702,772,744,605,462,376,337,265,224,237,235,212
+Rumänien,Romania,Brasov,RO,RO122,keine Daten,keine Daten,34,29,31,27,20,22,23,35,53,64,81,90,105,123,155,163,141,128,113,104,113,118,110,147,162,181,296,371,365,562,825,924,826,649,571,558,442,306,335,315,275
+Rumänien,Romania,Covasna,RO,RO123,keine Daten,keine Daten,55,27,18,22,12,4,0,-3,9,23,19,16,22,37,36,46,66,81,85,69,96,107,90,121,128,140,218,262,283,409,497,477,419,306,229,197,142,107,155,154,101
+Rumänien,Romania,Harghita,RO,RO124,keine Daten,keine Daten,5,5,1,1,16,32,24,18,26,35,34,22,22,25,37,45,36,27,23,25,38,42,33,52,80,158,345,425,347,316,289,227,194,151,105,105,94,62,67,84,79
+Rumänien,Romania,Mures,RO,RO125,keine Daten,keine Daten,39,34,42,35,23,11,5,4,4,6,7,8,16,19,24,27,27,39,41,35,40,38,27,47,74,140,276,372,411,527,681,674,515,374,303,268,200,152,167,151,129
+Rumänien,Romania,Sibiu,RO,RO126,keine Daten,keine Daten,31,40,44,35,21,17,12,7,13,20,24,20,13,26,44,44,54,69,64,61,68,90,88,89,115,204,341,410,542,915,1193,1087,853,609,403,322,246,183,222,212,155
+Rumänien,Romania,Bacau,RO,RO211,keine Daten,keine Daten,17,19,34,34,18,18,10,9,11,9,11,15,23,45,88,106,97,97,105,113,139,141,107,142,194,259,322,301,291,342,376,405,395,354,299,251,202,167,214,230,183
+Rumänien,Romania,Botosani,RO,RO212,keine Daten,keine Daten,66,57,55,46,35,27,28,29,33,37,30,20,15,15,21,21,14,17,24,23,25,35,39,52,58,90,176,245,287,329,359,350,350,342,262,229,235,197,191,202,199
+Rumänien,Romania,Bihor,RO,RO111,keine Daten,keine Daten,50,45,25,7,7,11,19,17,6,3,2,6,8,6,24,57,95,134,130,106,116,125,94,89,90,99,195,316,420,593,715,644,517,414,338,313,253,187,235,233,169
+Rumänien,Romania,Giurgiu,RO,RO314,keine Daten,keine Daten,27,20,15,29,22,3,6,8,9,9,8,8,9,19,38,40,33,49,57,50,72,83,62,73,86,96,138,149,160,264,332,460,459,420,444,403,342,211,232,204,139
+Rumänien,Romania,Ialomita,RO,RO315,keine Daten,keine Daten,24,21,49,51,27,23,11,22,14,2,12,16,44,58,67,64,45,47,38,32,45,46,55,64,75,113,162,185,191,333,453,470,507,487,408,403,335,224,228,179,116
+Rumänien,Romania,Prahova,RO,RO316,keine Daten,keine Daten,2,4,3,1,1,3,4,3,9,16,32,52,61,79,132,141,132,160,161,131,108,113,98,109,130,175,267,298,256,534,735,598,559,460,356,320,250,173,165,152,116
+Rumänien,Romania,Teleorman,RO,RO317,keine Daten,keine Daten,18,7,0,3,7,8,8,4,2,2,3,4,11,19,41,44,27,31,40,35,57,78,75,121,173,207,282,288,232,303,364,342,319,298,268,300,306,249,236,204,154
+Rumänien,Romania,Bucuresti,RO,RO321,keine Daten,keine Daten,23,24,20,15,14,16,21,24,23,28,40,37,40,63,86,96,115,139,138,120,140,162,143,186,245,327,475,528,501,638,784,878,894,926,977,853,679,569,584,533,377
+Rumänien,Romania,Buzau,RO,RO222,keine Daten,keine Daten,1,1,7,15,22,20,14,15,33,50,60,53,63,89,98,90,90,123,121,93,90,72,42,46,56,77,123,153,165,265,328,308,280,237,221,204,152,108,115,97,65
+Rumänien,Romania,Constanta,RO,RO223,keine Daten,keine Daten,15,10,5,4,2,4,3,4,5,12,20,17,15,24,48,54,49,52,51,51,61,68,59,101,139,144,181,215,287,487,735,838,913,898,778,645,433,325,345,312,217
+Rumänien,Romania,Galati,RO,RO224,keine Daten,keine Daten,32,26,29,31,23,11,13,13,16,29,43,63,80,113,135,121,122,125,106,82,77,70,69,116,127,153,211,199,190,239,329,402,467,530,521,543,481,344,347,313,228
+Rumänien,Romania,Tulcea,RO,RO225,keine Daten,keine Daten,13,11,14,24,27,27,20,8,7,8,7,9,13,22,34,35,30,47,74,76,65,79,81,98,116,117,139,152,164,245,509,628,612,572,452,421,334,241,218,191,152
+Rumänien,Romania,Vrancea,RO,RO226,keine Daten,keine Daten,38,29,55,66,40,37,36,37,49,75,82,64,67,79,126,133,121,125,85,56,48,45,43,47,51,87,113,114,141,216,292,304,308,340,283,220,187,112,104,112,93
+Rumänien,Romania,Arges,RO,RO311,keine Daten,keine Daten,13,12,9,8,10,10,8,8,19,38,81,90,110,198,263,247,198,182,129,65,52,46,32,40,39,52,96,137,213,358,494,594,661,583,448,380,283,198,197,159,96
+Rumänien,Romania,Calarasi,RO,RO312,keine Daten,keine Daten,4,2,5,6,5,8,8,6,13,16,15,12,13,21,24,27,28,36,48,44,44,48,47,52,58,85,133,161,179,335,454,430,478,462,376,321,233,178,184,155,107
+Rumänien,Romania,Dâmbovita,RO,RO313,keine Daten,keine Daten,13,13,7,11,24,24,12,11,16,24,38,53,87,113,159,161,132,131,98,84,97,93,76,95,106,143,233,293,298,377,471,504,470,398,351,321,260,205,226,193,144
+Rumänien,Romania,Hunedoara,RO,RO423,keine Daten,keine Daten,60,45,37,20,19,15,4,3,2,1,5,6,15,30,50,63,30,104,138,72,78,73,63,96,113,147,226,272,293,399,564,613,578,496,362,339,307,218,232,245,232
+Rumänien,Romania,Ilfov,RO,RO322,keine Daten,keine Daten,22,26,24,25,21,27,21,11,20,23,24,30,36,47,63,66,65,96,95,78,94,110,99,123,145,156,239,339,334,530,916,1021,996,920,858,891,731,573,583,488,365
+Rumänien,Romania,Dolj,RO,RO411,keine Daten,keine Daten,5,7,10,8,6,9,10,6,4,4,7,12,15,21,41,58,54,87,90,58,73,84,81,91,101,146,267,329,376,452,448,389,374,314,236,230,178,168,207,193,148
+Rumänien,Romania,Gorj,RO,RO412,keine Daten,keine Daten,6,11,14,12,8,13,16,11,9,14,19,31,62,88,93,106,139,137,102,69,64,65,51,69,80,106,141,148,178,217,231,205,172,151,118,102,85,68,89,108,101
+Rumänien,Romania,Mehedinti,RO,RO413,keine Daten,keine Daten,14,15,11,10,10,10,7,12,18,17,14,17,39,57,172,189,87,82,76,56,54,54,52,62,48,79,138,173,199,260,338,400,376,266,211,201,174,132,137,129,97
+Rumänien,Romania,Olt,RO,RO414,keine Daten,keine Daten,1,6,8,3,1,6,10,10,10,13,26,34,40,57,76,69,62,76,75,56,50,72,75,63,71,113,216,261,249,389,487,460,424,326,253,249,213,158,172,161,118
+Rumänien,Romania,Vâlcea,RO,RO415,keine Daten,keine Daten,4,3,1,0,1,1,1,3,2,3,4,11,34,39,70,89,73,47,104,145,105,141,147,164,179,254,388,416,391,421,463,391,334,308,266,247,201,173,192,187,151
+Rumänien,Romania,Arad,RO,RO421,keine Daten,keine Daten,62,57,49,31,17,4,0,0,2,1,0,1,5,23,63,82,77,88,94,82,95,98,79,104,110,145,272,371,430,580,754,723,577,461,370,306,226,179,203,211,184
+Rumänien,Romania,Caras-Severin,RO,RO422,keine Daten,keine Daten,15,11,14,8,1,1,1,0,0,0,1,3,6,17,38,56,74,74,63,66,108,122,101,122,121,154,230,247,261,316,386,397,363,321,251,268,250,216,272,261,205
+Slowakei,Slovakia,Košický kraj,SK,SK042,keine Daten,keine Daten,keine Daten,15,4,0,2,3,1,0,1,1,1,1,2,2,3,3,4,7,13,21,21,22,27,51,97,171,254,355,397,359,331,263,243,297,355,523,606,608,680,626,503
+Slowakei,Slovakia,Banskobystrický kraj,SK,SK032,keine Daten,keine Daten,keine Daten,5,2,1,1,0,0,0,1,4,3,2,4,4,4,4,2,2,3,4,6,14,21,33,75,143,224,347,413,400,368,270,246,363,463,611,598,541,575,432,332
+Slowakei,Slovakia,Trnavský kraj,SK,SK021,keine Daten,keine Daten,keine Daten,9,4,0,1,1,1,0,0,0,0,1,2,1,2,4,12,18,19,16,17,31,63,96,131,205,297,370,453,495,443,403,418,459,534,705,648,656,873,828,755
+Slowakei,Slovakia,Trenciansky kraj,SK,SK022,keine Daten,keine Daten,keine Daten,11,3,3,3,1,0,0,0,0,2,6,7,6,12,16,20,24,23,21,17,22,42,70,114,212,337,528,647,698,693,571,567,663,778,1000,977,863,859,650,470
+Slowakei,Slovakia,Prešovský kraj,SK,SK041,keine Daten,keine Daten,keine Daten,8,2,1,0,0,0,0,1,1,2,3,5,6,5,7,6,8,11,11,16,23,28,74,178,330,510,726,751,631,600,506,405,402,454,599,592,541,608,499,353
+Slowakei,Slovakia,Bratislavský kraj,SK,SK010,keine Daten,keine Daten,keine Daten,10,4,2,1,1,0,0,1,1,3,5,6,9,12,15,18,26,48,54,73,84,83,119,151,175,232,306,357,342,261,218,238,351,483,678,704,737,903,766,635
+Slowakei,Slovakia,Nitriansky kraj,SK,SK023,keine Daten,keine Daten,keine Daten,7,4,3,2,1,1,0,0,0,0,1,1,5,6,2,2,3,4,10,25,37,35,69,125,158,198,281,358,353,343,327,307,358,470,654,640,737,961,898,656
+Slowakei,Slovakia,Žilinský kraj,SK,SK031,keine Daten,keine Daten,keine Daten,12,3,1,0,0,0,0,0,2,7,11,9,4,3,3,4,5,8,13,23,36,60,122,209,363,681,936,982,866,645,444,344,359,402,603,686,641,679,532,349
+Slowenien,Slovenia,Jugovzhodna Slovenija,SI,SI037,keine Daten,keine Daten,keine Daten,14,6,3,2,1,1,0,0,1,4,3,5,8,6,6,7,19,37,29,24,31,24,27,51,153,509,909,843,717,875,912,1074,1300,1309,1377,1553,1639,1575,1306,1041
+Slowenien,Slovenia,Primorsko-notranjska,SI,SI038,keine Daten,keine Daten,keine Daten,0,0,0,0,0,0,0,2,10,15,38,44,21,27,30,17,10,11,15,11,76,171,133,42,88,247,518,603,516,678,723,908,1210,990,775,874,834,874,906,801
+Slowenien,Slovenia,Gorenjska,SI,SI042,keine Daten,keine Daten,keine Daten,4,4,1,1,0,0,3,5,2,4,4,5,10,13,11,7,11,13,10,18,39,48,84,133,250,790,1715,1877,1387,1223,1012,852,850,744,692,739,820,955,950,816
+Slowenien,Slovenia,Goriška,SI,SI043,keine Daten,keine Daten,keine Daten,1,1,0,1,1,0,0,3,3,3,21,26,12,9,4,3,8,10,7,3,15,22,31,48,95,250,499,593,593,678,657,619,717,684,576,622,818,1239,1306,1151
+Slowenien,Slovenia,Obalno-kraška,SI,SI044,keine Daten,keine Daten,keine Daten,2,0,0,0,0,0,0,3,6,16,16,10,9,3,2,3,9,15,13,9,11,15,24,37,48,137,412,471,365,450,456,569,777,695,633,785,818,900,902,871
+Slowenien,Slovenia,Posavska,SI,SI036,keine Daten,keine Daten,keine Daten,1,0,0,0,0,1,1,1,3,3,3,5,9,9,4,0,3,15,32,40,26,13,30,54,150,494,789,634,494,601,683,1050,1518,1192,1273,1918,2055,2118,1734,1228
+Slowenien,Slovenia,Zasavska,SI,SI035,keine Daten,keine Daten,keine Daten,9,7,4,2,0,0,0,0,0,2,5,26,81,125,79,18,19,18,9,11,28,44,119,162,169,407,776,751,643,858,932,981,177,-365,1717,2233,1129,1296,1097,922
+Slowenien,Slovenia,Pomurska,SI,SI031,keine Daten,keine Daten,keine Daten,33,31,18,2,0,0,0,0,1,2,5,17,21,10,3,1,4,17,24,27,40,39,47,87,129,340,909,1144,1325,1627,1528,1525,1492,1292,1247,1263,1301,1436,1241,941
+Slowenien,Slovenia,Podravska,SI,SI032,keine Daten,keine Daten,keine Daten,4,4,2,0,0,0,1,1,0,3,10,9,3,2,1,2,8,10,11,24,64,79,81,102,131,282,613,801,832,1001,1102,1163,1260,1119,983,1043,1016,1039,966,791
+Slowenien,Slovenia,Osrednjeslovenska,SI,SI041,keine Daten,keine Daten,keine Daten,5,3,1,1,1,1,1,1,2,7,10,9,7,10,10,9,21,30,25,28,57,81,107,125,217,530,1019,1157,955,871,727,710,783,784,633,654,851,934,932,766
+Slowenien,Slovenia,Savinjska,SI,SI034,keine Daten,keine Daten,keine Daten,15,4,3,2,0,0,0,0,1,3,3,7,12,16,17,15,21,29,31,34,70,86,96,115,157,380,915,1073,882,946,1021,1221,1275,1198,1096,1062,1171,1325,1220,888
+Slowenien,Slovenia,Koroška,SI,SI033,keine Daten,keine Daten,keine Daten,6,3,4,1,0,0,0,0,0,7,34,38,14,7,7,7,16,21,23,24,43,64,188,252,245,575,1047,1128,1002,1105,1350,1526,1428,1138,959,1080,1309,1514,1234,677
+Spanien,Spain,Comunidad Foral de Navarra,ES,ES22,299,352,188,59,62,41,30,18,12,15,8,18,23,11,22,72,142,151,160,204,221,289,367,503,626,693,681,764,1011,1158,1120,916,636,381,278,225,183,186,190,215,293,389,477
+Spanien,Spain,La Rioja,ES,ES23,590,578,285,118,78,29,12,8,9,9,5,4,2,2,9,16,27,27,36,144,260,358,394,380,450,471,395,387,549,711,729,758,732,571,435,306,215,224,239,336,565,933,1285
+Spanien,Spain,País Vasco,ES,ES21,231,245,143,60,43,22,17,11,4,6,6,8,6,6,9,39,76,93,160,250,307,367,385,353,319,281,258,280,372,523,632,785,848,679,476,347,307,280,245,238,302,413,552
+Spanien,Spain,Ciudad Autónoma de Ceuta,ES,ES63,86,86,20,4,11,15,8,6,46,52,9,0,0,0,0,1,1,2,5,31,73,116,130,149,167,204,252,340,391,571,839,1009,891,591,375,192,137,108,106,190,337,421,519
+Spanien,Spain,Ciudad Autónoma de Melilla,ES,ES64,63,63,17,12,15,6,2,2,1,1,2,5,2,0,0,4,4,13,53,76,116,178,237,354,337,365,477,572,854,1184,1353,1122,772,628,449,287,233,243,216,256,430,674,1020
+Spanien,Spain,Canarias,ES,ES70,43,36,18,9,6,3,3,2,3,3,1,2,2,1,2,5,7,6,20,49,99,160,188,166,127,107,98,87,79,76,69,74,79,75,78,70,113,153,124,125,150,173,188
+Spanien,Spain,Aragón,ES,ES24,252,183,105,46,32,20,19,17,16,15,10,17,37,38,47,167,336,690,566,336,447,331,293,343,387,372,298,374,559,872,1074,931,725,492,345,284,217,189,197,257,400,611,748
+Spanien,Spain,Comunidad de Madrid,ES,ES30,458,492,190,91,63,32,30,31,40,41,26,23,19,15,11,17,33,67,131,257,402,500,587,700,804,839,754,567,457,464,402,363,353,284,237,224,244,320,351,387,613,822,963
+Spanien,Spain,Castilla y León,ES,ES41,253,378,246,82,88,48,37,24,17,24,18,14,13,10,6,7,12,29,78,128,167,230,272,315,381,435,437,439,536,750,862,904,949,809,533,313,227,204,170,189,446,920,1333
+Spanien,Spain,Castilla-La Mancha,ES,ES42,378,498,199,-8,52,29,23,18,33,40,25,19,16,15,12,9,12,23,40,71,125,185,264,398,482,502,463,363,388,520,572,594,577,452,399,347,261,307,339,390,610,1100,1434
+Spanien,Spain,Extremadura,ES,ES43,108,103,56,12,15,13,7,3,2,2,2,3,4,5,16,20,11,17,29,45,79,115,153,197,287,304,231,236,307,442,537,578,512,355,261,195,163,287,420,612,1040,1416,1416
+Spanien,Spain,Región de Murcia,ES,ES62,45,33,14,4,3,2,4,4,3,3,2,2,4,4,5,10,26,44,60,78,107,193,296,349,432,469,407,359,407,504,644,871,845,539,302,200,160,153,171,252,316,1138,1812
+Spanien,Spain,Cantabria,ES,ES13,143,135,90,50,34,13,9,6,7,8,4,3,4,4,2,6,12,28,54,98,139,182,235,275,246,168,123,109,161,300,377,447,521,481,360,288,243,169,159,194,279,356,413
+Spanien,Spain,Comunidad Valenciana,ES,ES52,85,88,49,17,15,8,6,5,7,7,4,3,3,4,5,10,21,36,56,79,102,143,156,153,153,150,149,121,149,218,252,326,412,425,366,330,307,377,445,451,694,1177,1821
+Spanien,Spain,Illes Balears,ES,ES53,60,56,37,18,10,6,5,6,13,9,1,4,4,4,5,7,11,35,93,164,261,307,270,248,256,205,145,147,147,181,219,253,258,217,206,231,289,410,518,557,610,682,701
+Spanien,Spain,Andalucía,ES,ES61,63,62,31,16,11,4,2,3,3,3,2,1,3,5,5,9,14,21,36,60,88,117,142,153,179,209,194,215,329,454,589,661,649,533,390,284,173,151,147,151,308,663,971
+Spanien,Spain,Cataluña,ES,ES51,221,293,219,140,83,82,63,10,41,44,12,20,20,29,52,92,144,174,168,159,182,205,214,168,181,208,214,299,406,666,767,728,613,379,272,221,221,279,335,359,712,1035,961
+Spanien,Spain,Galicia,ES,ES11,164,159,92,25,4,12,5,2,3,3,1,1,2,6,9,7,7,12,24,54,92,124,135,126,120,113,108,134,174,237,299,317,310,286,238,180,169,182,188,207,299,485,703
+Spanien,Spain,Principado de Asturias,ES,ES12,85,99,52,13,8,4,4,2,5,5,1,0,0,0,1,1,3,11,24,32,38,46,60,72,96,121,128,175,259,341,396,487,629,586,411,305,223,157,120,123,186,317,493
+Schweden,Sweden,Södermanlands län,SE,SE122,keine Daten,keine Daten,122,134,152,108,54,56,45,28,51,95,113,106,65,36,21,5,9,11,6,4,4,8,15,23,24,35,63,106,168,319,478,520,455,390,438,517,526,520,544,442,322
+Schweden,Sweden,Östergötlands län,SE,SE123,keine Daten,keine Daten,88,87,69,54,54,64,61,74,113,132,136,100,44,25,18,22,30,32,31,21,19,26,24,33,52,78,122,208,325,440,401,274,256,308,386,476,468,606,722,625,525
+Schweden,Sweden,Uppsala län,SE,SE121,keine Daten,keine Daten,86,105,118,112,102,103,117,143,141,150,213,152,41,33,26,20,26,28,29,22,18,28,35,47,95,192,221,202,318,507,639,722,753,738,765,855,781,668,632,481,356
+Schweden,Sweden,Jönköpings län,SE,SE211,keine Daten,keine Daten,70,96,101,84,82,95,108,120,237,387,446,309,124,88,52,34,41,39,30,24,33,53,61,58,59,91,141,199,314,510,661,703,650,587,635,739,722,717,778,666,561
+Schweden,Sweden,Kronobergs län,SE,SE212,keine Daten,keine Daten,62,81,104,119,125,123,107,91,75,52,31,19,14,26,29,27,67,79,51,43,32,49,71,92,94,77,101,216,384,585,716,638,590,584,630,832,855,887,1005,841,657
+Schweden,Sweden,Örebro län,SE,SE124,keine Daten,keine Daten,143,174,172,145,110,106,112,98,99,84,60,68,37,7,15,25,35,33,20,21,34,43,50,52,75,155,225,362,521,669,803,815,697,545,513,543,555,570,566,450,372
+Schweden,Sweden,Västmanlands län,SE,SE125,keine Daten,keine Daten,123,116,99,75,72,86,106,133,178,187,166,141,89,45,23,28,30,28,24,16,23,34,33,102,119,87,96,144,233,443,747,916,931,920,948,898,816,756,667,514,407
+Schweden,Sweden,Värmlands län,SE,SE311,keine Daten,keine Daten,16,22,46,49,34,48,76,86,81,66,63,49,17,10,8,15,31,33,23,14,12,14,15,17,26,32,45,74,119,205,280,309,326,378,421,439,406,394,378,277,207
+Schweden,Sweden,Dalarnas län,SE,SE312,keine Daten,keine Daten,92,111,137,95,58,59,57,66,60,48,89,118,78,42,24,22,29,28,30,38,35,49,81,77,65,72,102,145,217,355,465,491,509,540,628,750,747,685,580,460,389
+Schweden,Sweden,Gävleborgs län,SE,SE313,keine Daten,keine Daten,76,76,85,104,116,112,109,135,182,182,221,229,179,96,22,23,25,30,26,22,16,24,23,35,52,58,56,71,115,236,439,632,781,913,1033,1415,1394,1020,861,574,388
+Schweden,Sweden,Västernorrlands län,SE,SE321,keine Daten,keine Daten,24,42,58,55,70,101,123,123,114,119,140,125,95,74,48,37,29,23,18,9,5,11,13,16,23,31,33,36,74,218,441,690,828,896,987,1037,861,710,679,559,471
+Schweden,Sweden,Jämtlands län,SE,SE322,keine Daten,keine Daten,90,102,132,133,133,146,140,127,137,127,91,62,41,39,32,28,23,17,12,12,25,23,21,53,73,161,187,97,82,162,317,556,613,498,527,586,572,576,622,511,391
+Schweden,Sweden,Västerbottens län,SE,SE331,keine Daten,keine Daten,38,40,34,25,32,37,29,27,29,35,48,40,19,7,4,10,14,20,17,7,6,11,23,51,56,41,40,51,119,323,492,540,617,630,664,731,623,555,483,331,287
+Schweden,Sweden,Norrbottens län,SE,SE332,keine Daten,keine Daten,38,34,32,28,24,24,38,64,117,191,238,166,67,51,39,23,18,16,8,6,5,5,10,28,45,60,80,93,146,336,452,557,694,629,504,469,440,360,417,496,462
+Schweden,Sweden,Kalmar län,SE,SE213,keine Daten,keine Daten,19,28,38,34,26,27,40,49,54,58,61,59,36,22,16,10,14,21,27,21,9,7,7,10,10,14,32,65,110,228,334,358,472,521,535,645,663,743,835,678,504
+Schweden,Sweden,Gotlands län,SE,SE214,keine Daten,keine Daten,10,32,66,49,14,10,29,35,51,78,81,62,41,73,88,86,93,73,37,12,7,8,14,12,34,61,52,73,186,478,717,658,731,913,874,733,540,435,442,356,230
+Schweden,Sweden,Blekinge län,SE,SE221,keine Daten,keine Daten,4,13,21,13,16,41,72,98,103,69,41,28,16,11,9,16,41,51,29,15,9,6,11,58,93,85,57,76,128,173,249,323,379,486,640,745,833,1008,1068,879,613
+Schweden,Sweden,Skåne län,SE,SE224,keine Daten,keine Daten,13,17,27,28,27,34,36,35,40,52,54,32,17,25,25,22,30,37,43,39,27,32,36,43,52,60,95,171,267,425,545,620,747,972,1203,1435,1450,1351,1393,1133,816
+Schweden,Sweden,Hallands län,SE,SE231,keine Daten,keine Daten,28,45,52,44,47,53,70,83,85,80,137,119,35,33,27,37,60,59,55,53,40,43,53,74,79,88,100,137,216,364,440,410,536,578,555,731,936,1140,1132,912,783
+Schweden,Sweden,Västra Götalands län,SE,SE232,keine Daten,keine Daten,48,59,83,86,86,93,102,182,287,274,253,185,87,-10,-23,63,76,66,46,32,29,34,35,49,54,57,82,142,250,404,491,510,523,524,688,900,906,850,835,719,331
+Schweden,Sweden,Stockholms län,SE,SE110,keine Daten,keine Daten,110,112,113,94,78,68,71,152,168,143,182,135,69,-15,-32,27,32,34,29,21,17,22,37,67,93,119,151,212,359,574,755,826,890,910,925,934,772,599,497,373,300
+Afghanistan,Afghanistan,Afghanistan,AF,AF,1,1,2,2,4,7,10,16,22,25,25,22,16,11,9,6,5,3,2,2,2,1,1,1,2,1,1,1,2,3,4,4,5,7,6,7,9,6,7,7,4,3,3
+Albanien,Albania,Albanien,AL,AL,10,8,7,10,8,5,5,5,7,9,13,24,31,34,37,42,46,50,58,65,70,70,64,69,74,67,66,75,97,131,145,176,232,299,342,357,381,350,281,225,245,288,303
+Algerien,Algeria,Algerien,DZ,DZ,3,3,3,3,4,5,6,6,5,4,3,4,5,10,14,16,19,19,18,16,14,13,11,9,8,6,5,5,5,7,9,13,21,29,33,31,23,16,15,12,8,8,8
+Andorra,Andorra,Andorra,AD,AD,509,399,278,134,46,20,17,11,4,117,117,4,3,0,0,33,55,59,77,84,117,177,223,289,458,646,717,1129,1663,1762,1901,1766,1374,1146,1103,1042,822,692,327,807,1437,1170,1138
+Angola,Angola,Angola,AO,AO,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,2,2,2,3,4,4,5,6,8,10,10,8,7,5,3,3,3,3,3,3,4,4
+Anguilla,Anguilla,Anguilla,AI,AI,20,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,7,33,40,7,20,33,13,0,7
+Argentinien,Argentina,Argentinien,AR,AR,3,3,3,3,4,4,7,14,20,24,33,44,58,72,88,104,144,164,175,205,210,248,299,321,334,365,388,405,423,435,407,335,303,284,240,205,176,186,204,207,311,369,318
+Armenien,Armenia,Armenien,AM,AM,22,19,17,26,39,53,78,126,158,210,256,245,272,282,237,204,177,139,102,86,80,70,67,71,89,119,171,238,412,755,970,967,825,649,582,528,458,396,313,208,146,150,128
+Aruba,Aruba,Aruba,AW,AW,60,39,31,7,3,1,1,0,0,0,0,0,0,4,4,7,13,8,416,918,941,838,825,983,1032,747,495,328,228,212,185,169,134,123,165,219,198,198,257,363,698,816,631
+Australien,Australia,Australien,AU,AU,16,9,3,2,1,1,1,1,1,1,0,1,1,4,8,13,18,24,26,21,15,9,6,4,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Österreich,Austria,Österreich,AT,AT,94,58,31,14,9,7,7,7,6,5,4,5,7,11,14,15,19,20,17,23,36,43,45,69,106,114,114,141,191,300,514,790,1043,1057,843,619,472,398,354,320,320,300,246
+Aserbaidschan,Azerbaijan,Aserbaidschan,AZ,AZ,5,9,8,5,5,9,13,16,22,34,44,51,64,75,75,71,59,49,35,18,17,21,20,20,18,17,15,19,42,79,113,152,190,273,419,528,569,546,391,179,92,70,41
+Bahamas,Bahamas,Bahamas,BS,BS,6,8,8,8,6,3,3,2,2,1,0,0,0,0,2,12,59,126,141,170,220,217,199,194,210,219,264,328,329,339,257,137,120,119,79,42,45,47,41,40,43,36,33
+Bahrain,Bahrain,Bahrain,BH,BH,22,37,69,89,89,135,210,247,261,331,420,411,421,447,425,415,364,301,287,288,295,302,337,471,572,540,480,383,308,292,236,188,163,132,122,131,138,138,152,188,225,243,229
+Bangladesch,Bangladesh,Bangladesch,BD,BD,0,0,1,3,4,6,8,12,15,20,25,28,31,30,28,26,24,22,21,22,22,21,19,16,14,13,12,12,12,12,13,13,14,16,18,18,17,14,11,9,8,7,6
+Barbados,Barbados,Barbados,BB,BB,14,13,7,3,2,2,2,3,1,0,1,2,0,0,2,2,2,9,11,7,7,8,6,3,3,3,3,6,8,7,5,5,5,6,9,10,7,12,23,99,182,170,180
+Belarus,Belarus,Belarus,BY,BY,5,26,55,83,115,132,137,140,137,132,121,105,79,53,37,27,23,21,18,15,17,23,25,26,30,36,49,63,78,98,124,142,156,188,220,245,268,279,299,280,269,290,250
+Belgien,Belgium,Belgien,BE,BE,156,182,167,119,77,54,45,31,23,17,13,12,11,11,12,18,34,55,71,71,63,57,59,86,142,187,263,504,969,1550,1788,1340,768,491,337,275,280,301,264,209,228,249,253
+Belize,Belize,Belize,BZ,BZ,1,3,3,1,0,0,0,0,0,0,1,1,1,2,3,3,3,4,27,99,134,136,145,122,92,94,143,144,155,181,163,259,352,253,222,650,893,598,318,190,187,153,117
+Benin,Benin,Benin,BJ,BJ,0,0,0,0,0,2,2,-1,-1,1,2,4,6,4,2,3,3,2,1,2,1,1,1,1,1,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,1,3
+Bermuda,Bermuda,Bermuda,BM,BM,50,56,79,84,47,14,13,24,27,13,6,8,3,0,6,11,6,5,6,10,14,11,13,13,8,6,2,5,6,11,22,29,37,29,47,98,289,384,241,153,120,98,48
+Bhutan,Bhutan,Bhutan,BT,BT,0,0,0,0,0,0,2,2,3,4,3,1,1,2,1,1,1,2,2,5,6,11,10,3,4,4,5,5,4,4,3,2,3,3,3,6,5,5,24,32,25,16,5
+Bolivien,Bolivia,Bolivien,BO,BO,1,2,3,5,9,14,21,32,50,63,73,92,112,128,143,174,182,176,176,173,164,134,100,93,85,61,53,40,25,20,18,14,12,12,12,14,22,41,66,105,163,210,248
+Bosnien und Herzegowina,Bosnia and Herzegovina,Bosnien und Herzegowina,BA,BA,16,21,18,16,18,18,13,9,7,8,15,23,37,60,81,93,97,111,130,104,109,130,99,112,131,105,78,114,187,312,530,656,591,536,502,442,419,336,261,217,185,166,134
+Botswana,Botswana,Botswana,BW,BW,keine Daten,1,1,0,0,0,0,1,1,0,1,2,3,8,12,11,12,12,9,17,17,18,30,26,24,28,26,68,88,60,60,81,67,75,75,82,123,63,49,74,86,111,153
+Brasilien,Brazil,Brasilien,BR,BR,5,8,13,19,29,47,66,94,129,155,166,185,224,244,245,233,261,299,290,285,268,246,250,220,192,189,174,171,151,141,146,127,149,192,212,250,276,311,274,221,305,366,348
+Britische Jungferninseln,British Virgin Islands,Britische Jungferninseln,VG,VG,10,3,3,10,7,3,7,3,0,0,0,0,0,0,0,0,0,3,3,0,40,93,139,96,26,17,0,0,0,3,3,0,0,0,3,3,23,43,43,36,13,79,132
+Brunei,Brunei,Brunei,BN,BN,11,2,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,5,0,0
+Bulgarien,Bulgaria,Bulgarien,BG,BG,5,5,5,9,10,9,9,7,4,4,11,17,20,26,37,43,45,46,42,34,27,26,25,25,26,31,39,62,113,193,351,532,631,667,632,566,528,425,261,169,154,125,90
+Burkina Faso,Burkina Faso,Burkina Faso,BF,BF,1,2,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,2,2,1,2,1,1,1,1,1,1,1,1,2,6,9,11,9,9,10,9
+Burundi,Burundi,Burundi,BI,BI,keine Daten,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,4
+Kap Verde,Cabo Verde,Kap Verde,CV,CV,1,1,10,17,19,25,29,24,19,31,57,60,73,101,98,106,110,91,99,114,117,121,148,173,167,172,198,234,250,238,197,175,175,163,127,142,149,93,66,61,128,193,190
+Kambodscha,Cambodia,Kambodscha,KH,KH,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kamerun,Cameroon,Kamerun,CM,CM,2,3,1,3,4,4,5,9,10,11,15,14,10,8,10,9,6,4,5,5,3,3,3,4,3,2,2,2,2,1,1,3,3,4,5,5,5,4,3,4,2,4,10
+Kanada,Canada,Kanada,CA,CA,37,48,51,60,65,58,46,42,37,29,21,15,12,11,11,13,17,17,15,14,14,16,19,23,31,44,60,66,85,101,103,127,157,176,197,224,240,265,242,229,308,300,225
+Cayman Islands,Cayman Islands,Cayman Islands,KY,KY,55,68,33,26,20,17,30,73,72,53,70,47,14,9,8,3,3,0,0,0,3,3,0,5,6,3,6,17,30,27,11,17,21,17,30,41,37,43,30,47,67,50,32
+Zentralafrikanische Republik,Central African Republic,Zentralafrikanische Republik,CF,CF,0,0,0,0,1,3,5,9,14,21,25,24,25,24,18,11,6,3,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0
+Tschad,Chad,Tschad,TD,TD,0,0,0,0,1,2,2,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,2,3,4,4
+Chile,Chile,Chile,CL,CL,20,27,29,32,50,81,126,210,292,340,390,566,511,278,225,185,161,151,143,137,129,126,130,130,124,121,125,123,113,108,105,102,102,100,100,103,112,142,158,161,229,291,300
+China,China,China,CN,CN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kolumbien,Colombia,Kolumbien,CO,CO,2,4,5,5,8,11,16,20,27,35,42,58,80,95,115,158,194,237,272,296,302,274,246,213,194,190,177,193,205,206,243,252,227,205,215,241,231,289,350,310,389,486,444
+Komoren,Comoros,Komoren,KM,KM,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,1,1,9,11,6,8,12,11,7,5,3,3,6,7,2,2,2,4,4,2,3,2,2,2,3,5,5,4,4,4,2,2,6,12,23,49,84,127
+Kongo,Congo,Kongo,CG,CG,1,1,2,2,1,2,3,4,4,4,3,6,8,10,16,19,17,14,11,8,3,3,14,17,6,1,2,2,1,2,2,2,2,5,7,3,8,8,7,16,12,11,10
+Costa Rica,Costa Rica,Costa Rica,CR,CR,6,6,4,2,2,2,2,3,4,8,13,18,28,55,88,120,150,154,158,186,207,221,257,309,330,326,304,302,321,307,284,261,260,256,272,280,316,318,247,246,281,267,210
+Elfenbeinküste,Côte d’Ivoire,Elfenbeinküste,CI,CI,1,2,2,2,2,2,3,3,3,5,9,14,15,12,14,13,11,8,4,3,3,3,4,4,3,2,2,2,2,1,1,1,1,1,1,1,1,2,2,3,6,10,12
+Kroatien,Croatia,Kroatien,HR,HR,23,22,17,11,6,4,3,1,0,0,0,2,11,20,25,30,28,22,18,32,63,87,93,84,73,65,67,104,194,391,636,757,802,895,1040,1144,1209,1113,720,423,367,299,217
+Kuba,Cuba,Kuba,CU,CU,3,5,6,6,5,4,2,2,2,2,2,1,1,1,1,1,1,2,4,6,6,6,6,6,7,7,6,5,4,5,6,6,6,5,6,8,11,13,18,22,32,50,60
+Curaçao,Curaçao,Curaçao,CW,CW,7,3,2,1,1,0,0,1,2,2,2,1,1,1,1,2,2,1,1,3,7,14,30,61,107,124,112,136,178,168,148,146,215,397,624,845,768,511,321,209,191,124,51
+Zypern,Cyprus,Zypern,CY,CY,40,48,37,21,12,9,5,4,3,3,4,3,1,2,3,4,4,13,21,21,20,18,10,4,10,19,26,33,94,178,219,279,299,303,366,435,539,598,520,718,878,570,304
+Tschechien,Czechia,Tschechien,CZ,CZ,32,30,21,13,9,7,7,8,7,6,7,8,15,19,15,13,20,27,28,30,34,41,59,111,198,267,312,493,859,1324,1575,1472,1112,727,560,512,576,758,876,1119,1513,1363,982
+DR Kongo,Democratic Republic of the Congo,DR Kongo,CD,CD,0,0,0,0,0,1,1,1,2,2,2,2,2,2,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,2,2,3,3,3,3,3
+Dänemark,Denmark,Dänemark,DK,DK,51,65,52,41,37,32,24,16,13,10,9,8,8,8,5,6,8,11,17,31,29,19,24,43,74,128,135,100,98,137,205,254,256,265,297,346,524,755,751,590,506,365,217
+Dschibuti,Djibouti,Dschibuti,DJ,DJ,6,20,80,82,27,19,29,107,198,196,112,38,18,21,33,22,8,15,30,21,4,2,1,1,2,1,2,1,4,11,11,7,9,6,3,3,5,8,9,6,6,6,5
+Dominica,Dominica,Dominica,DM,DM,18,7,3,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,1,3,1,6,6,0,10,11,3,8,13,6,36,49,24,11,4,10,6,6,24,24,6
+Dominikanische Republik,Dominican Republic,Dominikanische Republik,DO,DO,14,19,27,29,30,39,40,38,46,48,52,65,78,99,121,142,169,179,155,130,105,73,75,87,83,71,57,65,63,56,55,52,59,76,90,93,103,116,117,113,146,199,202
+Ecuador,Ecuador,Ecuador,EC,EC,16,32,33,86,114,39,21,41,34,36,43,43,48,64,72,68,73,71,78,85,75,69,11,28,94,92,83,70,69,83,90,75,63,61,67,70,57,47,43,47,67,97,114
+Ägypten,Egypt,Ägypten,EG,EG,1,1,2,2,3,5,6,8,12,16,19,21,20,20,16,12,10,7,3,2,2,2,3,2,2,2,2,2,2,2,2,3,3,4,5,5,6,7,11,16,17,14,12
+El Salvador,El Salvador,El Salvador,SV,SV,1,1,2,3,5,10,12,15,18,17,19,25,34,49,58,63,76,86,89,84,65,43,26,20,19,25,29,24,34,37,36,39,36,37,32,43,54,53,42,51,66,67,71
+Äquatorialguinea,Equatorial Guinea,Äquatorialguinea,GQ,GQ,1,0,4,17,17,13,20,43,51,19,0,26,50,100,76,0,0,125,125,0,7,9,3,4,2,2,3,2,2,1,1,1,1,3,3,3,3,5,4,3,3,6,11
+Eritrea,Eritrea,Eritrea,ER,ER,1,1,0,0,0,0,0,0,0,0,2,3,3,2,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,2,2,2,4,5,9,16,15,14,11
+Estland,Estonia,Estland,EE,EE,58,48,33,25,13,7,6,6,7,9,8,3,1,1,2,2,2,4,9,8,9,14,18,23,31,40,52,50,36,41,68,129,200,272,333,397,453,514,585,583,604,590,522
+Eswatini,Eswatini,Eswatini,SZ,SZ,0,0,1,4,8,10,8,7,7,7,18,26,25,30,49,69,74,85,89,92,85,62,54,44,36,31,26,21,18,16,12,13,15,19,27,24,31,80,165,217,261,259,106
+Äthiopien,Ethiopia,Äthiopien,ET,ET,0,0,0,0,0,0,0,0,1,1,2,2,2,1,2,3,6,7,8,10,16,18,16,11,9,8,9,10,9,8,6,6,5,5,6,7,6,6,6,5,5,5,4
+Falkland Inseln,Falkland Islands,Falkland Inseln,FK,FK,keine Daten,144,258,230,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57,86,57,29,57,172,258,172,29,86,230
+Färöer Inseln,Faroes,Färöer Inseln,FO,FO,135,51,8,6,4,0,0,0,0,0,0,0,0,0,2,8,6,70,205,301,190,80,59,25,43,76,82,35,23,27,20,14,6,6,8,20,53,74,111,151,131,59,12
+Fiji,Fiji,Fiji,FJ,FJ,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0
+Finnland,Finland,Finnland,FI,FI,24,32,34,29,27,25,20,11,9,7,4,3,2,2,2,1,2,2,3,5,6,6,7,9,12,20,28,42,52,52,52,53,55,70,96,109,112,100,78,68,63,62,72
+Frankreich,France,Frankreich,FR,FR,81,82,63,44,28,22,17,9,14,14,8,10,9,10,12,12,15,20,26,46,67,89,122,154,192,235,247,293,415,602,771,968,847,527,353,227,236,270,277,272,329,381,403
+Französisch-Polynesien,French Polynesia,Französisch-Polynesien,PF,PF,8,6,5,1,1,1,1,0,0,0,0,0,1,1,0,0,0,0,0,46,62,81,163,168,222,157,230,484,653,1105,1234,1494,1582,1062,851,758,588,383,286,265,246,252,140
+Gabun,Gabon,Gabun,GA,GA,1,2,4,5,10,22,44,57,60,52,36,60,78,54,33,31,47,55,42,31,21,13,10,6,4,4,5,5,4,4,4,5,4,5,6,6,7,7,7,8,10,13,30
+Georgien,Georgia,Georgien,GE,GE,3,4,6,6,5,4,3,2,2,2,2,3,1,1,2,2,4,4,3,4,4,4,6,23,52,79,111,156,235,464,629,761,1009,1204,1322,1411,1391,1115,779,509,442,455,352
+Deutschland,Germany,Deutschland,DE,DE,85,79,56,39,26,17,14,11,9,7,6,7,9,7,6,6,8,10,13,16,21,22,21,22,26,30,34,48,79,136,215,282,309,310,304,307,341,394,379,319,324,319,266
+Ghana,Ghana,Ghana,GH,GH,1,1,3,3,4,9,11,8,8,10,13,15,17,19,23,24,27,30,26,18,8,5,4,4,4,3,3,2,2,2,3,5,6,5,5,5,5,4,5,5,6,8,19
+Gibraltar,Gibraltar,Gibraltar,GI,GI,261,190,89,36,33,15,9,15,65,71,21,3,3,6,9,6,15,24,36,80,95,208,255,134,104,145,243,315,413,540,392,374,591,490,332,282,181,567,1873,3449,4345,3752,2363
+Griechenland,Greece,Griechenland,EL,EL,10,9,5,4,4,2,2,2,1,1,2,3,2,2,4,5,4,6,13,22,28,29,27,29,34,39,44,46,52,79,145,242,310,326,280,222,189,145,106,84,82,79,68
+Grönland,Greenland,Grönland,GL,GL,16,2,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,4,4,2,2,0,0,2,2,0,2,2,12,14,2,5,5
+Grenada,Grenada,Grenada,GD,GD,10,4,2,4,6,3,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,3,4,1,4,4,8,8,0,25,59,42,24,17,4,12
+Guam,Guam,Guam,GU,GU,49,46,15,5,8,5,3,9,12,8,6,25,40,47,35,11,20,29,43,113,238,467,473,322,295,274,345,429,578,674,603,603,846,780,413,270,171,123,97,69,91,94,78
+Guatemala,Guatemala,Guatemala,GT,GT,0,1,1,2,2,3,7,13,18,20,27,34,40,56,69,86,88,70,64,63,65,63,53,45,43,46,48,43,41,39,38,36,38,41,40,39,41,45,34,28,43,59,63
+Guernsey,Guernsey,Guernsey,GG,GG,213,268,132,45,20,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,5,3,3,2,11,19,22,19,6,6,8,5,8,12,11,12,14,25
+Guinea,Guinea,Guinea,GN,GN,1,2,3,6,8,8,8,9,8,7,6,6,6,5,6,7,7,6,7,9,8,7,6,5,5,4,3,3,6,5,5,6,3,3,3,3,3,2,2,2,2,3,3
+Guinea Bissau,Guinea-Bissau,Guinea Bissau,GW,GW,1,2,2,1,12,34,35,23,17,10,7,9,8,11,12,8,6,3,5,7,5,4,5,4,3,2,3,3,1,1,1,1,0,0,0,1,1,0,0,0,2,3,3
+Guyana,Guyana,Guyana,GY,GY,3,5,5,4,2,4,4,4,5,2,1,4,9,11,9,8,9,18,25,30,49,67,65,79,102,117,105,89,81,70,60,62,78,79,70,68,69,64,47,24,59,70,72
+Haiti,Haiti,Haiti,HT,HT,0,0,0,0,0,1,3,7,15,21,19,16,13,10,8,6,5,4,3,4,4,3,2,2,2,2,2,1,1,1,1,1,1,1,1,1,3,4,4,3,2,7,9
+Honduras,Honduras,Honduras,HN,HN,3,3,2,3,6,13,16,20,26,24,37,65,93,113,101,100,113,95,83,74,71,98,104,77,69,74,81,91,89,92,99,74,49,40,48,67,65,61,58,64,79,108,142
+Ungarn,Hungary,Ungarn,HU,HU,6,10,13,12,11,7,5,5,3,2,2,1,1,1,1,2,2,2,3,4,5,11,33,65,107,127,129,142,167,235,358,545,662,646,713,780,683,522,336,243,276,244,172
+Island,Iceland,Island,IS,IS,257,191,80,25,8,3,1,1,1,1,1,2,3,4,3,3,4,19,31,29,30,26,22,17,57,128,161,253,318,258,234,176,84,56,54,57,49,45,47,31,48,61,26
+Indien,India,Indien,IN,IN,0,1,1,1,2,3,4,5,7,9,10,12,16,20,24,30,40,50,56,61,65,71,80,89,93,89,82,76,67,57,49,47,45,42,43,39,33,27,23,21,19,17,15
+Indonesien,Indonesia,Indonesien,ID,ID,1,1,2,2,2,2,2,3,3,3,4,5,6,7,8,8,8,9,10,10,10,12,15,17,18,21,22,21,21,21,19,18,20,22,25,29,31,33,35,34,42,55,59
+Iran,Iran,Iran,IR,IR,44,40,29,22,18,20,27,33,37,43,43,39,42,42,41,40,40,42,42,40,38,36,33,34,42,53,59,64,70,82,107,135,169,205,222,222,190,133,110,109,102,104,103
+Irak,Iraq,Irak,IQ,IQ,2,2,1,1,2,2,3,4,8,20,34,46,63,74,80,80,81,91,100,119,135,135,139,147,146,147,149,131,118,123,121,116,109,91,78,72,60,50,42,35,17,25,38
+Irland,Ireland,Irland,IE,IE,86,144,207,196,128,76,53,34,18,11,6,4,3,3,4,5,5,8,17,22,26,31,35,45,66,82,104,154,243,298,246,169,120,103,88,77,80,108,203,456,1254,1444,814
+Isle of Man,Isle of Man,Isle of Man,IM,IM,147,219,201,94,27,26,16,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,4,7,7,2,6,11,12,13,7,2,5,4,1,8,26,56,42
+Israel,Israel,Israel,IL,IL,85,80,58,49,31,12,5,3,5,14,24,33,54,106,172,235,269,263,243,227,233,247,318,492,668,860,921,702,412,212,130,109,104,114,137,183,253,360,533,761,1052,1265,1225
+Italien,Italy,Italien,IT,IT,116,97,83,68,53,35,24,18,13,9,7,6,6,5,5,5,5,6,7,10,15,24,30,32,34,37,45,75,147,283,489,678,777,785,674,530,428,372,338,335,379,374,315
+Jamaika,Jamaica,Jamaika,JM,JM,1,1,5,9,9,5,2,2,2,2,1,2,3,2,2,2,3,4,6,7,17,42,53,48,64,75,64,58,47,34,29,27,25,26,28,28,34,39,35,26,31,41,46
+Japan,Japan,Japan,JP,JP,2,4,6,5,3,2,1,1,0,0,0,1,1,1,3,4,6,10,14,13,11,10,8,6,5,5,6,6,6,6,7,9,12,18,24,25,26,29,32,36,53,67,58
+Jersey,Jersey,Jersey,JE,JE,130,139,87,63,40,12,9,11,6,5,5,6,6,2,6,10,6,4,12,19,17,18,19,6,8,19,26,45,64,75,78,105,147,156,182,507,789,908,820,450,287,216,139
+Jordanien,Jordan,Jordanien,JO,JO,2,1,1,1,0,1,1,2,1,1,2,2,2,1,1,1,0,0,1,2,3,6,8,13,23,51,106,161,215,276,375,551,665,726,692,555,444,366,278,203,203,170,115
+Kasachstan,Kazakhstan,Kasachstan,KZ,KZ,3,4,6,9,12,13,13,18,26,23,19,26,35,164,205,124,124,143,158,122,79,48,35,31,23,20,18,19,19,20,29,45,55,61,67,68,66,62,66,82,61,53,84
+Kenia,Kenya,Kenia,KE,KE,0,0,0,0,0,1,1,1,2,3,3,4,5,6,8,10,14,16,16,15,11,7,5,4,3,4,5,6,10,15,20,24,27,28,24,20,16,11,8,4,4,4,3
+Kosovo,Kosovo,Kosovo,KV,KV,7,15,22,22,16,7,7,8,5,11,22,52,66,66,125,132,110,170,185,146,122,107,93,72,52,46,42,39,60,98,183,345,497,564,553,473,418,354,235,155,165,216,240
+Kuwait,Kuwait,Kuwait,KW,KW,9,23,32,43,72,131,231,295,286,247,208,183,211,241,233,217,208,204,186,194,206,197,212,237,231,206,178,177,214,246,243,237,241,195,131,101,89,85,80,79,109,151,163
+Kirgisistan,Kyrgyzstan,Kirgisistan,KG,KG,3,5,5,4,4,5,6,6,9,9,9,20,41,66,93,298,340,153,105,75,45,29,20,16,16,22,33,44,75,106,113,111,109,100,89,84,75,59,44,33,28,27,24
+Laos,Laos,Laos,LA,LA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lettland,Latvia,Lettland,LV,LV,21,14,10,8,8,7,7,6,3,2,2,1,1,1,3,4,2,3,4,4,2,4,5,4,5,11,29,52,71,105,140,178,230,262,335,427,453,501,555,602,689,686,596
+Libanon,Lebanon,Libanon,LB,LB,4,3,2,1,1,2,3,4,5,3,3,4,4,4,9,14,21,30,41,59,83,117,121,109,130,175,222,239,261,276,298,335,334,326,315,303,287,307,362,457,264,931,1323
+Lesotho,Lesotho,Lesotho,LS,LS,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,0,0,0,0,0,1,4,10,13,10,17,14,11,13,6,6,8,13,15,12,12,7,6,5,1,4,6,3,3,8,18,31,31,139,148,80
+Liberia,Liberia,Liberia,LR,LR,0,1,2,1,1,1,1,1,1,2,3,5,6,5,5,4,3,2,1,1,1,1,0,0,1,0,0,0,1,1,1,1,2,2,2,2,3,2,1,0,0,2,2
+Libyen,Libya,Libyen,LY,LY,0,0,0,1,0,0,0,0,1,3,4,4,5,6,10,13,16,27,39,59,76,83,106,136,148,139,129,151,174,194,193,176,168,141,128,127,122,125,111,99,102,115,144
+Liechtenstein,Liechtenstein,Liechtenstein,LI,LI,83,47,10,8,3,0,0,0,0,0,0,0,0,3,5,8,5,5,5,10,31,39,18,8,10,16,36,55,255,591,852,1102,1131,844,750,740,628,1128,1506,1024,662,451,281
+Litauen,Lithuania,Litauen,LT,LT,24,21,18,13,3,1,5,5,5,3,3,3,2,1,2,3,5,6,9,11,14,16,16,16,24,38,52,62,84,145,293,519,681,800,951,1037,1206,1376,1337,1199,1005,716,598
+Luxemburg,Luxembourg,Luxemburg,LU,LU,327,217,122,72,45,27,20,17,12,8,8,13,28,65,111,157,219,197,137,121,96,-133,-132,93,148,189,147,163,316,789,1325,1348,1264,1279,1210,1197,1189,1040,746,465,348,315,280
+Madagaskar,Madagascar,Madagaskar,MG,MG,0,0,0,0,0,0,1,1,2,2,2,2,3,4,10,16,16,16,14,8,4,4,4,3,3,2,2,2,1,1,1,1,0,0,0,1,1,0,0,0,1,2,3
+Malawi,Malawi,Malawi,MW,MW,keine Daten,0,0,0,0,0,0,0,1,2,1,2,3,5,6,7,7,6,5,4,3,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,11,29,60
+Malaysia,Malaysia,Malaysia,MY,MY,7,7,5,3,3,3,2,2,3,3,2,1,1,0,0,0,1,1,1,1,1,0,0,2,3,3,7,15,25,34,37,42,46,45,53,55,59,64,67,85,95,116,148
+Malediven,Maldives,Malediven,MV,MV,1,1,6,36,88,115,105,99,126,98,48,55,53,49,75,92,106,222,322,300,322,348,334,279,211,171,149,147,126,113,91,89,93,115,146,109,69,55,51,69,86,120,164
+Mali,Mali,Mali,ML,ML,0,0,1,1,2,2,1,2,2,2,3,2,2,2,1,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,2,3,4,5,6,5,4,5,4,3,2
+Malta,Malta,Malta,MT,MT,27,46,38,13,10,11,16,22,12,4,6,7,4,1,1,1,5,22,62,120,134,104,83,106,142,122,110,168,286,351,337,337,352,357,329,309,304,242,237,307,426,509,472
+Marshallinseln,Marshall Islands,Marshallinseln,MH,MH,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,2,0,5,5,0,0,0,0,0,0,0,0
+Mauretanien,Mauritania,Mauretanien,MR,MR,0,0,0,0,0,0,1,5,10,15,27,40,46,44,26,21,22,9,7,8,8,7,5,5,5,4,3,2,2,2,2,3,4,6,14,13,52,80,60,51,37,27,19
+Mauritius,Mauritius,Mauritius,MU,MU,16,17,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,2,2,3,3,1,3,3,2,1,2,2,0,0,1,1,2
+Mexiko,Mexico,Mexiko,MX,MX,3,4,7,12,16,20,26,33,39,44,50,55,59,63,67,73,77,72,66,61,58,58,58,55,48,47,48,47,38,45,61,59,60,57,78,104,111,116,108,95,118,156,178
+Mikronesien,Micronesia,Mikronesien,FM,FM,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,1,0
+Moldawien,Moldova,Moldawien,MD,MD,19,35,40,43,41,38,48,54,54,65,86,112,112,90,78,78,91,109,115,120,144,162,157,156,169,196,247,280,260,232,236,269,315,387,440,463,483,460,368,264,199,173,169
+Monaco,Monaco,Monaco,MC,MC,94,88,42,3,3,3,0,3,3,0,0,3,9,21,18,3,15,24,39,45,51,97,112,121,136,118,88,73,130,218,305,544,550,290,181,169,181,272,408,541,768,901,907
+Mongolei,Mongolia,Mongolei,MN,MN,0,0,1,1,0,0,3,3,1,2,0,1,1,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,8,11,8,4,3,7,9,9,7,6
+Montenegro,Montenegro,Montenegro,ME,ME,31,30,15,8,2,0,0,0,0,0,0,6,25,67,119,159,217,239,169,125,117,121,194,309,492,579,565,572,561,471,498,966,1360,1327,1238,1155,1052,918,847,842,922,1012,946
+Montserrat,Montserrat,Montserrat,MS,MS,100,120,100,0,0,0,0,0,0,0,0,0,0,0,20,20,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marokko,Morocco,Marokko,MA,MA,2,3,5,7,6,5,5,4,3,2,3,5,9,11,10,8,12,22,35,46,52,51,54,69,80,84,85,94,109,122,133,161,191,174,164,159,124,102,88,70,55,45,37
+Mosambik,Mozambique,Mosambik,MZ,MZ,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,2,2,1,2,3,4,3,3,5,7,9,8,6,5,6,7,6,5,4,4,4,4,4,4,6,13,23,33
+Myanmar,Myanmar/Burma,Myanmar,MM,MM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,8,14,22,32,34,31,32,31,29,33,38,37,35,31,25,19,16,15,13
+Nepal,Nepal,Nepal,NP,NP,0,0,0,0,0,0,1,2,4,10,14,19,24,23,14,6,6,9,15,22,31,41,49,54,61,66,78,118,156,173,142,125,124,89,76,71,56,44,33,28,23,19,16
+Niederlande,Netherlands,Niederlande,NL,NL,79,85,86,71,46,28,20,15,14,14,14,12,8,6,5,6,11,19,33,46,46,41,48,69,110,171,243,364,535,674,759,687,509,431,410,419,547,766,907,760,623,555,431
+Neu-Kaledonien,New Caledonia,Neu-Kaledonien,NC,NC,5,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1
+Neuseeland,New Zealand,Neuseeland,NZ,NZ,17,11,4,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,2,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,2,2,1
+Nicaragua,Nicaragua,Nicaragua,NI,NI,0,0,0,0,0,0,0,4,11,16,14,11,8,8,10,9,9,8,7,7,6,6,5,5,4,4,3,3,3,3,2,2,2,2,2,2,2,2,2,2,2,2,2
+Niger,Niger,Niger,NE,NE,1,2,2,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,3,4,3,3,3,2
+Nigeria,Nigeria,Nigeria,NG,NG,0,0,0,0,1,2,2,2,2,2,3,4,4,4,4,4,4,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,4,6,6,7,10,11
+Nordmazedonien,North Macedonia,Nordmazedonien,MK,MK,18,27,35,27,15,12,14,16,21,51,88,100,98,93,97,100,95,93,85,81,80,57,60,85,95,93,90,159,242,290,424,617,704,721,698,637,582,498,393,275,226,237,200
+Nördliche Marianen,Northern Mariana Islands,Nördliche Marianen,MP,MP,keine Daten,19,10,5,0,3,12,10,2,9,14,5,0,2,5,10,12,16,14,7,10,10,7,7,19,17,7,12,23,26,17,14,10,7,7,9,12,12,16,10,5,10,7
+Norwegen,Norway,Norwegen,NO,NO,66,43,27,20,14,11,7,4,4,4,4,4,4,4,3,2,2,4,7,12,14,13,17,25,29,29,28,34,37,38,64,112,144,154,141,111,117,101,114,149,158,149,105
+Oman,Oman,Oman,OM,OM,5,8,19,27,25,27,51,86,122,178,236,247,287,327,350,401,391,245,109,77,43,48,65,82,125,151,153,165,170,138,113,102,91,77,61,55,54,54,44,38,45,43,44
+Pakistan,Pakistan,Pakistan,PK,PK,1,2,2,4,5,8,10,12,14,21,33,35,28,23,20,15,10,7,5,4,4,3,3,3,3,4,4,4,4,4,5,7,11,15,18,20,19,18,15,13,14,15,13
+Palästina,Palestine,Palästina,PS,PS,3,3,2,4,4,1,1,1,1,1,1,7,31,67,94,110,119,112,108,121,125,140,176,205,224,190,137,125,120,127,142,159,187,278,421,543,546,549,504,392,306,219,176
+Panama,Panama,Panama,PA,PA,39,56,57,55,63,62,56,57,89,127,167,223,255,281,323,355,340,324,329,336,288,235,235,224,212,204,211,226,219,206,222,239,285,354,419,532,655,842,943,920,1054,1026,764
+Papua-Neuguinea,Papua New Guinea,Papua-Neuguinea,PG,PG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,2,2,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0
+Paraguay,Paraguay,Paraguay,PY,PY,1,1,1,1,3,7,5,2,3,4,4,3,12,15,12,18,21,27,35,58,89,104,130,149,155,152,149,154,148,139,126,112,110,125,145,160,164,178,165,119,145,183,177
+Peru,Peru,Peru,PE,PE,6,20,40,61,92,121,141,160,219,232,198,177,151,145,142,154,177,228,283,325,353,337,290,250,239,230,180,134,123,119,110,102,97,83,77,74,68,74,73,68,86,145,187
+Philippinen,Philippines,Philippinen,PH,PH,3,3,3,3,3,3,3,3,5,7,7,7,9,11,19,23,22,33,45,53,54,51,44,40,45,39,33,32,31,28,24,24,23,20,20,19,18,18,19,16,16,21,24
+Polen,Poland,Polen,PL,PL,9,13,14,13,12,12,13,14,14,14,15,14,12,11,10,11,14,18,23,26,26,27,24,19,22,35,50,101,204,337,538,771,877,829,717,532,397,367,330,317,341,305,231
+Portugal,Portugal,Portugal,PT,PT,94,103,87,71,52,36,34,30,34,38,41,45,48,46,47,46,36,28,24,26,29,36,45,60,81,94,94,127,211,312,432,590,710,792,754,601,525,503,466,560,901,1215,1429
+Puerto Rico,Puerto Rico,Puerto Rico,PR,PR,17,27,26,17,21,29,29,35,39,63,71,54,48,49,92,145,186,222,244,265,272,239,162,158,255,312,309,258,231,309,327,334,397,449,439,461,579,604,753,739,477,482,546
+Katar,Qatar,Katar,QA,QA,39,81,133,254,351,425,592,736,844,870,788,645,514,431,319,238,198,155,126,138,141,121,107,110,114,116,108,101,102,111,114,105,106,105,99,93,86,73,67,92,104,99,102
+Rumänien,Romania,Rumänien,RO,RO,18,23,25,24,23,22,19,14,12,12,14,18,22,25,32,44,63,81,87,89,86,84,85,86,92,99,110,168,239,280,341,485,585,592,573,489,437,400,320,253,282,282,202
+Russland,Russia,Russland,RU,RU,3,10,26,45,63,88,101,92,85,84,84,80,72,66,64,62,58,54,51,49,47,46,47,50,53,61,76,101,126,147,163,178,198,216,235,255,264,207,291,341,238,227,215
+Ruanda,Rwanda,Ruanda,RW,RW,1,0,0,1,1,1,0,0,1,1,2,2,2,3,3,4,4,4,2,3,7,12,10,4,3,2,1,1,1,1,1,1,2,3,4,4,6,9,11,11,12,18,26
+St. Kitts und Nevis,Saint Kitts and Nevis,St. Kitts und Nevis,KN,KN,19,9,9,6,0,0,0,0,0,0,0,0,0,2,4,2,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,2,6,9,11,9,8,6,4,4,2
+Saint Lucia,Saint Lucia,Saint Lucia,LC,LC,7,3,1,0,2,2,0,0,0,1,1,0,0,2,2,1,1,1,1,0,1,1,0,1,1,0,0,1,3,14,28,42,47,48,47,25,10,12,16,36,72,141,263
+St. Vincent Grenadines,Saint Vincent and the Grenadines,St. Vincent Grenadines,VC,VC,6,10,5,2,5,3,0,1,8,7,1,3,2,0,5,19,15,5,5,2,1,3,3,4,3,0,0,0,3,8,7,3,3,7,6,3,12,15,10,18,126,333,448
+San Marino,San Marino,San Marino,SM,SM,334,369,566,528,351,261,209,107,49,64,67,26,12,6,3,3,0,0,32,32,0,0,17,35,20,15,26,73,78,194,491,650,943,1022,967,1144,1048,923,952,1120,1138,853,601
+São Tomé und Príncipe,São Tomé and Príncipe,São Tomé und Príncipe,ST,ST,keine Daten,keine Daten,2,2,6,91,99,42,113,98,81,84,24,10,7,12,61,58,7,5,6,5,3,5,5,2,2,8,9,5,7,10,7,8,11,9,9,6,2,5,24,54,56
+Saudi-Arabien,Saudi Arabia,Saudi-Arabien,SA,SA,5,9,20,38,51,62,80,96,88,84,121,160,158,149,143,119,100,80,62,57,54,47,38,31,26,22,19,17,17,16,16,16,16,13,11,10,8,7,7,6,5,5,7
+Senegal,Senegal,Senegal,SN,SN,1,1,1,2,5,6,8,8,7,8,9,9,9,9,9,8,9,9,9,11,11,8,6,4,4,4,2,2,2,2,1,1,1,1,2,4,6,8,10,12,17,20,21
+Serbien,Serbia,Serbien,RS,RS,25,41,63,63,45,30,16,15,12,10,13,15,25,46,62,68,77,76,63,50,37,24,18,15,14,14,14,20,32,67,176,334,519,838,1216,1415,1396,1208,893,576,446,412,343
+Seychellen,Seychelles,Seychellen,SC,SC,3,2,1,1,0,0,0,0,0,0,0,0,0,0,91,91,14,14,12,13,6,9,5,3,4,4,4,5,4,5,4,5,5,8,15,18,29,21,15,94,319,415,547
+Sierra Leone,Sierra Leone,Sierra Leone,SL,SL,keine Daten,0,0,1,2,3,4,5,4,3,4,4,3,3,3,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1,1,2,4,4,4
+Singapur,Singapore,Singapur,SG,SG,15,29,90,190,199,166,168,142,117,108,98,72,49,44,43,56,75,84,81,50,21,18,11,11,9,5,4,3,2,2,2,1,2,2,2,2,2,3,3,5,7,7,7
+St. Martin,Sint Maarten,St. Martin,MF,MF,58,110,98,56,21,5,2,2,0,0,0,0,0,2,2,2,37,156,222,399,483,340,268,201,170,222,222,154,173,173,182,261,238,259,310,312,427,459,378,289,382,452,427
+Slowakei,Slovakia,Slowakei,SK,SK,6,7,12,12,5,1,2,1,1,0,0,1,2,3,4,4,5,7,8,10,14,18,23,30,38,65,119,198,306,440,552,581,492,381,348,376,500,635,644,674,752,666,513
+Slowenien,Slovenia,Slowenien,SI,SI,28,23,16,10,5,3,1,0,0,1,1,2,4,9,12,12,12,11,8,11,19,22,25,40,60,79,100,159,319,686,1081,1067,932,968,977,985,1006,966,914,959,1172,1133,885
+Salomon-Inseln,Solomon Islands,Salomon-Inseln,SB,SB,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Somalia,Somalia,Somalia,SO,SO,0,0,1,3,4,4,4,3,3,5,4,3,2,1,1,1,1,1,0,0,0,0,1,0,1,1,2,2,1,0,0,2,2,1,1,1,1,1,1,0,0,0,0
+Südafrika,South Africa,Südafrika,ZA,ZA,2,2,3,4,6,9,15,21,29,43,63,83,115,168,233,283,285,248,193,128,84,64,48,42,38,35,34,37,38,39,39,36,41,51,62,79,124,181,254,302,370,400,306
+Südkorea,South Korea,Südkorea,KR,KR,3,2,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,2,6,9,7,5,3,3,2,2,2,2,3,3,4,7,11,14,18,24,28,27,22,17,12
+Südsudan,South Sudan,Südsudan,SS,SS,keine Daten,0,0,0,0,1,2,4,6,7,6,5,3,1,1,1,1,2,2,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,2,3,2,1,1
+Spanien,Spain,Spanien,ES,ES,215,168,113,78,51,35,26,16,17,13,10,10,10,11,15,28,49,69,94,132,176,221,256,279,311,329,302,300,343,446,567,603,546,429,322,255,221,249,272,297,495,804,1026
+Sri Lanka,Sri Lanka,Sri Lanka,LK,LK,0,0,1,1,2,2,1,1,3,3,1,1,1,1,3,3,1,0,0,0,1,1,1,1,1,1,1,7,10,15,26,28,29,29,29,36,43,44,39,35,34,39,47
+Sudan,Sudan,Sudan,SD,SD,0,0,0,0,1,3,4,5,6,6,5,6,5,3,2,2,3,2,1,2,2,2,1,1,0,0,0,0,0,0,0,1,2,4,7,8,9,8,4,1,0,0,12
+Surinam,Suriname,Surinam,SR,SR,1,0,0,0,0,0,0,0,2,19,32,33,48,48,43,74,119,140,162,199,207,169,126,98,64,43,37,37,32,20,14,12,11,10,6,5,7,44,113,138,179,210,179
+Schweden,Sweden,Schweden,SE,SE,53,68,74,79,79,77,78,74,80,103,129,140,142,109,58,36,28,28,36,40,36,28,25,29,37,50,65,80,101,149,278,455,564,620,669,707,787,891,849,785,766,621,484
+Schweiz,Switzerland,Schweiz,CH,CH,164,128,78,44,25,15,8,5,3,3,3,4,6,11,15,15,18,23,26,30,38,45,53,60,57,56,60,98,236,504,928,1262,1199,917,712,628,647,808,748,556,537,443,339
+Syrien,Syria,Syrien,SY,SY,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,3,5,5,6,6,5,4,3,3,3,4,4,4,5,5,6,6,7,8,10,11,9,8,8,7
+Taiwan,Taiwan,Taiwan,TW,TW,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tadschikistan,Tajikistan,Tadschikistan,TJ,TJ,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,6,15,22,24,19,13,10,9,8,7,7,7,6,6,6,6,5,5,5,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,4,1,0,0
+Tansania,Tanzania,Tansania,TZ,TZ,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Thailand,Thailand,Thailand,TH,TH,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,5,6,6,4
+Gambia,The Gambia,Gambia,GM,GM,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,9,17,40,57,50,45,31,18,14,7,3,3,2,1,1,1,1,2,1,2,2,1,1,1,3,4,5
+Vatikan,the Holy See/ Vatican City State,Vatikan,VA,VA,742,247,124,124,371,371,124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1731,1731,0,0,0,0,0,0,0,0,0,0,0,0,0
+Osttimor,Timor-Leste,Osttimor,TL,TL,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1
+Togo,Togo,Togo,TG,TG,0,1,0,0,0,1,2,3,2,1,1,1,1,1,1,1,2,2,2,2,3,3,3,2,2,2,2,2,2,3,4,4,4,4,3,3,3,4,4,3,5,7,9
+Trinidad Tobago,Trinidad and Tobago,Trinidad Tobago,TT,TT,4,3,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,3,9,26,52,81,89,97,118,94,62,53,38,29,27,24,29,43,41,23,16,18,17,11,11,16,16
+Tunesien,Tunisia,Tunesien,TN,TN,4,4,3,2,1,1,0,0,0,0,0,1,1,0,1,2,2,2,2,5,9,13,17,25,50,80,108,128,145,148,181,189,157,149,134,129,128,150,171,185,260,324,307
+Türkei,Turkey,Türkei,TR,TR,32,58,72,65,48,35,29,22,18,16,17,21,23,22,19,17,16,65,125,135,136,138,141,142,143,143,141,141,143,147,151,154,160,179,292,464,532,492,379,265,218,177,126
+Turks-und Caicosinseln,Turks and Caicos Islands,Turks-und Caicosinseln,TC,TC,13,10,15,5,3,3,0,0,0,0,0,5,41,85,114,88,70,90,302,470,431,540,555,359,181,93,70,34,8,15,15,15,41,101,72,26,54,108,207,289,375,504,757
+Uganda,Uganda,Uganda,UG,UG,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,2,3,3,4,6,6,6,5,4,4,5,6,7,8,9,10,16,19,14,11,8,4,3
+Ukraine,Ukraine,Ukraine,UA,UA,3,5,9,13,15,15,15,13,12,14,17,22,27,27,24,24,26,30,39,47,53,60,71,81,91,101,116,143,176,189,210,267,321,348,427,459,407,361,297,236,203,205,172
+Vereinigte Arabische Emirate,United Arab Emirates,Vereinigte Arabische Emirate,AE,AE,16,34,52,64,73,79,93,114,113,94,78,62,56,67,71,54,41,41,37,33,45,54,71,99,111,121,140,149,170,191,185,172,166,170,176,176,174,173,171,214,315,390,455
+Großbritannien,United Kingdom,Großbritannien,UK,UK,72,94,96,97,96,81,64,54,41,29,23,21,18,14,12,13,13,13,16,21,22,24,32,51,71,100,163,253,329,405,469,477,502,480,372,317,348,475,721,922,1114,1112,863
+USA,United States,USA,US,US,91,125,128,123,120,110,99,95,92,90,92,102,137,184,228,267,281,270,245,222,199,179,173,158,160,180,185,196,223,264,318,403,553,687,709,758,868,933,875,845,988,996,868
+Uruguay,Uruguay,Uruguay,UY,UY,7,5,3,4,4,3,2,2,3,2,1,1,2,2,2,3,6,7,5,4,5,4,4,6,7,6,7,8,11,16,18,19,25,34,49,75,115,178,219,211,276,347,321
+US Jungferninseln,US Virgin Islands,US Jungferninseln,VI,VI,40,20,11,4,12,13,3,0,0,2,4,5,8,34,96,177,172,119,178,306,418,376,189,82,84,93,50,8,13,22,39,55,56,95,105,139,272,260,169,128,155,196,176
+Usbekistan,Uzbekistan,Usbekistan,UZ,UZ,1,2,4,3,2,2,2,2,3,4,4,6,9,11,15,20,23,26,30,27,24,20,14,18,24,24,21,16,14,13,11,10,9,8,8,7,7,6,5,4,2,2,2
+Vanuatu,Vanuatu,Vanuatu,VU,VU,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,0,0,0,0,0,0,0,0,0,0
+Venezuela,Venezuela,Venezuela,VE,VE,0,0,0,1,0,0,1,2,3,4,5,5,8,11,15,17,21,29,36,48,48,43,48,52,47,43,41,37,29,23,20,19,18,17,16,16,18,20,18,15,16,21,24
+Vietnam,Vietnam,Vietnam,VN,VN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wallis and Futuna,Wallis and Futuna,Wallis and Futuna,WF,WF,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,keine Daten,9,0,0,0,9,18,9,0,9,9,0,0,0,0
+Westsahara,Western Sahara,Westsahara,EH,EH,keine Daten,keine Daten,keine Daten,keine Daten,1,0,0,0,3,3,0,0,31,83,52,41,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jemen,Yemen,Jemen,YE,YE,keine Daten,keine Daten,0,0,0,0,0,1,1,1,1,2,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sambia,Zambia,Sambia,ZM,ZM,0,0,0,0,0,1,3,4,2,1,2,2,1,1,2,7,14,18,20,16,16,15,9,8,7,6,5,4,4,4,3,5,3,3,3,3,4,4,9,18,47,88,95
+Simbabwe,Zimbabwe,Simbabwe,ZW,ZW,0,0,0,0,0,0,0,0,1,2,1,1,1,2,3,6,10,16,14,9,9,8,7,7,5,2,1,1,2,2,2,2,3,5,8,10,9,11,13,20,56,80,66

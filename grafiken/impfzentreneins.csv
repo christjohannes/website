@@ -1,0 +1,399 @@
+Land,Kreis,Ort,Straße,Standort,lon,lat,z
+Brandenburg,Kreisfreie Stadt Potsdam,Potsdam,Großbeerenstraße 200,Metropolis-Halle,13.1209888,52.3835549,1
+Brandenburg,Kreisfreie Stadt Cottbus,Cottbus,Vorparkstraße 3,Messe,14.348377,51.7502261,1
+Brandenburg,Landkreis Ostprignitz-Ruppin,Kyritz,,Kreissporthalle,12.3961713,52.9432288,1
+Brandenburg,Landkreis Oberhavel,Oranienburg,,Details sind noch nicht bekannt,13.2366809,52.7537284,1
+Brandenburg,Landkreis Uckermark,Prenzlau,,Details sind noch nicht bekannt,13.8633409,53.3173433,1
+Brandenburg,Landkreis Barnim,Eberswalde,,Details sind noch nicht bekannt,13.7875871,52.837133,1
+Brandenburg,Kreisfreie Stadt Frankfurt (Oder),Frankfurt (Oder),,Details sind noch nicht bekannt,14.5505672,52.3472237,1
+Brandenburg,Landkreis Elbe-Elster,Elsterwerda,,Details sind noch nicht bekannt,13.5202201,51.4632578,1
+Brandenburg,Landkreis Teltow-Fläming,Luckenwalde,,Details sind noch nicht bekannt,13.1636906,52.0903895,1
+Brandenburg,Kreisfreie Stadt Brandenburg an der Havel,Brandenburg an der Havel,,Details sind noch nicht bekannt,12.5316444,52.4125287,1
+Berlin,Berlin,Berlin,Messedamm 22,an der Messe (Halle 11),13.2741797,52.5012463,1
+Berlin,Berlin,Berlin,Saatwinkler Damm,Flughafen Tegel (Terminal C),13.286861,52.5483451,1
+Berlin,Berlin,Berlin,Platz der Luftbrücke 5,Flughafen Tempelhof (Hangar 4),13.3891911,52.4821151,1
+Berlin,Berlin,Berlin,Müllerstraße 185,Erika-Heß-Eisstadion,13.36949,52.53732,1
+Berlin,Berlin,Berlin,Paul-Heyse-Straße,Velodrom,13.4472471,52.5305788,1
+Berlin,Berlin,Berlin,Eichenstraße 4,Arena Berlin,13.4532015,52.4964226,1
+Baden-Württemberg,Stadtkreis Freiburg,Freiburg,Hermann-Mitsch-Straße 3,Messe Freiburg Impfzentrum (Halle 2,7.8402587,48.0159052,1
+Baden-Württemberg,Ortenaukreis,Offenburg,Schutterwälderstraße 3,Messe Offenburg-Ortenau,7.9350358,48.4621107,1
+Baden-Württemberg,Stadtkreis Ulm,Ulm,Böfingerstr. 50,Ulm Messe Halle 7,10.0150628,48.4158634,1
+Baden-Württemberg,Stadtkreis Karlsruhe,Rheinstetten,Messeallee 1,Karlsruhe Messe Halle 2,8.3332101,48.9794226,1
+Baden-Württemberg,Stadtkreis Stuttgart,Stuttgart,Auerbachstraße 110,Stuttgart Robert-Bosch- Krankenhaus,9.1874092,48.8144899,1
+Baden-Württemberg,Stadkreis Heidelberg,Heidelberg,South Gettysburg Avenue 45,Details sind noch nicht bekannt,8.62852,49.37123,1
+Baden-Württemberg,Landkreis Tübingen,Tübingen,Europastraße 50,Paul-Horn-Arena,9.0420197,48.5105016,1
+Baden-Württemberg,Landkreis Schwäbisch Hall,Rot am See,Steinäckerstraße 16,Details sind noch nicht bekannt,10.01631,49.25591,1
+Baden-Württemberg,Standkreis Mannheim,,Zeppelinstraße,Gewerbegebäude Zeppelinstraße,9.1535507,48.7814452,1
+Baden-Württemberg,Stadt Baden-Baden,Baden-Baden,Werderstraße 4,Baden-Baden Kurhaus,8.2356284,48.7595847,1
+Baden-Württemberg,Landkreis Rastatt,Bühl,Ludwig-Jahn-Str. 6a,Schwarzwaldhalle,8.1281924,48.6893581,1
+Baden-Württemberg,Landkreis Neckar- Oden-Wald-Kreis,Mosbach,Alte Bergsteige,Obertorzentrum,9.1587921,49.3505219,1
+Baden-Württemberg,Landkreis Rhein- Neckar-Kreis,Sinsheim,Breite Seite 3,„Parsa“-Halle,8.86437,49.25212,1
+Baden-Württemberg,Landkreis Calw,Weinheim,Bergstraße 49-57,3-Glocken- Center,8.6681565,49.5539014,1
+Baden-Württemberg,Landkreis Calw,Altensteig-Wart,Wildbader Straße 28,DEKRA- Hotel Wart,8.6437552,48.622578,1
+Baden-Württemberg,Landkreis Enzkreis,Mönsheim,Pforzheimer Straße 85,Appenberg- Halle,8.8552517,48.8653142,1
+Baden-Württemberg,Landkreis Karlsruhe,Sulzfeld,Ochsenburger Straße 19,EGO Halle 4,8.8597853,49.098741,1
+Baden-Württemberg,Landkreis Freudenstadt,Bruchsal,Stuttgarter Str. 10,Praktiker- Baumarkt,8.6409557,49.0955346,1
+Baden-Württemberg,Stadt Pforzheim,Dornstetten,Riedsteige 80,Riedsteighalle,8.5052167,48.4725461,1
+Baden-Württemberg,Stadtkreis Heidelberg,Heidelberg,Schwalbenweg 1/2,Gesellschaftshaus Pfaffengrund,8.65329,49.39872,1
+Baden-Württemberg,Stadtkreis Mannheim,Mannheim,Xaver-Fuhr-Straße 101,Maimarkt Arena,8.5229291,49.4691724,1
+Baden-Württemberg,Stadtkreis Karlsruhe,Karlsruhe,Festplatz 5,Kongresszentrum Schwarzwaldhalle,8.4010219,49.0017796,1
+Baden-Württemberg,Landkreis Böblingen,Sindelfingen,Mahdentalstraße 116 Zugang über Schwertstraße,Messehalle,9.0383469,48.7052005,1
+Baden-Württemberg,Landkreis Esslingen,Stuttgart,Messepiazza 1,Messe Stuttgart,9.1868755,48.6937498,1
+Baden-Württemberg,Landkreis Esslingen,Esslingen,Zeppelinstraße 112,Gewerbegebäude,9.3443455,48.7221512,1
+Baden-Württemberg,Landkreis Ludwigsburg,Ludwigsburg,Schwieberdinger Straße 74,MM Studio (Doppelstandort),9.1729715,48.8911081,1
+Baden-Württemberg,Landkreis Heidenheim,Heidenheim,Hugo-Rupf-Platz 1,Congress Centrum Heidenheim,10.1467234,48.6725144,1
+Baden-Württemberg,Landkreis Ostalbkreis,Aalen,Parkstraße 15,Ulrich-Pfeifle- Halle,10.0821922,48.8401628,1
+Baden-Württemberg,Landkreis Main- Tauber-Kreis,Bad Mergentheim,Seegartenstraße 16,Berufliches Schulzentrum,9.7700168,49.4871778,1
+Baden-Württemberg,Stadt Heilbronn,Heilbronn,Nussäckerstraße 3,Details sind noch nicht bekannt,9.17141,49.11404,1
+Baden-Württemberg,Landkreis Heilbronn,Ilsfeld,Ochsenweg 2,Tiefenbachhalle,9.2874207,49.0542092,1
+Baden-Württemberg,Landkreis Göppingen,Göppingen,Werfthalle Göppingen Manfred-Wörner-Straße 104,Werfthalle,9.6894372,48.7126546,1
+Baden-Württemberg,Landkreis Hohenlohekreis,Öhringen,Pfaffenmühlweg 30,Hohenlohe- Sporthalle,9.5073173,49.1990172,1
+Baden-Württemberg,Landkreis-Rems-Murr Kreis,Waiblingen,Beinsteiner Straße 160,Rundsporthalle,9.3301265,48.8263635,1
+Baden-Württemberg,Landkreis Schwäbisch Hall,Wolpertshausen,Sälich 1,Mehrzweckhalle,9.8433732,49.1698273,1
+Baden-Württemberg,Stadtkreis Stuttgart,Stuttgart,Berliner Platz 1-3,Details sind noch nicht bekannt,9.1704055,48.779502,1
+Baden-Württemberg,Landkreis Alb-Donau- Kreis,Ehingen (Donau),Talstraße 3,Alb-Donau- Center Ehingen,9.7274987,48.271715,1
+Baden-Württemberg,Landkreis Reutlingen,Reutlingen,An der Kreuzeiche 4,Kreuzeiche- Stadion,9.18922,48.47845,1
+Baden-Württemberg,Landkreis Ravensburg,Ravensburg,Bleicherstraße 20,Oberschwabenhalle,9.6137881,47.7907711,1
+Baden-Württemberg,Landkreis Tübingen,Tübingen,Europastraße 50,Paul-Horn-Arena,9.0420197,48.5105016,1
+Baden-Württemberg,Zollernalbkreis,Meßstetten,Geißbühlstraße,Details sind noch nicht bekannt,8.9887078,48.1858375,1
+Baden-Württemberg,Landkreis Sigmaringen,Mengen,Flugplatz,Kaserne Sporthalle,9.3653289,48.0562024,1
+Baden-Württemberg,Landkreis Bodenseekreis,Friedrichshafen,Neue Messe 1,Details sind noch nicht bekannt,9.5072751,47.6781865,1
+Baden-Württemberg,Landkreis Biberach,Ummendorf,Schulstraße 31,Gemeindehalle,9.8287803,48.0613769,1
+Baden-Württemberg,Stadtkreis Ulm,Ulm,Böfinger Straße 50,Messe,10.0150628,48.4158634,1
+Baden-Württemberg,Landkreis Waldshut,Waldshut-Tiengen,Berliner Straße 2,Stadt-/Sporthalle,8.276046,47.6305195,1
+Baden-Württemberg,Landkreis Konstanz,Singen,Hohgarten 4,Stadthalle,8.8325771,47.7612411,1
+Baden-Württemberg,Landkreis Ortenaukreis,Lahr/Schwarzwald,Rheinstraße 15,Rheintalsporthalle,7.8325254,48.3447069,1
+Baden-Württemberg,Landkreis Ortenaukreis,Offenburg,Schutterwälder Straße 3,Messe Offenburg-Ortenau,7.9350358,48.4621107,1
+Baden-Württemberg,Landkreis Rottweil,Rottweil,Stadionstraße,Stadthalle,8.6285191,48.1541695,1
+Baden-Württemberg,Landkreis Emmendingen,Kenzingen,Industriestraße 26,ehemaliger Aldi-Markt,7.7676525,48.2018332,1
+Baden-Württemberg,Landkreis Lörrach,Lörrach,Beim Haagensteg 5,Freizeitcenter Impulsiv,7.6814623,47.63259,1
+Baden-Württemberg,Landkreis Breisgau- Hochschwarzwald,Müllheim,Eisenbahnstraße 14,Betriebsgebäude,7.6046713,47.8091463,1
+Baden-Württemberg,Landkreis Schwarzwald-Baar- Kreis,Villingen-Schwenningen,Waldeckweg 25,Tennishalle des Tennisclubs TCS Schwenningen e.V.,8.5424307,48.0501269,1
+Baden-Württemberg,Landkreis Tuttlingen,Tuttlingen,Mühlenweg 27,Kreissporthalle,8.8052117,47.9875676,1
+Baden-Württemberg,Stadtkreis Freiburg,Freiburg im Breisgau,Neuer Messplatz 1,Messe,7.8403115,48.0156785,1
+Bayern,Aichbach-Friedberg,Dasing,Carl-von-Linde Straße 6,Details sind noch nicht bekannt,11.088263,48.3981088,1
+Bayern,Aichbach-Friedberg,Aichach,Krankenhausstraße 11,Details sind noch nicht bekannt,11.1406996,48.462774,1
+Bayern,Landkreis Altötting,Neuötting,Badstraße 1,Kreishallenbad,12.6898094,48.2341587,1
+Bayern,Stadt Amberg,Amberg,Bruno-Hofer-Straße 8,Jugendzentrum Klärwerk,11.8669302,49.4347757,1
+Bayern,Landkreis Amberg-Sulzbach,Sulzbach-Rosenberg,Obere Gartenstraße 3,Landkreis Cultur Center LCC,11.7471154,49.5039237,1
+Bayern,Kreisfreie Stadt und Landkreis Ansbach,Ansbach,Gustav-Weißkopf-Straße,Details sind noch nicht bekannt,10.5580726,49.2976974,1
+Bayern,Landkreis und Stadt Aschaffenburg,Hösbach,Siemensstraße 2,Details sind noch nicht bekannt,9.218297,50.0061621,1
+Bayern,Landkreis Augsburg,Gablingen,Paul-Klee-Straße 13,Details sind noch nicht bekannt,10.8555708,48.4577322,1
+Bayern,Landkreis Bad Kissingen,Bad Kissingen,Reithausplatz 2,Tattersall,10.0742091,50.2032523,1
+Bayern,Landkreis Bad Tölz-Wolfratshausen,Bad Tölz,Schützenstraße 15,Stadtklinik Asklepios,11.5514463,47.7567795,1
+Bayern,Landkreis Bad-Tölz-Wolfratshausen,Wolfratshausen,Gebhardtstraße 2,Kreisklinik Wolfratshausen,11.42869,47.91243,1
+Bayern,Landkreis Bad-Tölz-Wolfratshausen,Bad Tölz,Stefanie-von Strechine-Straße 6,Details sind noch nicht bekannt,11.5424654,47.7580598,1
+Bayern,Landkreis und Stadt Bamberg,Bamberg,Forchheimer Straße 15,Brose Arena,10.9202936,49.8790468,1
+Bayern,Landkreis Bayreuth,Pegnitz,Langer Berg 12,Ärztehaus der Sana Klinik,11.5271101,49.7580145,1
+Bayern,Stadt und Landkreis Bayreuth,Bayreuth,Adolf-Wächter-Straße 8,Johannes-Kepler-Realschule Bayreuth,11.548368,49.934937,1
+Bayern,Landkreis Berchtesgadener Land,Ainring,Industriestraße 9,Details sind noch nicht bekannt,12.9563058,47.8202154,1
+Bayern,Landkreis Cham,Roding,Arnulfstraße 1,Krankenhaus,12.5183019,49.1888969,1
+Bayern,Landkreis Cham,Bad Kötzting,Hauser Str. 42,Sana-Klinik,12.8599885,49.1839258,1
+Bayern,Landkreis Coburg,Ahorn-Witzmannsberg,Badstraße 20a,Freizeitzentrum Witzmannsberg,10.9027338,50.2253571,1
+Bayern,Landkreis Dachau,Landkreis Dachau,,Details sind noch nicht bekannt,11.374255,48.3566228,1
+Bayern,Landkreis Deggendorf,Deggendorf,Ackerloh 2,Festplatz Ackerloh,12.94933,48.8323427,1
+Bayern,Landkreis Dillingen,Wertingen,Pestalozzistraße 12,Dreifachturnhalle und Hallenbad,10.682389,48.5650408,1
+Bayern,Landkreis Dingolfing-Landau,Dingolfing-Salitersheim,Salitersheimer Str. 2,Ehemalige Industriehalle,12.48502,48.65012,1
+Bayern,Landkreis Donau-Ries,Donauwörth,Josef-Gänsler-Straße 8,Halle im Gewerbegebiet,10.7539315,48.7100891,1
+Bayern,Landkreis Donau-Ries,Nördlingen,Nürnberger Straße 17,Ehemaliges Verwaltungsgebäude,10.4957403,48.8579704,1
+Bayern,Landkreis Ebersberg,Ebersberg,Sparkassenplatz 1,Details sind noch nicht bekannt,11.9652245,48.073751,1
+Bayern,Landkreis Eichstätt,Eichstätt,Volksfestplatz,Volksfestplatz Eichstätt,11.2003561,48.8843064,1
+Bayern,Landkreis Erding,Landkreis Erding,,Details sind noch nicht bekannt,11.9068812,48.3058389,1
+Bayern,Kreisfreie Stadt Erlangen und Landkreis Erlangen Höchstadt,Erlangen,Sedanstraße 1,Details sind noch nicht bekannt,11.0055675,49.5907897,1
+Bayern,Landkreis Forchheim,Forchheim,Don-Bosco-Straße 4,Ehemalige Jugendherberge,11.0788378,49.7185714,1
+Bayern,Landkreis Freising,Freising,Weinmiller Straße 1,Ehemalige General-von-Stein Kaserne,11.7492549,48.411022,1
+Bayern,Landkreis Freyung-Grafenau,Freyung,Passauer Str. 9,Ehemaliges Kindermodengeschäft,13.5453925,48.80672,1
+Bayern,Kreisfreie Stadt und Landkreis Fürth,Fürth,Rosenstraße 16,Details sind noch nicht bekannt,10.986644,49.4765548,1
+Bayern,Landkreis Garmisch-Partenkirchen,Garmisch-Partenkirchen,Eisstadion 1,Parkplatz Alpspitzwellenbad,11.0959404,47.4891064,1
+Bayern,Landkreis Günzburg,Landkreis Günzburg,,Details sind noch nicht bekannt,10.4344416,48.3658011,1
+Bayern,Landkreis Haßberge,Hofheim,Eichelsdorfer Straße 11,Rot-Kreuz-Haus,10.5272931,50.1417643,1
+Bayern,Landkreis Hof,Hof,Ernst-Reuter-Straße 62,Ehemaliges Gebäude der MAN Robert Tröger KG,11.9065756,50.3138235,1
+Bayern,Stadt Ingolstadt,Ingolstadt,Bergbräustraße 1,Details sind noch nicht bekannt,11.4193073,48.7650597,1
+Bayern,Stadt Kaufbeuren,Kaufbeuren,Alte Weberei 4,Ehemaliger Lebensmittelmarkt,10.6234816,47.8826679,1
+Bayern,Landkreis Kelheim,Kelheim,Schlossweg 3,Ehemaliges Landratsamt,11.8725179,48.9148309,1
+Bayern,Landkreis Kempten,Kempten,Kaufbeurer Str. 80,Artillerie-Kaserne,10.3247697,47.7387552,1
+Bayern,Landkreis Kitzingen,Kitzingen,Keltenstraße 67,Krankenhaus Kitzinger Land,10.13857,49.74389,1
+Bayern,Landkreis Kronach,Kronach,Industriestraße 11,Ehemaliges Loewe-Areal,11.3382426,50.2327607,1
+Bayern,Landkreis Kulmbach,Kulmbach,Fritz-Hornschuch-Straße 9,Fritz Einkaufszentrum,11.4509099,50.1078953,1
+Bayern,Landkreis Landsberg,Penzing,Kauferinger Straße,Ehemaliger Fliegerhorst Penzing,10.9217827,48.077006,1
+Bayern,Stadt Landshut,Landshut,Niedermayerstraße 6,Details sind noch nicht bekannt,12.1652395,48.5411916,1
+Bayern,Landkreis Landshut,Kumhausen-Preisenberg,Ziegelfeldstraße 1,Ehemaliges Gewerbegebäude,12.1589155,48.4984181,1
+Bayern,Landkreis Lichtenfels,Lichtenfels,Gabelsberger Straße 22,Barrierefreies Gebäude,11.0729041,50.14912,1
+Bayern,Landkreis Lindau (Bodensee),Lindau (Bodensee),Reutiner Straße 10,Details sind noch nicht bekannt,9.69652,47.55762,1
+Bayern,Landkreis Lindau (Bodensee),Lindenberg,Nadenberg 30,Details sind noch nicht bekannt,9.894743,47.6131615,1
+Bayern,Landkreis Main-Spessart,Lohr am Main,Lehmskaute 22,Spessarttorhalle,9.574723,49.9901412,1
+Bayern,Stadt Memmingen,Memmingen,Buxacherstraße 8,Ehemalige Realschule,10.1751672,47.9860513,1
+Bayern,Landkreis Miesbach,Hausham,Alte Miesbacher Str. 11,Details sind noch nicht bekannt,11.8340418,47.7548853,1
+Bayern,Landkreis Miltenberg,Miltenberg,Breitendieler Str. 32,Helios Klinik,9.2284275,49.7036898,1
+Bayern,Landkreis Mühldorf,Mühldorf,Mainstr. 1a,Details sind noch nicht bekannt,12.5362301,48.2361105,1
+Bayern,Stadt München,München,Am Messesee 2,Messe München,11.69263,48.13535,1
+Bayern,Landkreis München,Haar,Wasserburger Straße 43 - 47,Details sind noch nicht bekannt,11.74006,48.10566,1
+Bayern,Landkreis Neuburg-Schrobenhausen,Schrobenhausen-Mühlried,Rinderhofer Breite 5,Details sind noch nicht bekannt,11.2888485,48.5636139,1
+Bayern,Landkreis Neumarkt in der Oberpfalz,Berg bei Neumarkt in der Oberpfalz,Karl-Schiller-Straße 4,Gewerbepark Berg-Loderbach,11.4735254,49.3126076,1
+Bayern,Landkreis und Stadt Neustadt an der Waldnaab,Weiden in der Oberpfalz,Ulrich-Schönberger-Straße 11,Kreisverband Bayerisches Rotes Kreuz,12.1663678,49.6841483,1
+Bayern,Landkreis Neustadt-Aisch/Bad Windsheim,Bad Windsheim,Erkenbrechtallee 2,Kur- und Kongress Center,10.41488,49.51232,1
+Bayern,Landkreis Neu-Ulm,Weißenhorn,Kammerlander Straße 1,Details sind noch nicht bekannt,10.1622167,48.3048212,1
+Bayern,Landkreis Neu-Ulm,Neu-Ulm,Wegenerstraße 13,Details sind noch nicht bekannt,10.0048031,48.3737519,1
+Bayern,Landkreis Neu-Ulm,Illertissen,Krankenhausstraße 7,Details sind noch nicht bekannt,10.10537,48.22553,1
+Bayern,Landkreis Nürnberger Land,Landkreis Nürnberger Land,,Details sind noch nicht bekannt,11.4077016,49.4961709,1
+Bayern,Stadt Nürnberg,Nürnberg,Messezentrum 1,Messe,11.1204919,49.4177539,1
+Bayern,Landkreis Oberallgäu,Immenstadt im Allgäu,Hofgartenstraße 14,Hofgarten-Stadthalle,10.217335,47.5614435,1
+Bayern,Landkreis Ostallgäu,Marktoberdorf,Nordstraße 12,Gewerbehalle,10.6247933,47.7966037,1
+Bayern,Landkreis Passau,Landkreis Passau,,Details sind noch nicht bekannt,13.3627802,48.4644299,1
+Bayern,Stadt Passau,Passau,Messestraße 12,X-Point-Halle,13.4114517,48.5577271,1
+Bayern,Landkreis Regen,Regen,Poschetsrieder Str. 45,Eissporthalle,13.1513799,48.9618833,1
+Bayern,Stadt Regensburg,Regensburg,Am Protzenweiher,Dultplatz,12.0935383,49.0262157,1
+Bayern,Landkreis Regensburg,Regensburg,Altmühlstraße 1a,Nebengebäude Landratsamt,12.1150747,49.030318,1
+Bayern,Landkreis Regensburg,Schierling,Rathausplatz 25,Zentrum für Allgemeinmedizin,12.1387512,48.8374137,1
+Bayern,Landkreis Rhön-Grabfeld,Bad Neustadt an der Saale,Goethestraße 9,Details sind noch nicht bekannt,10.2103072,50.3220542,1
+Bayern,Landkreis Rosenheim,Rosenheim,Stemplingerstraße 3,Details sind noch nicht bekannt,12.11999,47.8571,1
+Bayern,Landkreis Roth,Roth,Gildestraße 17,Altes Zentrallager Aldi,11.11724,49.24915,1
+Bayern,Landkreis Rottal-Inn,Eggenfelden,Grafenweg 11,Rottgau-Halle,12.7742364,48.3980506,1
+Bayern,Kreisfreie Stadt Schwabach,Schwabach,Huttersbühlstraße 23,Details sind noch nicht bekannt,11.0238468,49.319451,1
+Bayern,Landkreis Schwandorf,Nabburg,Krankenhausstr. 25,Ehemaliges Kreiskrankenhaus,12.1711333,49.4482981,1
+Bayern,Kreisfreie Stadt und Landkreis Schweinfurt,Kreisfreie Stadt und Landkreis Schweinfurt,,Details sind noch nicht bekannt,10.3754235,49.9248234,1
+Bayern,Landkreis Starnberg,Gauting,Robert-Koch-Allee 2,Asklepios-Klinik,11.35341,48.06635,1
+Bayern,Landkreis und Stadt Straubing-Bogen,Straubing,Am Hagen 75,Messehalle am Hagen,12.5617492,48.887464,1
+Bayern,Landkreis Tirschenreuth,Waldsassen,Egerer Straße 30,Ehemaliges Krankenhaus,12.3080175,50.0065754,1
+Bayern,Landkreis Traunstein,Altenmarkt an der Alz,Trostberger Straße 10,Details sind noch nicht bekannt,12.5331459,48.0072504,1
+Bayern,Landkreis Unterallgäu,Bad Wörishofen,Gottlieb-Daimler-Straße 26,Ehemaliges Möbelhaus,10.5984467,48.0195306,1
+Bayern,Landkreis Weißenburg-Gunzenhausen,Gunzenhausen,Spitalfeldstraße 7 - 9,Details sind noch nicht bekannt,10.7850479,49.1212334,1
+Bayern,Landkreis Weilheim-Schongau,Peißenberg,Hauptstr. 55-57,Ehemaliges Krankenhaus,11.0719976,47.8002185,1
+Bayern,Landkreis Wunsiedel im Fichtelgebirge,Wunsiedel,Rot-Kreuz-Straße 7,Haus des Bayerischen Roten Kreuzes,11.9941399,50.03826,1
+Bayern,Stadt Würzburg,Würzburg,Mainaustraße,Talavera,9.9049368,49.7996155,1
+Bayern,Landkreis Würzburg,Giebelstadt,Levi-Strauss-Straße 118,Details sind noch nicht bekannt,9.9804367,49.6586337,1
+Bremen,Bremen,Bremen,Findorffstraße 101,Messehalle 7,8.8118102,53.0889429,1
+Bremen,Bremerhaven,Bremerhaven,Wilhelm-Kaisen-Platz,Stadthalle,8.591949,53.5548006,1
+Hessen,Wetteraukreis,Büdingen,Industriestr. 46,Gewerbehalle,9.1097896,50.2699201,1
+Hessen,Stadt Wiesbaden,Wiesbaden,Friedrich-Ebert-Allee 1,Rhein Main Congress Center,8.2451183,50.0770981,1
+Hessen,Lahn-Dill-Kreis,Lahnau,Geraberger Platz 2,Lahnauhalle,8.54913,50.58222,1
+Hessen,Kreis Limburg- Weilburg,Limburg- Dietkirchen,Senefelderstraße 2,Impfzentrum Limburg-Weilburg,8.0792757,50.4030625,1
+Hessen,Main-Taunus- Kreis,Hattersheim,Mainzer Landstraße 500,Verwaltungszentrum am Regionalparkturm,8.4574709,50.0564424,1
+Hessen,Kreis Groß- Gerau,Groß-Gerau,Wilhelm-Seipp- Straße 1,Sporthalle Martin-Buber-Schule,8.4759647,49.9153025,1
+Hessen,Kreis Bergstraße,Bensheim,Berliner Ring 89,Büro & Geschäftshaus,8.6076774,49.6887269,1
+Hessen,Kreis Marburg- Biedenkopf,Marburg,Afföllerstr. 106,Messegelände Afföller,8.7685494,50.8323123,1
+Hessen,Rheingau- Taunus-Kreis,Eltville am Rhein,Wiesweg 7,Sporthalle Martin-Buber-Schule,8.1139,50.03601,1
+Hessen,Odenwaldkreis,Erbach,Obere Marktstraße / Wiesenmarktgelände,Impfzentrum Odenwaldkreis,9.0009387,49.6622685,1
+Hessen,Stadt Frankfurt,Frankfurt am Main,Ludwig-Erhard- Anlage 1,Messe Frankfurt am Main Messehalle,8.6455535,50.1110661,1
+Hessen,Vogelsbergkreis,Alsfeld,An der Hessenhalle 1,Hessenhalle Alsfeld,9.25174,50.7386,1
+Hessen,Werra-Meißner- Kreis,Eschwege,Südring 37,Großsporthallen der beruflichen Schulen sowie des Oberstufengymnasiums,10.030181,51.1842737,1
+Hessen,Main-Kinzig- Kreis,Gelnhausen,Lohmühlenweg,Sporthalle der Kreisrealschule,9.1827305,50.2023054,1
+Hessen,Main-Kinzig- Kreis,Hanau,Martin-Luther-King-Str.,August-Schärttner-Halle,8.921646,50.1461586,1
+Hessen,Kreis Gießen,Heuchelheim,Ludwig-Rinn-Straße 49,Rollermarkt im 1.OG,8.6333835,50.5772558,1
+Hessen,Stadt Offenbach,Offenbach am Main,Waldstraße 312,Stadthalle Offenbach Veranstaltungs GmbH,8.7768393,50.0829565,1
+Hessen,Kreis Waldeck- Frankenberg,Korbach,Karpartenstrasse 20,Großsporthalle Auf der Hauer,8.85967,51.27271,1
+Hessen,Kreis Offenbach,Heusenstamm,jahnstraße 64,Campus Heusenstamm Rhein- Main,8.7993438,50.0640548,1
+Hessen,Kreis Hersfeld- Rotenburg,Rotenburg an der Fulda,Heinz-Meise-Straße 190,Göbel Hotels Arena,9.7344541,51.0042501,1
+Hessen,Kreis Darmstadt- Dieburg,Reinheim,Am Sportzentrum 1A,Impfzentrum DADI Ost,8.8407878,49.8332522,1
+Hessen,Kreis Darmstadt- Dieburg,Pfungstadt,Ostendstraße 3,Impfzentrum DADI West,8.6157635,49.813194,1
+Hessen,Kreis Kassel,Calden,Flugplatzstraße,Impfzentrum LK Kassel (Alter Flugplatz),9.3920421,51.4081432,1
+Hessen,Stadt Kassel,Kassel,Damaschkestraße 25,Großsporthalle Auepark,9.4845134,51.2970497,1
+Hessen,Stadt Darmstadt,Darmstadt,Schlossgraben 1,Wissenschafts- und Kongresszentrum,8.6576364,49.8744071,1
+Hessen,Hochtaunuskreis,Bad Homburg,Am grünen Weg 1,DCX Technology Deutschland,8.6482202,50.2113684,1
+Hessen,Schwalm-Eder- Kreis,Fritzlar,Berliner Straße,Besucherparkplatz der Georg- Friedrich Kaserne,9.2858382,51.1225855,1
+Hessen,Kreis Fulda,Fulda,Esperantoplatz 1,Kongress- und Kulturzentrum Fulda GmbH & Co. KG,9.6865047,50.557432,1
+Hamburg,Hamburg,Hamburg,Messeplatz 1,Messehallen,9.975119,53.5617952,1
+Mecklenburg-Vorpommern,Landkreis Ludwigslust-Parchim,Parchim,,Stadthalle Parchim,11.8478394,53.4250382,1
+Mecklenburg-Vorpommern,Landkreis Ludwigslust-Parchim,Ludwigslust,,Stadthalle Ludwigslust,11.4969238,53.3244914,1
+Mecklenburg-Vorpommern,Kreisfreie Stadt Schwerin,Schwerin,,Kongresshalle Schwerin,11.4012499,53.6355022,1
+Mecklenburg-Vorpommern,Landkreis Nordwestmecklenburg,Wismar,,Details sind noch nicht bekannt,11.4516022,53.8979416,1
+Mecklenburg-Vorpommern,Landkreis Nordwestmecklenburg,Grevesmühlen,,Details sind noch nicht bekannt,11.1906933,53.8600277,1
+Mecklenburg-Vorpommern,Landkreis Rostock,Laage,,Flughafen Laage,12.346667,53.932222,1
+Mecklenburg-Vorpommern,Kreisfreie Stadt Rostock,Rostock,,HanseMesse Rostock,12.0991466,54.0924406,1
+Mecklenburg-Vorpommern,Landkreis Vorpommern-Rügen,Stralsund,,Details sind noch nicht bekannt,13.0770347,54.3090654,1
+Mecklenburg-Vorpommern,Landkreis Vorpommern-Greifswald,Greifswald,,Details sind noch nicht bekannt,13.3923414,54.0865463,1
+Mecklenburg-Vorpommern,Landkreis Vorpommern-Greifswald,Pasewalk,,Details sind noch nicht bekannt,13.9990311,53.5038857,1
+Mecklenburg-Vorpommern,Landkreis Mecklenburgische Seenplatte,Trollenhagen,,Details sind noch nicht bekannt,13.2893207,53.6073187,1
+Mecklenburg-Vorpommern,Landkreis Mecklenburgische Seenplatte,Waren,,Details sind noch nicht bekannt,12.6818562,53.5161667,1
+Niedersachsen,Ammerland,Bad Zwischenahn,Virchowstraße 2,Schule,7.9892699,53.19725,1
+Niedersachsen,Aurich,Südbrookmerland,Georgsheiler Weg 52,Sporthalle,7.32659,53.47756,1
+Niedersachsen,Braunschweig,Braunschweig,St. Leonhard 14,Stadthalle Braunschweig,10.5393122,52.2577875,1
+Niedersachsen,Celle,Celle,Hannoversche Straße 30b,Veranstaltungshalle,10.0798372,52.6149991,1
+Niedersachsen,Cloppenburg,Garrel-Petersfeld,Am Campingplatz 7,Jugendherberge,7.9501399,52.92058,1
+Niedersachsen,Cuxhaven,Cuxhaven,Lentzstraße 1,Veranstaltungshalle,8.71186,53.86743,1
+Niedersachsen,Delmenhorst,Delmenhorst,Am Wehrhahn 6,Sporthalle,8.62789,53.05491,1
+Niedersachsen,Diepholz,Bassum,Marie-Hackfeld-Str. 6,Krankenhaus,8.7281468,52.8439184,1
+Niedersachsen,Emden,Emden,Früchteburger Weg 17-19,Veranstaltungshalle,7.20362,53.37813,1
+Niedersachsen,Emsland,Lingen (Ems),Lindenstraße 24a,Veranstaltungshalle,7.3137733,52.5139501,1
+Niedersachsen,Emsland,Papenburg,Ölmühlenweg 9,Stadthalle,7.38697,53.08725,1
+Niedersachsen,Friesland,Schortens OT Roffhausen,Potsdamer Straße 10,ehem. Schule,8.03341,53.52791,1
+Niedersachsen,Gifhorn,Gifhorn,Schützenplatz 2,Stadthalle,10.5357543,52.4855124,1
+Niedersachsen,Goslar,Goslar OT Oker,Bei der Eiche 5,Sporthalle,10.47833,51.90141,1
+Niedersachsen,Göttingen - Stadt,Göttingen,Anna-Vandenhoeck-Ring 13,ehemaliger Großmarkt,9.8821759,51.5201937,1
+Niedersachsen,Göttingen - Landkreis,Herzberg am Harz,Heidestraße 10,Sporthalle,10.3382335,51.6525954,1
+Niedersachsen,Göttingen - Landkreis,Göttingen,Godehardstraße 11,Sporthalle,9.9239283,51.5382484,1
+Niedersachsen,Graftschaft Bentheim,Nordhorn,Paulstr. 4-8,Gewerbehalle,7.06617,52.42825,1
+Niedersachsen,Hameln-Pyrmont,Hameln,Reimerdeskamp,Unterkunftsgebäude,9.3496795,52.1211673,1
+Niedersachsen,Hannover - Region und Landeshauptstadt,Hannover,Messehalle 25,Messehalle/Messegelände,9.8005711,52.3236325,1
+Niedersachsen,Harburg,Winsen (Luhe),Luhdorfer Straße 29,Stadthalle,10.2083805,53.3514839,1
+Niedersachsen,Harburg,Buchholz,Richard-Schmidt-Straße 27,Veranstaltungshalle,9.8735537,53.330971,1
+Niedersachsen,Heidekreis,Bad Fallingbostel,Soltauer Str. 39,Veranstaltungshalle,9.7055497,52.8747046,1
+Niedersachsen,Helmstedt,Helmstedt,Kantstraße 27,Sporthalle,11.0016412,52.2189355,1
+Niedersachsen,Hildesheim - Landkreis,Hildesheim,Steuerwalder Str. 158,Sporthalle,9.93815,52.1693,1
+Niedersachsen,und Stadt,Alfeld / Leine,Kalandstraße 19,Sporthalle,9.8325019,51.9885827,1
+Niedersachsen,Holzminden,Holzminden,Zeppelinstraße 6,Gewerbehalle,9.4689811,51.8400468,1
+Niedersachsen,Leer,Hesel,An der Schule 6,Schule,7.58898,53.30652,1
+Niedersachsen,Lüneburg,Lüneburg,,Details sind noch nicht bekannt,10.4115179,53.2464214,1
+Niedersachsen,Nienburg,Drankenburg,Weserweg 48,ehem. Schule,9.22725,52.6922,1
+Niedersachsen,Northeim,Northeim,Medenheimer Str. 4,Stadthalle,9.99612,51.70603,1
+Niedersachsen,Oldenburg - Stadt,Oldenburg,Europaplatz 12,Messehalle,8.2278062,53.1466884,1
+Niedersachsen,Oldenburg - Land,Wildeshausen,Westring 7,ehem. Verbrauchermarkt,8.4146707,52.8953872,1
+Niedersachsen,Osnabrück - Stadt,Osnabrück,Schlosswall 10,Sporthalle,8.040853,52.2708591,1
+Niedersachsen,Osnabrück - Land,Wallenhorst,Borsigstraße 2,ehem. Verbrauchermarkt,8.0035115,52.35876,1
+Niedersachsen,Osnabrück - Land,Georgsmarienhütte,Leimbrink 1-3,ehem. Verbrauchermarkt,8.05705,52.205,1
+Niedersachsen,Osterholz,Osterholz-Scharmbeck,Jacob-Frerichs-Straße 1,Stadthalle,8.7955699,53.21932,1
+Niedersachsen,Peine,Peine,Woltorfer Straße 77a,Industriehalle,10.2471599,52.3209,1
+Niedersachsen,Rotenburg (Wümme),Zeven,Dr. Otto-Straße 2,ehem. Krankenhaus,9.2835508,53.3025543,1
+Niedersachsen,Salzgitter,Salzgitter,Hans-Birnbaum-Straße 30-32,Unterkunftsgebäude,10.3623761,52.1585277,1
+Niedersachsen,Schaumburg,Stadthagen,Enzer Straße 19a,Festhalle,9.197494,52.3230901,1
+Niedersachsen,Stade,Stade-Ottenbeck,Sophie-Scholl-Weg 24,Industriehalle,9.50157,53.56883,1
+Niedersachsen,Uelzen und Lüchow-Dannenberg,Uelzen,Am Schützenplatz 1,Stadthalle,10.55654,52.97416,1
+Niedersachsen,Vechta,Lohne,Robert-Bosch-Straße 1,Gewerbehalle,8.169355,52.6592939,1
+Niedersachsen,Verden,Verden (Aller),Lindhooper Straße 67a,Containerbau am Kreishaus,9.25081,52.9280961,1
+Niedersachsen,Wesermarsch,Brake,Kirchenstraße 17,ehem. Schule,8.4814661,53.3232293,1
+Niedersachsen,Wilhelmshaven,Wilhelmshaven,Güterstraße 48a,ehem. Verbrauchermarkt,8.0756089,53.5212334,1
+Niedersachsen,Wittmund,Esens-Bensersiel,Grashauser Flage 2,Jugendherberge Esens-Bensersiel,7.60908,53.6546,1
+Niedersachsen,Wolfenbüttel,Wolfenbüttel,Schweigerstraße 8,Veranstaltungshalle,10.5696136,52.1668588,1
+Niedersachsen,Wolfsburg,Wolfsburg,Heinrich-Heine-Straße,Veranstaltungshalle,10.7786752,52.4197683,1
+Nordrhein-Westfalen,Aachen (Städteregion),Aachen,Hubert-Wienen-Straße 8,Aachener Eissporthalle,6.1010627,50.7960701,1
+Nordrhein-Westfalen,Bielefeld,Bielefeld,Willy-Brandt-Platz 1,Stadthalle Bielefeld,8.5356139,52.0287593,1
+Nordrhein-Westfalen,Bochum,Bochum,Stadionring 20,Ruhr Congress,7.2335543,51.4912426,1
+Nordrhein-Westfalen,Bonn,Bonn,Platz der Vereinten Nationen 2,World Conference Center Bonn,7.124258,50.719225,1
+Nordrhein-Westfalen,Borken,Velen,Schlatt 23,Interkommunaler Bauhof,6.9580629,51.9353737,1
+Nordrhein-Westfalen,Bottrop,Bottrop,Südring 79,Leere Unternehmenshallen von Fressnapf und Golf Area,6.9244511,51.5110581,1
+Nordrhein-Westfalen,Coesfeld,Dülmen,An der Lehmkuhle 87,Veranstaltungsräumen des Unternehmens Wiesmann,7.290581,51.8448738,1
+Nordrhein-Westfalen,Dortmund,Dortmund,Phoenixplatz 4,Warsteiner Music Hall,7.4885947,51.488368,1
+Nordrhein-Westfalen,Duisburg,Duisburg,Plessingstraße 20,Theater am Marientor,6.75673,51.42877,1
+Nordrhein-Westfalen,Düren,Düren,Am Ellernbusch 18-20,Ehemaliges Telekom-Gebäude,6.467143,50.7955112,1
+Nordrhein-Westfalen,Düsseldorf,Düsseldorf,Arena-Straße 1,Merkur Spiel-Arena,6.7324382,51.261241,1
+Nordrhein-Westfalen,Ennepe-Ruhr-Kreis,Ennepetal,Kölner Straße,Ehemaliger Aldi-Markt,7.3407146,51.3110345,1
+Nordrhein-Westfalen,Essen,Essen,Messepl. 1,Messegelände Halle 4,6.9979643,51.430151,1
+Nordrhein-Westfalen,Euskirchen,Nettersheim,Dr.-Konrad-Adenauer-Straße 1,Ehemalige Eifelhöhen-Klinik,6.5738197,50.4825977,1
+Nordrhein-Westfalen,Gelsenkirchen,Gelsenkirchen,Adenauerallee 118,Emscher-Lippe-Halle,7.0732208,51.5533452,1
+Nordrhein-Westfalen,Gütersloh,Gütersloh,Marienfelder Straße 351,Ehemaliger Supermarkt der britischen Streitkräfte,8.323965,51.9263284,1
+Nordrhein-Westfalen,Hagen,Hagen,Wasserloses Tal 2,Stadthalle Hagen,7.4846507,51.3531091,1
+Nordrhein-Westfalen,Hamm,Hamm,Marker Allee 20,Dreifachsporthalle der Friedensschule,7.8287286,51.681154,1
+Nordrhein-Westfalen,Heinsberg,Erkelenz,Brüsseler Allee 5,Ungenutzte Flüchtlingsunterkünfte,6.3057064,51.0613274,1
+Nordrhein-Westfalen,Herford,Enger,Bustedter Weg 16,Ehemaliges Firmengelände von Wellmann Küchen,8.58952,52.16685,1
+Nordrhein-Westfalen,Herne,Herne,Am Revierpark 40,Dreifachsporthalle im Gysenbergpark,7.255624,51.532856,1
+Nordrhein-Westfalen,Hochsauerlandkreis,Olsberg,Ruhrstraße 32,Konzerthalle Olsberg,8.4850363,51.3538818,1
+Nordrhein-Westfalen,Höxter,Brakel,Am Schützenanger 4,Stadthalle Brakel,9.1930289,51.7159817,1
+Nordrhein-Westfalen,Kleve,Kalkar,Griether Str. 110,Hansehalle Grieth auf dem Messegelände Kalkar,6.3269163,51.763654,1
+Nordrhein-Westfalen,Krefeld,Krefeld,Sprödentalplatz,Container auf Sprödentalplatz,6.5844442,51.3364148,1
+Nordrhein-Westfalen,Köln,Köln,Messeplatz 1,Messegelände,6.9813574,50.9475956,1
+Nordrhein-Westfalen,Leverkusen,Leverkusen,Nobelstraße 37,Erholungshaus der Bayer-Kulturabteilung,6.9805459,51.0342153,1
+Nordrhein-Westfalen,Lippe,Lemgo,Bunsenstraße 39,Ehemalige Lipperlandhalle,8.9077401,52.0171,1
+Nordrhein-Westfalen,Mettmann,Erkrath,Timocom Platz 1,Räume der Firma Timocom,6.9374199,51.2207015,1
+Nordrhein-Westfalen,Minden-Lübbecke,Hille,Schulstraße 18,Sporthalle Unterlübbe,8.76811,52.29534,1
+Nordrhein-Westfalen,Märkischer Kreis I,Lüdenscheid,Reckenstraße 6,Historische Schützenhalle,7.6441585,51.2198615,1
+Nordrhein-Westfalen,Märkischer Kreis II,Iserlohn,Lanferkamp 3,Leerstehender Gewerbekomplex (ehemals Kottmann Technology),7.66256,51.37845,1
+Nordrhein-Westfalen,Mönchengladbach,Mönchengladbach,Am Nordpark 260,Leerstehende Flüchtlingsunterkunft im Nordpark,6.3882742,51.1901675,1
+Nordrhein-Westfalen,Mülheim an der Ruhr,Mülheim an der Ruhr,Wissollstraße 5,Parkstadt Mülheim,6.8509613,51.4239086,1
+Nordrhein-Westfalen,Münster,Münster,Albersloher Weg 32,Halle Münsterland,7.6388121,51.9478392,1
+Nordrhein-Westfalen,Oberbergischer Kreis,Gummersbach,Kaiserstraße 35,Einkaufszentrum Bergischer Hof,7.5641709,51.0273447,1
+Nordrhein-Westfalen,Oberhausen,Oberhausen,Lothringer Str. 75,Willy-Jürissen-Halle,6.8523168,51.4660602,1
+Nordrhein-Westfalen,Olpe,Attendorn,Heggener Weg 34,Gewerbehalle,7.9191725,51.1323972,1
+Nordrhein-Westfalen,Paderborn,Salzkotten,Upsprunger Str. 1,Stadthalle Salzkotten (Sälzerhalle),8.6009287,51.6697924,1
+Nordrhein-Westfalen,Recklinghausen,Recklinghausen,Konrad-Adenauer-Platz,Leichtbauhalle auf Konrad-Adenauer-Platz,7.2026215,51.6110841,1
+Nordrhein-Westfalen,Remscheid,Remscheid,Wallburgstraße 23,Sporthalle West,7.15187,51.16544,1
+Nordrhein-Westfalen,Rhein-Erft-Kreis,Hürth,Theresienhöhe 1,Ehemaliger Real-Supermarkt,6.8763886,50.8780644,1
+Nordrhein-Westfalen,Rhein-Kreis Neuss,Neuss,Hammfelddamm 2,Turnhalle des Berufskollegs für Technik und Informatik,6.7094535,51.1918237,1
+Nordrhein-Westfalen,Rhein-Sieg-Kreis,Sankt Augustin,Arnold-Janssen-Straße 29,Asklepios Kinderklinik,7.18153,50.77522,1
+Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,Bergisch Gladbach,Hauptstraße 131,RheinBerg Galerie,7.1243536,50.9903796,1
+Nordrhein-Westfalen,Siegen-Wittgenstein,Siegen,Eiserfelder Str. 236,Ehemaliger Baustoffhandel Bauking,7.9958902,50.8501748,1
+Nordrhein-Westfalen,Soest,Soest,Senator-Schwartz-Ring 26,Halle der Firma Eaton - CEAG Notlichtsysteme,8.0839195,51.5591766,1
+Nordrhein-Westfalen,Solingen,Solingen,Hauptstraße 75-77,Ehemaliger Kaufhof,7.085027,51.1728003,1
+Nordrhein-Westfalen,Steinfurt,Greven,Airportallee 1,Flughafen Münster/Osnabrück,7.692915,52.1307253,1
+Nordrhein-Westfalen,Unna,Unna,Platanenallee 20,Kreissporthalle II,7.6872739,51.5457547,1
+Nordrhein-Westfalen,Viersen,Viersen,Heesstr. 2-10,Leerstehendes St.-Cornelius-Krankenhaus,6.34036,51.24928,1
+Nordrhein-Westfalen,Warendorf,Ennigerloh,Westring 10,Gelände der Abfallwirtschaftsgesellschaft (AWG),8.01998,51.85157,1
+Nordrhein-Westfalen,Wesel,Wesel,An de Tent 1,Niederrheinhalle,6.6290793,51.6524437,1
+Nordrhein-Westfalen,Wuppertal,Wuppertal,Rainer-Gruenter-Straße,Uni-Campus Freudenberg,7.1621875,51.2391352,1
+Rheinland-Pfalz,Alzey-Worms,Alzey,,Fahrzeughalle des DRK-Kreisverbandes,8.1171135,49.7462012,1
+Rheinland-Pfalz,Bad Dürkheim,Bad Dürkheim,,Salierhalle,8.1654232,49.4598369,1
+Rheinland-Pfalz,Bad Kreuznach,Bad Sobernheim,,leer stehender Real-Markt an der Westtangente,7.6515499,49.7857614,1
+Rheinland-Pfalz,Bitburg-Prüm,Bitburg,,High School auf dem US-Housing-Gelände,6.5298603,49.9664145,1
+Rheinland-Pfalz,Frankenthal,Frankenthal,,Sporthalle der Andreas-Albert-Schule,8.3560768,49.5377072,1
+Rheinland-Pfalz,Ahrweiler,Grafschaft-Gelsdorf,,Mehrzweckhalle,7.0367585,50.5858409,1
+Rheinland-Pfalz,Westerwaldkreis,Hachenburg,,leerstehende Realschule,7.8209622,50.6594651,1
+Rheinland-Pfalz,Vulkaneifel,Hillesheim,,Markt- und Messehalle,8.254877,49.7753677,1
+Rheinland-Pfalz,Birkenfeld,Idar-Oberstein (Nahbollenbach),,Messe Idar-Oberstein,7.36896,49.7120794,1
+Rheinland-Pfalz,Mainz-Bingen,Ingelheim,,Aufnahmeeinrichtung für Asylbegehrende,8.0560682,49.9764195,1
+Rheinland-Pfalz,Kaiserslautern Stadt und Kreis,Kaiserslautern,Opelkreisel 1,Werksgelände Opel,7.6875445,49.4396047,1
+Rheinland-Pfalz,Donnersbergkreis,Kirchheimbolanden,,Stadthalle,8.0116405,49.6629007,1
+Rheinland-Pfalz,Koblenz,Koblenz – Oberwerth,,Fechthalle an der Sporthalle,7.5904761,50.339784,1
+Rheinland-Pfalz,Kusel,Kusel,,Gelände der ehemaligen Bundeswehr-Kaserne,7.4064528,49.5383747,1
+Rheinland-Pfalz,Rhein-Lahn-Kreis,Lahnstein,,ehemaliges Lidl-Gebäude,7.6093633,50.3078274,1
+Rheinland-Pfalz,Cochem-Zell,Landkern,,Eifelgoldhalle,7.1531828,50.1939998,1
+Rheinland-Pfalz,Ludwigshafen am Rhein,Ludwigshafen am Rhein,,Einkaufszentrum Walzmühle,8.44518,49.47741,1
+Rheinland-Pfalz,Mainz,Mainz – Gonsenheim,,frühere Fachhochschule im Stadtteil Gonsenheim,8.2039952,50.0016764,1
+Rheinland-Pfalz,Neustadt an der Weinstraße,Neustadt an der Weinstraße,,Telekom-Hochhaus,8.1486886,49.3501864,1
+Rheinland-Pfalz,Neuwied,Oberhonnefeld,,Gewerbehalle,7.516731,50.5536604,1
+Rheinland-Pfalz,Pirmasens und Südwestpfalz,Pirmasens,,Messehalle,7.6002161,49.201555,1
+Rheinland-Pfalz,Mayen-Koblenz,Polch,,Maifeldhalle,7.3132187,50.3015713,1
+Rheinland-Pfalz,Rhein-Pfalz-Kreis,Schifferstadt,,Kreissporthalle im Neustückweg,8.3767048,49.3828647,1
+Rheinland-Pfalz,Rhein-Hunsrück-Kreis,Simmern,,ehemaliges Sconto-Gelände,7.516667,49.983333,1
+Rheinland-Pfalz,Speyer,Speyer,,Stadthalle,8.4412172,49.3172765,1
+Rheinland-Pfalz,Trier und Trier-Saarburg,Trier,,Trierer Messepark,6.6371433,49.749992,1
+Rheinland-Pfalz,Altenkirchen,Wissen,,Gebäude der Westerwaldbank,7.7396765,50.7755474,1
+Rheinland-Pfalz,Bernkastel-Wittlich,Wittlich,,ehemaliges Hela-Gelände,6.889722,49.986944,1
+Rheinland-Pfalz,Worms,Worms,,Nikolaus-Dörr-Halle,8.3507182,49.6341372,1
+Rheinland-Pfalz,Germersheim / Südliche Weinstraße / Landau,Wörth am Rhein,,Lagerhalle in Hafengebiet,8.257338,49.0514423,1
+Rheinland-Pfalz,Zweibrücken,Zweibrücken,,Cityoutlet,7.3634022,49.2450528,1
+Schleswig-Holstein,Kreis Herzogtum-Lauenburg,(Alt-) Mölln,,Details sind noch nicht bekannt,10.6712572,53.6224935,1
+Schleswig-Holstein,Kreis Stormarn,Bad Oldesloe,,Details sind noch nicht bekannt,10.3822557,53.8076269,1
+Schleswig-Holstein,Kreis Ostholstein,Bad Schwartau,,Details sind noch nicht bekannt,10.6854143,53.9163386,1
+Schleswig-Holstein,Kreis Dithmarschen,Brunsbüttel,,Details sind noch nicht bekannt,9.1338853,53.8988902,1
+Schleswig-Holstein,Kreis Rendsburg-Eckernförde,Büdelsdorf,,Details sind noch nicht bekannt,9.6800016,54.3178434,1
+Schleswig-Holstein,Kreis Pinneberg,Elmshorn,,Details sind noch nicht bekannt,9.6632521,53.7513549,1
+Schleswig-Holstein,Kreis Ostholstein,Eutin,,Details sind noch nicht bekannt,10.6095048,54.1330282,1
+Schleswig-Holstein,Flensburg,Flensburg (Stadtgebiet),,Details sind noch nicht bekannt,9.4469964,54.7937431,1
+Schleswig-Holstein,Kreis Herzogtum-Lauenburg,Geesthacht,,Details sind noch nicht bekannt,10.3611665,53.4379562,1
+Schleswig-Holstein,Kreis Rendsburg-Eckernförde,Gettorf,,Details sind noch nicht bekannt,9.9765262,54.4145511,1
+Schleswig-Holstein,Kreis Stormarn,Großhansdorf,,Details sind noch nicht bekannt,10.2730016,53.651326,1
+Schleswig-Holstein,Kreis Dithmarschen,Heide,,Details sind noch nicht bekannt,9.1019015,54.1951764,1
+Schleswig-Holstein,Neumünster,Neumünster,Justus-von-Liebig-Straße 43923,Holstenhallen,9.975001,54.0944308,1
+Schleswig-Holstein,Kreis Nordfriesland,Husum,,Details sind noch nicht bekannt,9.0600628,54.4837642,1
+Schleswig-Holstein,Kreis Steinburg,Itzehoe,,Details sind noch nicht bekannt,9.5051475,53.9317752,1
+Schleswig-Holstein,Kreis Segeberg,Kaltenkirchen,,Details sind noch nicht bekannt,9.958595,53.8306132,1
+Schleswig-Holstein,Kiel,Kiel,Mühlendamm 1,Citti-Park (UKSH),10.0995714,54.3136397,1
+Schleswig-Holstein,Kreis Schleswig-Flensburg,Kropp,,Details sind noch nicht bekannt,9.5090761,54.411313,1
+Schleswig-Holstein,Kreis Ostholstein,Lensahn,,Details sind noch nicht bekannt,10.8825019,54.2162514,1
+Schleswig-Holstein,Lübeck,Lübeck,Willy-Brandt-Allee 10,Musik- und Kongresshalle,10.678102,53.869349,1
+Schleswig-Holstein,Kreis Nordfriesland,Niebüll,,Details sind noch nicht bekannt,8.8308427,54.7874263,1
+Schleswig-Holstein,Kreis Schleswig-Flensburg,Norderbrarup,,Details sind noch nicht bekannt,9.7685886,54.6557286,1
+Schleswig-Holstein,Kreis Segeberg,Norderstedt,,Details sind noch nicht bekannt,10.0008798,53.6993066,1
+Schleswig-Holstein,Kreis Plön,Plön,,Details sind noch nicht bekannt,10.4259498,54.1613302,1
+Schleswig-Holstein,Kreis Pinneberg,Prisdorf,,Details sind noch nicht bekannt,9.763663,53.677953,1
+Schleswig-Holstein,Kreis Stormarn,Reinbek,,Details sind noch nicht bekannt,10.2443392,53.5170003,1
+Schleswig-Holstein,Kreis Plön,Schönberg in Holstein,,Details sind noch nicht bekannt,10.3749347,54.3914715,1
+Schleswig-Holstein,Kiel,Kiel,,Schwedenkai,10.1227651,54.3232927,1
+Schleswig-Holstein,Kreis Segeberg,Wahlstedt,,Details sind noch nicht bekannt,10.2099094,53.9528496,1
+Saarland,Landkreis Neunkirchen,Neunkirchen-Sinnerthal,,ehemaliger Praktiker/Max-Bahr-Baumarkt,7.1444616,49.3517859,1
+Saarland,Regionalverband Saarbrücken,Saarbrücken,,Saarbrücker Messegelände,6.9969327,49.2401572,1
+Saarland,Landkreis Saarlouis,Saarlouis,,ehemaliger Gebäudekomplex der Firma Braun CarTec,6.7522865,49.3134606,1
+Sachsen,Chemnitz,Chemnitz,Wilhelm-Raabe-Str. 6,Netto Chemnitz,12.9184592,50.8210678,1
+Sachsen,Dresden,Dresden,Messering 6,Messe Dresden,13.7204083,51.0682387,1
+Sachsen,Leipzig,Leipzig,Messe-Allee 1,Messe Leipzig,12.3988051,51.3954727,1
+Sachsen,Landkreis Leipzig,Borna,Oststraße 3a,ehem. Aldi Markt Borna,12.5067219,51.1240354,1
+Sachsen,Landkreis Nordsachsen,Belgern-Schildau,Mühlberger Str. 37,Stadthalle Belgern,13.1338808,51.4759362,1
+Sachsen,Landkreis Zwickau,Zwickau,Bergmannsstraße 1,Stadthalle Zwickau,12.4964177,50.7040704,1
+Sachsen,Sächsische Schweiz - Osterzgebirge,Pirna,Radeberger Str. 1h,Aldi Pirna Jessen,13.9308178,50.9814802,1
+Sachsen,Landkreis Mittelsachsen,Mittweida,Schillerstraße 1,Mittweida über Simmel-Markt (ehem. EKZ),12.9733328,50.9852696,1
+Sachsen,Vogtlandkreis,Treuen OT Eich,Rebesgrüner Str. 9,Spektrum Treuen/Eich (ehem. Baumarkt),12.35027,50.54091,1
+Sachsen,Landkreis Meißen,Riesa,Am Sportzentrum 5,Sachsen-Arena Riesa,13.2958838,51.2978197,1
+Sachsen,Landkreis Görlitz,Löbau,Görlitzer Str. 2,Messehalle Löbau,14.6763391,51.1003993,1
+Sachsen,Erzgebirgskreis,Annaberg-Buchholz,Ernst-Roch-Straße 4,Festhalle Annaberg-Buchholz,13.01302,50.57671,1
+Sachsen,Landkreis Bautzen,Kamenz,Macherstraße 146,Sporthalle am Flughafen,14.1143767,51.2899953,1
+Sachsen-Anhalt,Kreisfreie Stadt Dessau-Roßlau,Dessau-Roßlau,,Anhalt-Arena,12.2303935,51.8428278,1
+Sachsen-Anhalt,Landkreis Stendal,Stendal,,ehemalige Kita,11.8517729,52.6041444,1
+Sachsen-Anhalt,Landkreis Harz,Quedlinburg,,ehemaliger Supermarkt in der Nähe des Bahnhofs,11.141448,51.7920562,1
+Sachsen-Anhalt,Landkreis Mansfeld-Südharz,Sangerhausen,Dr.-Wilhelm-Külz-Straße,Mammuthalle,11.2989722,51.4780992,1
+Sachsen-Anhalt,Landkreis Wittenberg,Wittenberg,,Sporthalle der Berufsbildenden Schule,12.6279659,51.8739831,1
+Sachsen-Anhalt,Salzlandkreis,Staßfurt,,ehemalige Kinderklinik,11.5790389,51.8608995,1
+Sachsen-Anhalt,Kreisfreie Stadt Magdeburg,Magdeburg,,Messhalle,11.6276237,52.1205333,1
+Sachsen-Anhalt,Saalekreis,Leuna,,CCE Kulturhaus,12.0242284,51.3232659,1
+Sachsen-Anhalt,Landkreis Börde,Haldensleben,,Kindertagesstätte Regenbogen,11.4181493,52.284424,1
+Thüringen,Erfurt,Erfurt,,Details sind noch nicht bekannt,11.02988,50.9847679,1
+Thüringen,Jena,Jena,,Details sind noch nicht bekannt,11.5892372,50.927054,1
+Thüringen,Gera,Gera,,Details sind noch nicht bekannt,12.0807203,50.8850706,1

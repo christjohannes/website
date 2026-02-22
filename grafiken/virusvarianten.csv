@@ -1,0 +1,122 @@
+land,kreis,typ,case,lat,lon,num
+Baden-Württemberg,Alb-Donau-Kreis,unklar,5,48.3869659,9.72875608405971,1
+Baden-Württemberg,Biberach,unklar,2,48.0984413,9.7899938,1
+Baden-Württemberg,Breisgau-Hochschwarzwald,unklar,2,47.9214407,7.931506,1
+Baden-Württemberg,Emmendingen,unklar,1,48.1206565,7.850993,1
+Baden-Württemberg,Freiburg,unklar,4,47.9960901,7.8494005,1
+Baden-Württemberg,Freiburg,unklar,4,47.9960901,7.8494005,1
+Baden-Württemberg,Lörrach,unklar,8,47.6120896,7.6607218,1
+Baden-Württemberg,Ortenaukreis,unklar,5,48.4389796,8.00990275921735,1
+Baden-Württemberg,Ortenaukreis,unklar,5,48.4389796,8.00990275921735,1
+Baden-Württemberg,Ravensburg,unklar,8,47.7811014,9.612468,1
+Baden-Württemberg,Schwarzwald-Baar-Kreis,unklar,1,47.97941475,8.48894293719968,1
+Baden-Württemberg,Waldshut,unklar,5,47.6246179,8.2120605,1
+Bayern,Berchtesgadener Land,unklar,1,47.7494467,12.9216667,1
+Bayern,Berchtesgadener Land,unklar,1,47.7494467,12.9216667,1
+Bayern,Fürth,unklar,1,49.477263,10.989616,1
+Bayern,Hof,unklar,2,50.3219015,11.9178807,1
+Bayern,Nürnberg,unklar,1,49.453872,11.077298,1
+Hessen,Bergstraße,unklar,1,49.62303715,8.52717421735676,1
+Nordrhein-Westfalen,Köln,unklar,6,50.938361,6.959974,1
+Nordrhein-Westfalen,Köln,unklar,6,50.938361,6.959974,1
+Sachsen-Anhalt,Stendal,unklar,2,52.6051341,11.8593217,1
+Hessen,genauer Ort unbekannt,Brasilien,1,51.3034636,8.7480285,2
+Hessen,genauer Ort unbekannt,Brasilien,1,51.3034636,8.7480285,2
+Baden-Württemberg,Freudenstadt,Vereinigtes Königreich,1,48.4637727,8.4111727,3
+Baden-Württemberg,Heilbronn,Vereinigtes Königreich,4,49.142291,9.218655,3
+Baden-Württemberg,Main-Tauber-Kreis,Vereinigtes Königreich,2,49.5713991,9.67103995856859,3
+Baden-Württemberg,Ortenaukreis,Vereinigtes Königreich,2,48.4389796,8.00990275921735,3
+Baden-Württemberg,Ortenaukreis,Vereinigtes Königreich,2,48.4389796,8.00990275921735,3
+Baden-Württemberg,Stuttgart,Vereinigtes Königreich,1,48.7784485,9.1800132,3
+Baden-Württemberg,Stuttgart,Vereinigtes Königreich,1,48.7784485,9.1800132,3
+Bayern,Bayreuth,Vereinigtes Königreich,11,49.9427202,11.5763079,3
+Bayern,Berchtesgadener Land,Vereinigtes Königreich,1,47.7494467,12.9216667,3
+Bayern,Berchtesgadener Land,Vereinigtes Königreich,1,47.7494467,12.9216667,3
+Bayern,Dingolfing-Landau,Vereinigtes Königreich,2,48.6366667,12.5877667,3
+Bayern,Erding,Vereinigtes Königreich,1,48.3064441,11.9076579,3
+Bayern,Landsberg,Vereinigtes Königreich,1,48.0514973,10.8737728,3
+Bayern,Mühldorf,Vereinigtes Königreich,3,48.2405007,12.5250991,3
+Bayern,München,Vereinigtes Königreich,2,48.1371079,11.5753822,3
+Bayern,Passau,Vereinigtes Königreich,1,48.5748229,13.4609744,3
+Bayern,Regen,Vereinigtes Königreich,4,48.9700842,13.1262631,3
+Bayern,genauer Ort unbekannt,Vereinigtes Königreich,1,49.8001954,12.399774,3
+Bayern,genauer Ort unbekannt,Vereinigtes Königreich,4,48.9467562,11.4038717,3
+Berlin,Berlin,Vereinigtes Königreich,7,52.5170365,13.3888599,3
+Berlin,Reinickendorf,Vereinigtes Königreich,25,52.6047631,13.2952872,3
+Berlin,Reinickendorf,Vereinigtes Königreich,25,52.6047631,13.2952872,3
+Berlin,Spandau,Vereinigtes Königreich,5,52.535788,13.1977924,3
+Berlin,Spandau,Vereinigtes Königreich,5,52.535788,13.1977924,3
+Berlin,Steglitz-Zehlendorf,Vereinigtes Königreich,1,52.4292052,13.2299741,3
+Berlin,Wedding,Vereinigtes Königreich,1,52.550123,13.34197,3
+Brandenburg,Oberhavel,Vereinigtes Königreich,1,52.91888095,13.2279803024821,3
+Brandenburg,Spree-Neiße,Vereinigtes Königreich,1,51.78131035,14.1971679798382,3
+Bremen,Bremen,Vereinigtes Königreich,9,53.0758196,8.8071646,3
+Bremen,Bremerhaven,Vereinigtes Königreich,2,53.5522264,8.5865509,3
+Hamburg,genauer Ort unbekannt,Vereinigtes Königreich,7,53.550341,10.000654,3
+Hessen,Frankfurt,Vereinigtes Königreich,1,50.1106444,8.6820917,3
+Hessen,Marburg-Biedenkopf,Vereinigtes Königreich,6,50.9158122,8.5270214,3
+Hessen,Waldeck-Frankenberg,Vereinigtes Königreich,2,51.07226815,8.77103967199477,3
+Mecklenburg-Vorpommern,genauer Ort unbekannt,Vereinigtes Königreich,12,53.7735064,12.5755471,3
+Niedersachsen,Ammerland,Vereinigtes Königreich,4,53.2138834,8.0055549,3
+Niedersachsen,Aurich,Vereinigtes Königreich,1,53.4695604,7.4823808,3
+Niedersachsen,Celle,Vereinigtes Königreich,2,52.624056,10.081052,3
+Niedersachsen,Celle,Vereinigtes Königreich,2,52.624056,10.081052,3
+Niedersachsen,Emsland,Vereinigtes Königreich,2,52.69863035,7.36613425849871,3
+Niedersachsen,Göttingen (SK & LK),Vereinigtes Königreich,9,51.5328328,9.9351811,3
+Niedersachsen,Hannover,Vereinigtes Königreich,2,52.3744779,9.7385532,3
+Niedersachsen,Northeim,Vereinigtes Königreich,1,51.705401,9.9972782,3
+Niedersachsen,Vechta,Vereinigtes Königreich,3,52.7310691,8.2873162,3
+Nordrhein-Westfalen,Bielefeld,Vereinigtes Königreich,2,52.0191005,8.531007,3
+Nordrhein-Westfalen,Düren,Vereinigtes Königreich,5,50.8031684,6.4820806,3
+Nordrhein-Westfalen,Kleve,Vereinigtes Königreich,2,51.7854839,6.13136741533014,3
+Nordrhein-Westfalen,Kleve,Vereinigtes Königreich,2,51.7854839,6.13136741533014,3
+Nordrhein-Westfalen,Köln,Vereinigtes Königreich,8,50.938361,6.959974,3
+Nordrhein-Westfalen,Köln,Vereinigtes Königreich,8,50.938361,6.959974,3
+Nordrhein-Westfalen,Krefeld,Vereinigtes Königreich,1,51.3331205,6.5623343,3
+Nordrhein-Westfalen,Leverkusen,Vereinigtes Königreich,4,51.0324743,6.9881194,3
+Nordrhein-Westfalen,Paderborn,Vereinigtes Königreich,2,51.71895955,8.76486977817756,3
+Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,Vereinigtes Königreich,2,51.0139774,7.17155835591153,3
+Nordrhein-Westfalen,Solingen,Vereinigtes Königreich,5,51.1712468,7.0838996,3
+Nordrhein-Westfalen,Viersen,Vereinigtes Königreich,1,51.2562118,6.3905476,3
+Nordrhein-Westfalen,Viersen,Vereinigtes Königreich,1,51.2562118,6.3905476,3
+Rheinland-Pfalz,genauer Ort unbekannt,Vereinigtes Königreich,7,49.9531599,7.310646,3
+Saarland,St Wendel,Vereinigtes Königreich,4,49.4669906,7.1696192,3
+Sachsen,Dresden,Vereinigtes Königreich,1,51.0493286,13.7381437,3
+Sachsen,Leipzig,Vereinigtes Königreich,1,51.3406321,12.3747329,3
+Sachsen,Leipzig,Vereinigtes Königreich,1,51.3406321,12.3747329,3
+Schleswig-Holstein,Dithmarschen,Vereinigtes Königreich,4,54.1331231,9.0799113,3
+Schleswig-Holstein,Flensburg,Vereinigtes Königreich,30,54.7833021,9.4333264,3
+Schleswig-Holstein,Nordfriesland,Vereinigtes Königreich,1,54.6591848,8.99814992674713,3
+Schleswig-Holstein,Pinneberg,Vereinigtes Königreich,2,53.7278939,9.6979598,3
+Schleswig-Holstein,Rendsburg-Eckernförde,Vereinigtes Königreich,3,54.3278695,9.7205892906026,3
+Thüringen,Eichsfeld,Vereinigtes Königreich,2,51.1408493,11.0838655,3
+Thüringen,Jena,Vereinigtes Königreich,2,50.9281717,11.5879359,3
+Thüringen,Weimar,Vereinigtes Königreich,2,50.9810486,11.3296637,3
+Baden-Württemberg,Calw,Südafrika,4,48.7153344,8.7381796,4
+Baden-Württemberg,Freiburg,Südafrika,23,47.9960901,7.8494005,4
+Baden-Württemberg,Freiburg,Südafrika,23,47.9960901,7.8494005,4
+Baden-Württemberg,Konstanz,Südafrika,2,47.659216,9.1750718,4
+Baden-Württemberg,Rhein-Neckar-Kreis,Südafrika,4,49.39996025,8.56559486878415,4
+Baden-Württemberg,Stuttgart,Südafrika,2,48.7784485,9.1800132,4
+Baden-Württemberg,Stuttgart,Südafrika,2,48.7784485,9.1800132,4
+Baden-Württemberg,Zollernalbkreis,Südafrika,1,48.26036825,8.91244975996355,4
+Bayern,Rosenheim,Südafrika,1,47.8539273,12.127262,4
+Berlin,Reinickendorf,Südafrika,1,52.6047631,13.2952872,4
+Berlin,Reinickendorf,Südafrika,1,52.6047631,13.2952872,4
+Berlin,Spandau,Südafrika,1,52.535788,13.1977924,4
+Berlin,Spandau,Südafrika,1,52.535788,13.1977924,4
+Hamburg,Hamburg,Südafrika,1,53.5504683,9.99464,4
+Hessen,genauer Ort unbekannt,Südafrika,1,51.3034636,8.7480285,4
+Hessen,genauer Ort unbekannt,Südafrika,1,51.3034636,8.7480285,4
+Niedersachsen,Celle,Südafrika,1,52.624056,10.081052,4
+Niedersachsen,Celle,Südafrika,1,52.624056,10.081052,4
+Nordrhein-Westfalen,Bottrop,Südafrika,3,51.521581,6.929204,4
+Nordrhein-Westfalen,Gütersloh,Südafrika,1,51.9063997,8.3782078,4
+Nordrhein-Westfalen,Kleve,Südafrika,1,51.7854839,6.13136741533014,4
+Nordrhein-Westfalen,Kleve,Südafrika,1,51.7854839,6.13136741533014,4
+Nordrhein-Westfalen,Viersen,Südafrika,2,51.2562118,6.3905476,4
+Nordrhein-Westfalen,Viersen,Südafrika,2,51.2562118,6.3905476,4
+Saarland,Saarpfalz-Kreis,Südafrika,2,49.2613761,7.19823158985527,4
+Sachsen,Leipzig,Südafrika,9,51.3406321,12.3747329,4
+Sachsen,Leipzig,Südafrika,9,51.3406321,12.3747329,4
+Sachsen-Anhalt,Halle,Südafrika,2,51.4825041,11.9705452,4

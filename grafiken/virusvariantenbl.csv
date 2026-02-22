@@ -1,0 +1,17 @@
+bundesland,hckey,einwohner,lat,lon,uk,sa
+Baden-Württemberg,de-bw,11100394,48.2,8.5,7,13
+Bayern,de-by,13124737,49,12,6,1
+Berlin,de-be,3669491,52.3,13.2,20,0
+Brandenburg,de-bb,2521893,53,12.8,1,0
+Bremen,de-hb,681202,52.8,8,11,0
+Hamburg,de-hh,1847253,53.3,9.4,10,1
+Hessen,de-he,6288080,50.6,8.5,17,1
+Mecklenburg-Vorpommern,de-mv,1608138,53.8,11.1,15,0
+Niedersachsen,de-ni,7993608,52.1,8.7,4,0
+Nordrhein-Westfalen,de-nw,17947221,51.3,8.2,22,3
+Rheinland-Pfalz,de-rp,4093903,49.7,7.8,0,0
+Saarland,de-sl,986887,49,7.4,0,0
+Sachsen,de-sn,4071971,50.9,13.5,2,6
+Sachsen-Anhalt,de-st,2194782,51.6,12.4,0,2
+Schleswig-Holstein,de-sh,2903773,54.6,9.1,47,0
+Thüringen,de-th,2133378,50.3,11.5,6,0

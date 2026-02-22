@@ -1,0 +1,401 @@
+"Kreis","Typ","Bundesland","Einwohner","Tote","hc.key","totrel"
+"Berlin","Kreisfreie Stadt","Berlin",3664088,3777,"de-be-11000000",1031
+"Flensburg","Kreisfreie Stadt","Schleswig-Holstein",89934,39,"de-sh-01001000",434
+"Kiel","Kreisfreie Stadt","Schleswig-Holstein",246601,119,"de-sh-01002000",483
+"Lübeck","Kreisfreie Stadt","Schleswig-Holstein",215846,110,"de-sh-01003000",510
+"Neumünster","Kreisfreie Stadt","Schleswig-Holstein",79905,25,"de-sh-01004000",313
+"Dithmarschen","Kreis","Schleswig-Holstein",133251,59,"de-sh-01051000",443
+"Herzogtum Lauenburg","Kreis","Schleswig-Holstein",199152,125,"de-sh-01053000",628
+"Nordfriesland","Kreis","Schleswig-Holstein",167147,90,"de-sh-01054000",538
+"Ostholstein","Kreis","Schleswig-Holstein",201487,88,"de-sh-01055000",437
+"Pinneberg","Kreis","Schleswig-Holstein",317085,398,"de-sh-01056000",1255
+"Plön","Kreis","Schleswig-Holstein",129353,36,"de-sh-01057000",278
+"Rendsburg-Eckernförde","Kreis","Schleswig-Holstein",274765,67,"de-sh-01058000",244
+"Schleswig-Flensburg","Kreis","Schleswig-Holstein",202647,63,"de-sh-01059000",311
+"Segeberg","Kreis","Schleswig-Holstein",278007,177,"de-sh-01060000",637
+"Steinburg","Kreis","Schleswig-Holstein",130706,48,"de-sh-01061000",367
+"Stormarn","Kreis","Schleswig-Holstein",244989,325,"de-sh-01062000",1327
+"Hamburg","Kreisfreie Stadt","Hamburg",1852478,1860,"de-hh-02000000",1004
+"Braunschweig","Kreisfreie Stadt","Niedersachsen",248561,199,"de-ni-03101000",801
+"Salzgitter","Kreisfreie Stadt","Niedersachsen",103866,87,"de-ni-03102000",838
+"Wolfsburg","Kreisfreie Stadt","Niedersachsen",123840,97,"de-ni-03103000",783
+"Gifhorn","Landkreis","Niedersachsen",177227,202,"de-ni-03151000",1140
+"Goslar","Landkreis","Niedersachsen",134688,139,"de-ni-03153000",1032
+"Helmstedt","Landkreis","Niedersachsen",91518,100,"de-ni-03154000",1093
+"Northeim","Landkreis","Niedersachsen",131772,66,"de-ni-03155000",501
+"Peine","Landkreis","Niedersachsen",135844,106,"de-ni-03157000",780
+"Wolfenbüttel","Landkreis","Niedersachsen",119361,102,"de-ni-03158000",855
+"Göttingen","Landkreis","Niedersachsen",323900,294,"de-ni-03159000",908
+"Region Hannover","Landkreis","Niedersachsen",1155330,1119,"de-ni-03241000",969
+"Diepholz","Landkreis","Niedersachsen",218072,112,"de-ni-03251000",514
+"Hameln-Pyrmont","Landkreis","Niedersachsen",148580,102,"de-ni-03252000",686
+"Hildesheim","Landkreis","Niedersachsen",275464,306,"de-ni-03254000",1111
+"Holzminden","Landkreis","Niedersachsen",70207,67,"de-ni-03255000",954
+"Nienburg (Weser)","Landkreis","Niedersachsen",121645,165,"de-ni-03256000",1356
+"Schaumburg","Landkreis","Niedersachsen",158406,88,"de-ni-03257000",556
+"Celle","Landkreis","Niedersachsen",179386,86,"de-ni-03351000",479
+"Cuxhaven","Landkreis","Niedersachsen",198826,182,"de-ni-03352000",915
+"Harburg","Landkreis","Niedersachsen",256016,124,"de-ni-03353000",484
+"Lüchow-Dannenberg","Landkreis","Niedersachsen",48503,27,"de-ni-03354000",557
+"Lüneburg","Landkreis","Niedersachsen",184235,73,"de-ni-03355000",396
+"Osterholz","Landkreis","Niedersachsen",114640,67,"de-ni-03356000",584
+"Rotenburg (Wümme)","Landkreis","Niedersachsen",164486,102,"de-ni-03357000",620
+"Heidekreis","Landkreis","Niedersachsen",140885,111,"de-ni-03358000",788
+"Stade","Landkreis","Niedersachsen",205357,141,"de-ni-03359000",687
+"Uelzen","Landkreis","Niedersachsen",92566,116,"de-ni-03360000",1253
+"Verden","Landkreis","Niedersachsen",137574,74,"de-ni-03361000",538
+"Delmenhorst","Kreisfreie Stadt","Niedersachsen",77503,73,"de-ni-03401000",942
+"Emden","Kreisfreie Stadt","Niedersachsen",49874,16,"de-ni-03402000",321
+"Oldenburg (Oldb)","Kreisfreie Stadt","Niedersachsen",169605,54,"de-ni-03403000",318
+"Osnabrück","Kreisfreie Stadt","Niedersachsen",164223,108,"de-ni-03404000",658
+"Wilhelmshaven","Kreisfreie Stadt","Niedersachsen",75189,58,"de-ni-03405000",771
+"Ammerland","Landkreis","Niedersachsen",125643,71,"de-ni-03451000",565
+"Aurich","Landkreis","Niedersachsen",190178,63,"de-ni-03452000",331
+"Cloppenburg","Landkreis","Niedersachsen",172632,179,"de-ni-03453000",1037
+"Emsland","Landkreis","Niedersachsen",328930,217,"de-ni-03454000",660
+"Friesland","Landkreis","Niedersachsen",98971,43,"de-ni-03455000",434
+"Grafschaft Bentheim","Landkreis","Niedersachsen",137891,129,"de-ni-03456000",936
+"Leer","Landkreis","Niedersachsen",171483,68,"de-ni-03457000",397
+"Oldenburg","Landkreis","Niedersachsen",131467,119,"de-ni-03458000",905
+"Osnabrück","Landkreis","Niedersachsen",359471,321,"de-ni-03459000",893
+"Vechta","Landkreis","Niedersachsen",143698,99,"de-ni-03460000",689
+"Wesermarsch","Landkreis","Niedersachsen",88524,118,"de-ni-03461000",1333
+"Wittmund","Landkreis","Niedersachsen",57384,35,"de-ni-03462000",610
+"Bremen","Kreisfreie Stadt","Bremen",566573,414,"de-ni-04011000",731
+"Bremerhaven","Kreisfreie Stadt","Bremen",113557,124,"de-hb-04012000",1092
+"Düsseldorf","Kreisfreie Stadt","Nordrhein-Westfalen",620523,521,"de-nw-05111000",840
+"Duisburg","Kreisfreie Stadt","Nordrhein-Westfalen",495885,715,"de-nw-05112000",1442
+"Essen","Kreisfreie Stadt","Nordrhein-Westfalen",582415,617,"de-nw-05113000",1059
+"Krefeld","Kreisfreie Stadt","Nordrhein-Westfalen",226844,194,"de-nw-05114000",855
+"Mönchengladbach","Kreisfreie Stadt","Nordrhein-Westfalen",259665,251,"de-nw-05116000",967
+"Mülheim an der Ruhr","Kreisfreie Stadt","Nordrhein-Westfalen",170921,244,"de-nw-05117000",1428
+"Oberhausen","Kreisfreie Stadt","Nordrhein-Westfalen",209566,388,"de-nw-05119000",1851
+"Remscheid","Kreisfreie Stadt","Nordrhein-Westfalen",111516,186,"de-nw-05120000",1668
+"Solingen","Kreisfreie Stadt","Nordrhein-Westfalen",159193,211,"de-nw-05122000",1325
+"Wuppertal","Kreisfreie Stadt","Nordrhein-Westfalen",355004,512,"de-nw-05124000",1442
+"Kleve","Kreis","Nordrhein-Westfalen",313586,212,"de-nw-05154000",676
+"Mettmann","Kreis","Nordrhein-Westfalen",484322,797,"de-nw-05158000",1646
+"Rhein-Kreis Neuss","Kreis","Nordrhein-Westfalen",452001,385,"de-nw-05162000",852
+"Viersen","Kreis","Nordrhein-Westfalen",298536,316,"de-nw-05166000",1058
+"Wesel","Kreis","Nordrhein-Westfalen",460113,327,"de-nw-05170000",711
+"Bonn","Kreisfreie Stadt","Nordrhein-Westfalen",330579,275,"de-nw-05314000",832
+"Köln","Kreisfreie Stadt","Nordrhein-Westfalen",1083498,789,"de-nw-05315000",728
+"Leverkusen","Kreisfreie Stadt","Nordrhein-Westfalen",163905,120,"de-nw-05316000",732
+"Städteregion Aachen","Kreis","Nordrhein-Westfalen",556631,624,"de-nw-05334000",1121
+"Düren","Kreis","Nordrhein-Westfalen",265140,308,"de-nw-05358000",1162
+"Rhein-Erft-Kreis","Kreis","Nordrhein-Westfalen",469611,437,"de-nw-05362000",931
+"Euskirchen","Kreis","Nordrhein-Westfalen",194359,253,"de-nw-05366000",1302
+"Heinsberg","Kreis","Nordrhein-Westfalen",256458,402,"de-nw-05370000",1568
+"Oberbergischer Kreis","Kreis","Nordrhein-Westfalen",271699,283,"de-nw-05374000",1042
+"Rheinisch-Bergischer Kreis","Kreis","Nordrhein-Westfalen",283275,195,"de-nw-05378000",688
+"Rhein-Sieg-Kreis","Kreis","Nordrhein-Westfalen",600375,593,"de-nw-05382000",988
+"Bottrop","Kreisfreie Stadt","Nordrhein-Westfalen",117388,129,"de-nw-05512000",1099
+"Gelsenkirchen","Kreisfreie Stadt","Nordrhein-Westfalen",259105,444,"de-nw-05513000",1714
+"Münster","Kreisfreie Stadt","Nordrhein-Westfalen",316403,136,"de-nw-05515000",430
+"Borken","Kreis","Nordrhein-Westfalen",371898,295,"de-nw-05554000",793
+"Coesfeld","Kreis","Nordrhein-Westfalen",220712,104,"de-nw-05558000",471
+"Recklinghausen","Kreis","Nordrhein-Westfalen",613599,1026,"de-nw-05562000",1672
+"Steinfurt","Kreis","Nordrhein-Westfalen",448197,345,"de-nw-05566000",770
+"Warendorf","Kreis","Nordrhein-Westfalen",277417,271,"de-nw-05570000",977
+"Bielefeld","Kreisfreie Stadt","Nordrhein-Westfalen",333509,385,"de-nw-05711000",1154
+"Gütersloh","Kreis","Nordrhein-Westfalen",364818,347,"de-nw-05754000",951
+"Herford","Kreis","Nordrhein-Westfalen",250547,204,"de-nw-05758000",814
+"Höxter","Kreis","Nordrhein-Westfalen",139729,159,"de-nw-05762000",1138
+"Lippe","Kreis","Nordrhein-Westfalen",346970,430,"de-nw-05766000",1239
+"Minden-Lübbecke","Kreis","Nordrhein-Westfalen",310270,321,"de-nw-05770000",1035
+"Paderborn","Kreis","Nordrhein-Westfalen",308335,169,"de-nw-05774000",548
+"Bochum","Kreisfreie Stadt","Nordrhein-Westfalen",364454,283,"de-nw-05911000",777
+"Dortmund","Kreisfreie Stadt","Nordrhein-Westfalen",587696,430,"de-nw-05913000",732
+"Hagen","Kreisfreie Stadt","Nordrhein-Westfalen",188687,346,"de-nw-05914000",1834
+"Hamm","Kreisfreie Stadt","Nordrhein-Westfalen",178967,222,"de-nw-05915000",1240
+"Herne","Kreisfreie Stadt","Nordrhein-Westfalen",156940,283,"de-nw-05916000",1803
+"Ennepe-Ruhr-Kreis","Kreis","Nordrhein-Westfalen",323130,391,"de-nw-05954000",1210
+"Hochsauerlandkreis","Kreis","Nordrhein-Westfalen",259030,213,"de-nw-05958000",822
+"Märkischer Kreis","Kreis","Nordrhein-Westfalen",408662,449,"de-nw-05962000",1099
+"Olpe","Kreis","Nordrhein-Westfalen",133362,173,"de-nw-05966000",1297
+"Siegen-Wittgenstein","Kreis","Nordrhein-Westfalen",275491,195,"de-nw-05970000",708
+"Soest","Kreis","Nordrhein-Westfalen",301016,211,"de-nw-05974000",701
+"Unna","Kreis","Nordrhein-Westfalen",393618,514,"de-nw-05978000",1306
+"Darmstadt","Kreisfreie Stadt","Hessen",159174,163,"de-he-06411000",1024
+"Frankfurt am Main","Kreisfreie Stadt","Hessen",764104,895,"de-he-06412000",1171
+"Offenbach am Main","Kreisfreie Stadt","Hessen",130892,206,"de-he-06413000",1574
+"Wiesbaden","Kreisfreie Stadt","Hessen",278609,299,"de-he-06414000",1073
+"Bergstraße","Landkreis","Hessen",271015,355,"de-he-06431000",1310
+"Darmstadt-Dieburg","Landkreis","Hessen",297701,322,"de-he-06432000",1082
+"Groß-Gerau","Landkreis","Hessen",275807,315,"de-he-06433000",1142
+"Hochtaunuskreis","Landkreis","Hessen",237281,233,"de-he-06434000",982
+"Main-Kinzig-Kreis","Landkreis","Hessen",421689,666,"de-he-06435000",1579
+"Main-Taunus-Kreis","Landkreis","Hessen",239264,236,"de-he-06436000",986
+"Odenwaldkreis","Landkreis","Hessen",96754,183,"de-he-06437000",1891
+"Offenbach","Landkreis","Hessen",356542,588,"de-he-06438000",1649
+"Rheingau-Taunus-Kreis","Landkreis","Hessen",187433,196,"de-he-06439000",1046
+"Wetteraukreis","Landkreis","Hessen",310353,555,"de-he-06440000",1788
+"Gießen","Landkreis","Hessen",271667,374,"de-he-06531000",1377
+"Lahn-Dill-Kreis","Landkreis","Hessen",253373,235,"de-he-06532000",927
+"Limburg-Weilburg","Landkreis","Hessen",172291,291,"de-he-06533000",1689
+"Marburg-Biedenkopf","Landkreis","Hessen",245903,296,"de-he-06534000",1204
+"Vogelsbergkreis","Landkreis","Hessen",105506,111,"de-he-06535000",1052
+"Kassel","Kreisfreie Stadt","Hessen",201048,203,"de-he-06611000",1010
+"Fulda","Landkreis","Hessen",223023,295,"de-he-06631000",1323
+"Hersfeld-Rotenburg","Landkreis","Hessen",120304,195,"de-he-06632000",1621
+"Kassel","Landkreis","Hessen",237007,230,"de-he-06633000",970
+"Schwalm-Eder-Kreis","Landkreis","Hessen",179840,253,"de-he-06634000",1407
+"Waldeck-Frankenberg","Landkreis","Hessen",156528,156,"de-he-06635000",997
+"Werra-Meißner-Kreis","Landkreis","Hessen",100046,167,"de-he-06636000",1669
+"Koblenz","Kreisfreie Stadt","Rheinland-Pfalz",113388,164,"de-rp-07111000",1446
+"Ahrweiler","Landkreis","Rheinland-Pfalz",130479,68,"de-rp-07131000",521
+"Altenkirchen (Westerwald)","Landkreis","Rheinland-Pfalz",129087,106,"de-rp-07132000",821
+"Bad Kreuznach","Landkreis","Rheinland-Pfalz",158746,149,"de-rp-07133000",939
+"Birkenfeld","Landkreis","Rheinland-Pfalz",80830,99,"de-rp-07134000",1225
+"Cochem-Zell","Landkreis","Rheinland-Pfalz",61578,70,"de-rp-07135000",1137
+"Mayen-Koblenz","Landkreis","Rheinland-Pfalz",214786,190,"de-rp-07137000",885
+"Neuwied","Landkreis","Rheinland-Pfalz",183131,202,"de-rp-07138000",1103
+"Rhein-Hunsrück-Kreis","Landkreis","Rheinland-Pfalz",103401,108,"de-rp-07140000",1044
+"Rhein-Lahn-Kreis","Landkreis","Rheinland-Pfalz",122574,103,"de-rp-07141000",840
+"Westerwaldkreis","Landkreis","Rheinland-Pfalz",202830,174,"de-rp-07143000",858
+"Trier","Kreisfreie Stadt","Rheinland-Pfalz",110674,38,"de-rp-07211000",343
+"Bernkastel-Wittlich","Landkreis","Rheinland-Pfalz",112685,67,"de-rp-07231000",595
+"Eifelkreis Bitburg-Prüm","Landkreis","Rheinland-Pfalz",100055,34,"de-rp-07232000",340
+"Vulkaneifel","Landkreis","Rheinland-Pfalz",60491,63,"de-rp-07233000",1041
+"Trier-Saarburg","Landkreis","Rheinland-Pfalz",150533,103,"de-rp-07235000",684
+"Frankenthal (Pfalz)","Kreisfreie Stadt","Rheinland-Pfalz",48750,58,"de-rp-07311000",1190
+"Kaiserslautern","Kreisfreie Stadt","Rheinland-Pfalz",99662,123,"de-rp-07312000",1234
+"Landau in der Pfalz","Kreisfreie Stadt","Rheinland-Pfalz",46685,46,"de-rp-07313000",985
+"Ludwigshafen am Rhein","Kreisfreie Stadt","Rheinland-Pfalz",172557,345,"de-rp-07314000",1999
+"Mainz","Kreisfreie Stadt","Rheinland-Pfalz",217123,223,"de-rp-07315000",1027
+"Neustadt an der Weinstraße","Kreisfreie Stadt","Rheinland-Pfalz",53306,44,"de-rp-07316000",825
+"Pirmasens","Kreisfreie Stadt","Rheinland-Pfalz",40176,61,"de-rp-07317000",1518
+"Speyer","Kreisfreie Stadt","Rheinland-Pfalz",50741,95,"de-rp-07318000",1872
+"Worms","Kreisfreie Stadt","Rheinland-Pfalz",83459,102,"de-rp-07319000",1222
+"Zweibrücken","Kreisfreie Stadt","Rheinland-Pfalz",34001,9,"de-rp-07320000",265
+"Alzey-Worms","Landkreis","Rheinland-Pfalz",130715,143,"de-rp-07331000",1094
+"Bad Dürkheim","Landkreis","Rheinland-Pfalz",133004,163,"de-rp-07332000",1226
+"Donnersbergkreis","Landkreis","Rheinland-Pfalz",75539,77,"de-rp-07333000",1019
+"Germersheim","Landkreis","Rheinland-Pfalz",129006,132,"de-rp-07334000",1023
+"Kaiserslautern","Landkreis","Rheinland-Pfalz",106320,87,"de-rp-07335000",818
+"Kusel","Landkreis","Rheinland-Pfalz",70105,72,"de-rp-07336000",1027
+"Südliche Weinstraße","Landkreis","Rheinland-Pfalz",110783,123,"de-rp-07337000",1110
+"Rhein-Pfalz-Kreis","Landkreis","Rheinland-Pfalz",154754,237,"de-rp-07338000",1531
+"Mainz-Bingen","Landkreis","Rheinland-Pfalz",211525,233,"de-rp-07339000",1102
+"Südwestpfalz","Landkreis","Rheinland-Pfalz",94912,92,"de-rp-07340000",969
+"Stuttgart","Stadtkreis","Baden-Württemberg",630305,541,"de-bw-08111000",858
+"Böblingen","Landkreis","Baden-Württemberg",392898,306,"de-bw-08115000",779
+"Esslingen","Landkreis","Baden-Württemberg",533617,596,"de-bw-08116000",1117
+"Göppingen","Landkreis","Baden-Württemberg",258781,277,"de-bw-08117000",1070
+"Ludwigsburg","Landkreis","Baden-Württemberg",544971,542,"de-bw-08118000",995
+"Rems-Murr-Kreis","Landkreis","Baden-Württemberg",427286,403,"de-bw-08119000",943
+"Heilbronn","Stadtkreis","Baden-Württemberg",126458,159,"de-bw-08121000",1257
+"Heilbronn","Landkreis","Baden-Württemberg",346363,224,"de-bw-08125000",647
+"Hohenlohekreis","Landkreis","Baden-Württemberg",112765,141,"de-bw-08126000",1250
+"Schwäbisch Hall","Landkreis","Baden-Württemberg",197860,270,"de-bw-08127000",1365
+"Main-Tauber-Kreis","Landkreis","Baden-Württemberg",132684,95,"de-bw-08128000",716
+"Heidenheim","Landkreis","Baden-Württemberg",132812,188,"de-bw-08135000",1416
+"Ostalbkreis","Landkreis","Baden-Württemberg",314294,448,"de-bw-08136000",1425
+"Baden-Baden","Stadtkreis","Baden-Württemberg",55449,74,"de-bw-08211000",1335
+"Karlsruhe","Stadtkreis","Baden-Württemberg",308436,238,"de-bw-08212000",772
+"Karlsruhe","Landkreis","Baden-Württemberg",446852,518,"de-bw-08215000",1159
+"Rastatt","Landkreis","Baden-Württemberg",232091,234,"de-bw-08216000",1008
+"Heidelberg","Stadtkreis","Baden-Württemberg",158741,68,"de-bw-08221000",428
+"Mannheim","Stadtkreis","Baden-Württemberg",309721,343,"de-bw-08222000",1107
+"Neckar-Odenwald-Kreis","Landkreis","Baden-Württemberg",143797,152,"de-bw-08225000",1057
+"Rhein-Neckar-Kreis","Landkreis","Baden-Württemberg",548233,479,"de-bw-08226000",874
+"Pforzheim","Stadtkreis","Baden-Württemberg",126016,231,"de-bw-08231000",1833
+"Calw","Landkreis","Baden-Württemberg",160149,194,"de-bw-08235000",1211
+"Enzkreis","Landkreis","Baden-Württemberg",199752,279,"de-bw-08236000",1397
+"Freudenstadt","Landkreis","Baden-Württemberg",118364,166,"de-bw-08237000",1402
+"Freiburg im Breisgau","Stadtkreis","Baden-Württemberg",230940,182,"de-bw-08311000",788
+"Breisgau-Hochschwarzwald","Landkreis","Baden-Württemberg",264867,203,"de-bw-08315000",766
+"Emmendingen","Landkreis","Baden-Württemberg",166862,180,"de-bw-08316000",1079
+"Ortenaukreis","Landkreis","Baden-Württemberg",432580,620,"de-bw-08317000",1433
+"Rottweil","Landkreis","Baden-Württemberg",140166,184,"de-bw-08325000",1313
+"Schwarzwald-Baar-Kreis","Landkreis","Baden-Württemberg",212872,235,"de-bw-08326000",1104
+"Tuttlingen","Landkreis","Baden-Württemberg",141682,167,"de-bw-08327000",1179
+"Konstanz","Landkreis","Baden-Württemberg",286876,313,"de-bw-08335000",1091
+"Lörrach","Landkreis","Baden-Württemberg",228842,323,"de-bw-08336000",1411
+"Waldshut","Landkreis","Baden-Württemberg",171237,230,"de-bw-08337000",1343
+"Reutlingen","Landkreis","Baden-Württemberg",287497,307,"de-bw-08415000",1068
+"Tübingen","Landkreis","Baden-Württemberg",228471,195,"de-bw-08416000",854
+"Zollernalbkreis","Landkreis","Baden-Württemberg",189862,185,"de-bw-08417000",974
+"Ulm","Stadtkreis","Baden-Württemberg",126405,94,"de-bw-08421000",744
+"Alb-Donau-Kreis","Landkreis","Baden-Württemberg",198204,184,"de-bw-08425000",928
+"Biberach","Landkreis","Baden-Württemberg",202250,203,"de-bw-08426000",1004
+"Bodenseekreis","Landkreis","Baden-Württemberg",217901,179,"de-bw-08435000",821
+"Ravensburg","Landkreis","Baden-Württemberg",285888,158,"de-bw-08436000",553
+"Sigmaringen","Landkreis","Baden-Württemberg",130946,103,"de-bw-08437000",787
+"Ingolstadt","Kreisfreie Stadt","Bayern",136952,159,"de-by-09161000",1161
+"München","Kreisfreie Stadt","Bayern",1488202,1439,"de-by-09162000",967
+"Rosenheim","Kreisfreie Stadt","Bayern",63591,79,"de-by-09163000",1242
+"Altötting","Landkreis","Bayern",111654,224,"de-by-09171000",2006
+"Berchtesgadener Land","Landkreis","Bayern",106327,113,"de-by-09172000",1063
+"Bad Tölz-Wolfratshausen","Landkreis","Bayern",128212,109,"de-by-09173000",850
+"Dachau","Landkreis","Bayern",155117,158,"de-by-09174000",1019
+"Ebersberg","Landkreis","Bayern",144091,191,"de-by-09175000",1326
+"Eichstätt","Landkreis","Bayern",133169,109,"de-by-09176000",819
+"Erding","Landkreis","Bayern",138891,129,"de-by-09177000",929
+"Freising","Landkreis","Bayern",180313,148,"de-by-09178000",821
+"Fürstenfeldbruck","Landkreis","Bayern",218740,159,"de-by-09179000",727
+"Garmisch-Partenkirchen","Landkreis","Bayern",88279,94,"de-by-09180000",1065
+"Landsberg am Lech","Landkreis","Bayern",121019,90,"de-by-09181000",744
+"Miesbach","Landkreis","Bayern",100183,99,"de-by-09182000",988
+"Mühldorf a. Inn","Landkreis","Bayern",116483,201,"de-by-09183000",1726
+"München","Landkreis","Bayern",349685,312,"de-by-09184000",892
+"Neuburg-Schrobenhausen","Landkreis","Bayern",97730,92,"de-by-09185000",941
+"Pfaffenhofen a.d. Ilm","Landkreis","Bayern",129128,172,"de-by-09186000",1332
+"Rosenheim","Landkreis","Bayern",261721,511,"de-by-09187000",1952
+"Starnberg","Landkreis","Bayern",136610,131,"de-by-09188000",959
+"Traunstein","Landkreis","Bayern",177485,248,"de-by-09189000",1397
+"Weilheim-Schongau","Landkreis","Bayern",136134,90,"de-by-09190000",661
+"Landshut","Kreisfreie Stadt","Bayern",73065,122,"de-by-09261000",1670
+"Passau","Kreisfreie Stadt","Bayern",52415,122,"de-by-09262000",2328
+"Straubing","Kreisfreie Stadt","Bayern",47612,101,"de-by-09263000",2121
+"Deggendorf","Landkreis","Bayern",119479,175,"de-by-09271000",1465
+"Freyung-Grafenau","Landkreis","Bayern",78355,138,"de-by-09272000",1761
+"Kelheim","Landkreis","Bayern",123390,120,"de-by-09273000",973
+"Landshut","Landkreis","Bayern",161191,178,"de-by-09274000",1104
+"Passau","Landkreis","Bayern",193454,396,"de-by-09275000",2047
+"Regen","Landkreis","Bayern",77313,180,"de-by-09276000",2328
+"Rottal-Inn","Landkreis","Bayern",121800,226,"de-by-09277000",1856
+"Straubing-Bogen","Landkreis","Bayern",101745,154,"de-by-09278000",1514
+"Dingolfing-Landau","Landkreis","Bayern",97244,125,"de-by-09279000",1285
+"Amberg","Kreisfreie Stadt","Bayern",42052,34,"de-by-09361000",809
+"Regensburg","Kreisfreie Stadt","Bayern",152270,114,"de-by-09362000",749
+"Weiden i.d. OPf.","Kreisfreie Stadt","Bayern",42535,100,"de-by-09363000",2351
+"Amberg-Sulzbach","Landkreis","Bayern",102998,172,"de-by-09371000",1670
+"Cham","Landkreis","Bayern",128094,205,"de-by-09372000",1600
+"Neumarkt i.d. OPf.","Landkreis","Bayern",135225,174,"de-by-09373000",1287
+"Neustadt a.d. Waldnaab","Landkreis","Bayern",94645,195,"de-by-09374000",2060
+"Regensburg","Landkreis","Bayern",194275,213,"de-by-09375000",1096
+"Schwandorf","Landkreis","Bayern",148477,186,"de-by-09376000",1253
+"Tirschenreuth","Landkreis","Bayern",71696,267,"de-by-09377000",3724
+"Bamberg","Kreisfreie Stadt","Bayern",76674,107,"de-by-09461000",1396
+"Bayreuth","Kreisfreie Stadt","Bayern",74048,116,"de-by-09462000",1567
+"Coburg","Kreisfreie Stadt","Bayern",40842,93,"de-by-09463000",2277
+"Hof","Kreisfreie Stadt","Bayern",45173,122,"de-by-09464000",2701
+"Bamberg","Landkreis","Bayern",147497,159,"de-by-09471000",1078
+"Bayreuth","Landkreis","Bayern",103679,171,"de-by-09472000",1649
+"Coburg","Landkreis","Bayern",86571,166,"de-by-09473000",1918
+"Forchheim","Landkreis","Bayern",116600,125,"de-by-09474000",1072
+"Hof","Landkreis","Bayern",94522,170,"de-by-09475000",1799
+"Kronach","Landkreis","Bayern",66355,107,"de-by-09476000",1613
+"Kulmbach","Landkreis","Bayern",71428,125,"de-by-09477000",1750
+"Lichtenfels","Landkreis","Bayern",66722,91,"de-by-09478000",1364
+"Wunsiedel i. Fichtelgebirge","Landkreis","Bayern",71974,205,"de-by-09479000",2848
+"Ansbach","Kreisfreie Stadt","Bayern",41681,46,"de-by-09561000",1104
+"Erlangen","Kreisfreie Stadt","Bayern",112385,103,"de-by-09562000",916
+"Fürth","Kreisfreie Stadt","Bayern",128223,237,"de-by-09563000",1848
+"Nürnberg","Kreisfreie Stadt","Bayern",515543,1007,"de-by-09564000",1953
+"Schwabach","Kreisfreie Stadt","Bayern",41056,116,"de-by-09565000",2825
+"Ansbach","Landkreis","Bayern",185316,208,"de-by-09571000",1122
+"Erlangen-Höchstadt","Landkreis","Bayern",138105,142,"de-by-09572000",1028
+"Fürth","Landkreis","Bayern",118695,222,"de-by-09573000",1870
+"Nürnberger Land","Landkreis","Bayern",171143,196,"de-by-09574000",1145
+"Neustadt a.d. Aisch-Bad Windsheim","Landkreis","Bayern",101272,115,"de-by-09575000",1136
+"Roth","Landkreis","Bayern",127168,185,"de-by-09576000",1455
+"Weißenburg-Gunzenhausen","Landkreis","Bayern",95117,125,"de-by-09577000",1314
+"Aschaffenburg","Kreisfreie Stadt","Bayern",70858,120,"de-by-09661000",1694
+"Schweinfurt","Kreisfreie Stadt","Bayern",53319,103,"de-by-09662000",1932
+"Würzburg","Kreisfreie Stadt","Bayern",126954,134,"de-by-09663000",1056
+"Aschaffenburg","Landkreis","Bayern",174658,219,"de-by-09671000",1254
+"Bad Kissingen","Landkreis","Bayern",103169,115,"de-by-09672000",1115
+"Rhön-Grabfeld","Landkreis","Bayern",79510,99,"de-by-09673000",1245
+"Haßberge","Landkreis","Bayern",84275,94,"de-by-09674000",1115
+"Kitzingen","Landkreis","Bayern",91696,88,"de-by-09675000",960
+"Miltenberg","Landkreis","Bayern",128743,148,"de-by-09676000",1150
+"Main-Spessart","Landkreis","Bayern",125976,220,"de-by-09677000",1746
+"Schweinfurt","Landkreis","Bayern",115652,155,"de-by-09678000",1340
+"Würzburg","Landkreis","Bayern",162697,86,"de-by-09679000",529
+"Augsburg","Kreisfreie Stadt","Bayern",295830,457,"de-by-09761000",1545
+"Kaufbeuren","Kreisfreie Stadt","Bayern",44662,67,"de-by-09762000",1500
+"Kempten (Allgäu)","Kreisfreie Stadt","Bayern",68940,51,"de-by-09763000",740
+"Memmingen","Kreisfreie Stadt","Bayern",44360,27,"de-by-09764000",609
+"Aichach-Friedberg","Landkreis","Bayern",135024,112,"de-by-09771000",829
+"Augsburg","Landkreis","Bayern",255900,267,"de-by-09772000",1043
+"Dillingen a.d. Donau","Landkreis","Bayern",97172,146,"de-by-09773000",1502
+"Günzburg","Landkreis","Bayern",127342,121,"de-by-09774000",950
+"Neu-Ulm","Landkreis","Bayern",175823,143,"de-by-09775000",813
+"Lindau (Bodensee)","Landkreis","Bayern",82085,66,"de-by-09776000",804
+"Ostallgäu","Landkreis","Bayern",141907,145,"de-by-09777000",1022
+"Unterallgäu","Landkreis","Bayern",146164,183,"de-by-09778000",1252
+"Donau-Ries","Landkreis","Bayern",134324,181,"de-by-09779000",1347
+"Oberallgäu","Landkreis","Bayern",156308,101,"de-by-09780000",646
+"Regionalverband Saarbrücken","Landkreis","Saarland",327502,495,"de-sl-10041000",1511
+"Merzig-Wadern","Landkreis","Saarland",103471,68,"de-sl-10042000",657
+"Neunkirchen","Landkreis","Saarland",131172,131,"de-sl-10043000",999
+"Saarlouis","Landkreis","Saarland",193732,170,"de-sl-10044000",878
+"Saarpfalz-Kreis","Landkreis","Saarland",141656,116,"de-sl-10045000",819
+"St. Wendel","Landkreis","Saarland",86458,115,"de-sl-10046000",1330
+"Brandenburg an der Havel","Kreisfreie Stadt","Brandenburg",72040,95,"de-bb-12051000",1319
+"Cottbus","Kreisfreie Stadt","Brandenburg",98693,217,"de-bb-12052000",2199
+"Frankfurt (Oder)","Kreisfreie Stadt","Brandenburg",57015,113,"de-bb-12053000",1982
+"Potsdam","Kreisfreie Stadt","Brandenburg",182112,250,"de-bb-12054000",1373
+"Barnim","Landkreis","Brandenburg",187343,255,"de-bb-12060000",1361
+"Dahme-Spreewald","Landkreis","Brandenburg",173316,266,"de-bb-12061000",1535
+"Elbe-Elster","Landkreis","Brandenburg",101085,258,"de-bb-12062000",2552
+"Havelland","Landkreis","Brandenburg",164693,194,"de-bb-12063000",1178
+"Märkisch-Oderland","Landkreis","Brandenburg",197195,288,"de-bb-12064000",1460
+"Oberhavel","Landkreis","Brandenburg",214234,320,"de-bb-12065000",1494
+"Oberspreewald-Lausitz","Landkreis","Brandenburg",108396,265,"de-bb-12066000",2445
+"Oder-Spree","Landkreis","Brandenburg",179276,325,"de-bb-12067000",1813
+"Ostprignitz-Ruppin","Landkreis","Brandenburg",98808,158,"de-bb-12068000",1599
+"Potsdam-Mittelmark","Landkreis","Brandenburg",217954,225,"de-bb-12069000",1032
+"Prignitz","Landkreis","Brandenburg",76096,165,"de-bb-12070000",2168
+"Spree-Neiße","Landkreis","Brandenburg",113011,229,"de-bb-12071000",2026
+"Teltow-Fläming","Landkreis","Brandenburg",171554,222,"de-bb-12072000",1294
+"Uckermark","Landkreis","Brandenburg",118250,171,"de-bb-12073000",1446
+"Rostock","Kreisfreie Stadt","Mecklenburg-Vorpommern",209061,64,"de-mv-13003000",306
+"Schwerin","Kreisfreie Stadt","Mecklenburg-Vorpommern",95609,115,"de-mv-13004000",1203
+"Mecklenburgische Seenplatte","Landkreis","Mecklenburg-Vorpommern",258057,169,"de-mv-13071000",655
+"Rostock","Landkreis","Mecklenburg-Vorpommern",217072,184,"de-mv-13072000",848
+"Vorpommern-Rügen","Landkreis","Mecklenburg-Vorpommern",225383,98,"de-mv-13073000",435
+"Nordwestmecklenburg","Landkreis","Mecklenburg-Vorpommern",157975,88,"de-mv-13074000",557
+"Vorpommern-Greifswald","Landkreis","Mecklenburg-Vorpommern",235773,298,"de-mv-13075000",1264
+"Ludwigslust-Parchim","Landkreis","Mecklenburg-Vorpommern",211844,273,"de-mv-13076000",1289
+"Chemnitz","Kreisfreie Stadt","Sachsen",244401,567,"de-sn-14511000",2320
+"Erzgebirgskreis","Landkreis","Sachsen",331917,981,"de-sn-14521000",2956
+"Mittelsachsen","Landkreis","Sachsen",301474,724,"de-sn-14522000",2402
+"Vogtlandkreis","Landkreis","Sachsen",223905,853,"de-sn-14523000",3810
+"Zwickau","Landkreis","Sachsen",312033,1093,"de-sn-14524000",3503
+"Dresden","Kreisfreie Stadt","Sachsen",556227,1194,"de-sn-14612000",2147
+"Bautzen","Landkreis","Sachsen",298010,966,"de-sn-14625000",3242
+"Görlitz","Landkreis","Sachsen",250558,1199,"de-sn-14626000",4785
+"Meißen","Landkreis","Sachsen",240371,655,"de-sn-14627000",2725
+"Sächsische Schweiz-Osterzgebirge","Landkreis","Sachsen",244722,1025,"de-sn-14628000",4188
+"Leipzig","Kreisfreie Stadt","Sachsen",597493,552,"de-sn-14713000",924
+"Leipzig","Landkreis","Sachsen",258386,376,"de-sn-14729000",1455
+"Nordsachsen","Landkreis","Sachsen",197444,412,"de-st-14730000",2087
+"Dessau-Roßlau","Kreisfreie Stadt","Sachsen-Anhalt",79354,125,"de-st-15001000",1575
+"Halle (Saale)","Kreisfreie Stadt","Sachsen-Anhalt",237865,367,"de-st-15002000",1543
+"Magdeburg","Kreisfreie Stadt","Sachsen-Anhalt",235775,170,"de-st-15003000",721
+"Altmarkkreis Salzwedel","Landkreis","Sachsen-Anhalt",82687,95,"de-st-15081000",1149
+"Anhalt-Bitterfeld","Landkreis","Sachsen-Anhalt",157217,206,"de-st-15082000",1310
+"Börde","Landkreis","Sachsen-Anhalt",170567,142,"de-st-15083000",833
+"Burgenlandkreis","Landkreis","Sachsen-Anhalt",177590,623,"de-st-15084000",3508
+"Harz","Landkreis","Sachsen-Anhalt",210975,301,"de-st-15085000",1427
+"Jerichower Land","Landkreis","Sachsen-Anhalt",89403,163,"de-st-15086000",1823
+"Mansfeld-Südharz","Landkreis","Sachsen-Anhalt",133690,239,"de-st-15087000",1788
+"Saalekreis","Landkreis","Sachsen-Anhalt",183434,374,"de-st-15088000",2039
+"Salzlandkreis","Landkreis","Sachsen-Anhalt",187457,340,"de-st-15089000",1814
+"Stendal","Landkreis","Sachsen-Anhalt",110485,224,"de-st-15090000",2027
+"Wittenberg","Landkreis","Sachsen-Anhalt",124185,305,"de-st-15091000",2456
+"Erfurt","Kreisfreie Stadt","Thüringen",213692,295,"de-th-16051000",1380
+"Gera","Kreisfreie Stadt","Thüringen",92126,233,"de-th-16052000",2529
+"Jena","Kreisfreie Stadt","Thüringen",110731,95,"de-th-16053000",858
+"Suhl","Kreisfreie Stadt","Thüringen",36395,123,"de-th-16054000",3380
+"Weimar","Kreisfreie Stadt","Thüringen",65098,111,"de-th-16055000",1705
+"Eichsfeld","Landkreis","Thüringen",99463,259,"de-th-16061000",2604
+"Nordhausen","Landkreis","Thüringen",82456,71,"de-th-16062000",861
+"Wartburgkreis","Landkreis","Thüringen",159937,339,"de-th-16063000",2120
+"Unstrut-Hainich-Kreis","Landkreis","Thüringen",101698,280,"de-th-16064000",2753
+"Kyffhäuserkreis","Landkreis","Thüringen",73522,154,"de-th-16065000",2095
+"Schmalkalden-Meiningen","Landkreis","Thüringen",124241,413,"de-th-16066000",3324
+"Gotha","Landkreis","Thüringen",134563,216,"de-th-16067000",1605
+"Sömmerda","Landkreis","Thüringen",69107,148,"de-th-16068000",2142
+"Hildburghausen","Landkreis","Thüringen",62656,276,"de-th-16069000",4405
+"Ilm-Kreis","Landkreis","Thüringen",105606,247,"de-th-16070000",2339
+"Weimarer Land","Landkreis","Thüringen",82291,89,"de-th-16071000",1082
+"Sonneberg","Landkreis","Thüringen",57044,182,"de-th-16072000",3191
+"Saalfeld-Rudolstadt","Landkreis","Thüringen",102139,321,"de-th-16073000",3143
+"Saale-Holzland-Kreis","Landkreis","Thüringen",82816,152,"de-th-16074000",1835
+"Saale-Orla-Kreis","Landkreis","Thüringen",79632,203,"de-th-16075000",2549
+"Greiz","Landkreis","Thüringen",96668,248,"de-th-16076000",2565
+"Altenburger Land","Landkreis","Thüringen",88356,321,"de-th-16077000",3633

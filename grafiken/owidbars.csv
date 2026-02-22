@@ -1,0 +1,43 @@
+land,country,continent,date,erste,rate,northamerica,southamerica,europe,asia,africa,world,zweiteland,zweitecountry,zweitecontinent,zweitedate,zweite,zweiterate,zweitenorthamerica,zweitesouthamerica,zweiteeurope,zweiteasia,zweiteafrica,zweiteworld,rate
+Welt,World,World,8.12.2021,4359248622,55.36,,,,,,55.36,,,,,,,,,,,,,
+VAE,United Arab Emirates,Asia,15.11.2021,   9801529,98.10,,,,98.1,,,,,,,,,,,,,,,
+Singapur,Singapore,Asia,5.11.2021,   5071148,92.99,,,,92.99,,,,,,,,,,,,,,,
+Kuba,Cuba,North America,6.12.2021,  10198006,90.11,90.11,,,,,,,,,,,,,,,,,,
+Portugal,Portugal,Europe,7.12.2021,   9068348,89.19,,,89.19,,,,,,,,,,,,,,,,
+Chile,Chile,South America,7.12.2021,  16927922,88.11,,88.11,,,,,,,,,,,,,,,,,
+China,China,Asia,19.11.2021,1225000000,84.82,,,,84.82,,,,,,,,,,,,,,,
+Kambodscha,Cambodia,Asia,2.12.2021,  14159169,83.55,,,,83.55,,,,,,,,,,,,,,,
+Südkorea,South Korea,Asia,8.12.2021,  42822222,83.47,,,,83.47,,,,,,,,,,,,,,,
+Spanien,Spain,Europe,6.12.2021,  38447301,82.25,,,82.25,,,,,,,,,,,,,,,,
+Kanada,Canada,North America,8.12.2021,  31043333,81.55,81.55,,,,,,,,,,,,,,,,,,
+Argentinien,Argentina,South America,8.12.2021,  37157341,81.47,,81.47,,,,,,,,,,,,,,,,,
+Dänemark,Denmark,Europe,7.12.2021,   4617441,79.43,,,79.43,,,,,,,,,,,,,,,,
+Japan,Japan,Asia,8.12.2021, 100017298,79.35,,,,79.35,,,,,,,,,,,,,,,
+Malaysia,Malaysia,Asia,7.12.2021,  25865614,78.92,,,,78.92,,,,,,,,,,,,,,,
+Italien,Italy,Europe,8.12.2021,  47501706,78.69,,,78.69,,,,,,,,,,,,,,,,
+Australien,Australia,Asia,8.12.2021,  20161524,78.18,,,,78.18,,,,,,,,,,,,,,,
+Norwegen,Norway,Europe,7.12.2021,   4250356,77.77,,,77.77,,,,,,,,,,,,,,,,
+Finnland,Finland,Europe,8.12.2021,   4305815,77.61,,,77.61,,,,,,,,,,,,,,,,
+Frankreich,France,Europe,7.12.2021,  52155768,77.19,,,77.19,,,,,,,,,,,,,,,,
+Niederlande,Netherlands,Europe,28.11.2021,  13250117,77.16,,,77.16,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,Welt,World,World,8.12.2021,3547350851,45.05,,,,,,45.05,55.36
+,,,,,,,,,,,,Singapur,Singapore,Asia,5.11.2021,5012181,91.91,,,,91.91,,,92.99
+,,,,,,,,,,,,Portugal,Portugal,Europe,7.12.2021,9011368,88.63,,,88.63,,,,89.19
+,,,,,,,,,,,,VAE,United Arab Emirates,Asia,15.11.2021,8832256,88.4,,,,88.4,,,98.10
+,,,,,,,,,,,,Chile,Chile,South America,7.12.2021,16261200,84.64,,84.64,,,,,88.11
+,,,,,,,,,,,,Kuba,Cuba,North America,6.12.2021,9305674,82.22,82.22,,,,,,90.11
+,,,,,,,,,,,,Südkorea,South Korea,Asia,8.12.2021,41509745,80.91,,,,80.91,,,83.47
+,,,,,,,,,,,,Spanien,Spain,Europe,6.12.2021,37677168,80.6,,,80.6,,,,82.25
+,,,,,,,,,,,,Kambodscha,Cambodia,Asia,2.12.2021,13414877,79.16,,,,79.16,,,83.55
+,,,,,,,,,,,,Japan,Japan,Asia,8.12.2021,97893742,77.66,,,,77.66,,,79.35
+,,,,,,,,,,,,Malaysia,Malaysia,Asia,7.12.2021,25448420,77.64,,,,77.64,,,78.92
+,,,,,,,,,,,,Dänemark,Denmark,Europe,7.12.2021,4478673,77.04,,,77.04,,,,79.43
+,,,,,,,,,,,,Kanada,Canada,North America,8.12.2021,29156354,76.59,76.59,,,,,,81.55
+,,,,,,,,,,,,Belgien,Belgium,Europe,8.12.2021,8727885,75.03,,,75.03,,,,76.17
+,,,,,,,,,,,,China,China,Asia,19.11.2021,1076308000,74.53,,,,74.53,,,84.82
+,,,,,,,,,,,,Australien,Australia,Asia,8.12.2021,19149409,74.26,,,,74.26,,,78.18
+,,,,,,,,,,,,Niederlande,Netherlands,Europe,28.11.2021,12721528,74.08,,,74.08,,,,77.16
+,,,,,,,,,,,,Italien,Italy,Europe,8.12.2021,44207419,73.23,,,73.23,,,,78.69
+,,,,,,,,,,,,Finnland,Finland,Europe,8.12.2021,4057294,73.13,,,73.13,,,,77.61
+,,,,,,,,,,,,Neuseeland,New Zealand,Asia,8.12.2021,3719864,72.62,,,,72.62,,,76.91
+,,,,,,,,,,,,Schweden,Sweden,Europe,8.12.2021,7226767,71.13,,,71.13,,,,75.20

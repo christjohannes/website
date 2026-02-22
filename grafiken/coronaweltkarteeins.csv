@@ -1,0 +1,196 @@
+population,land,id,infektionen,inzidenz,lat,lon,name
+null,null,1000000,null,null,null,null,null
+null,null,1000000,null,null,null,null,null
+38041757,Afghanistan,AF,113,0,33,65,Afghanistan
+2862427,Albanien,AL,3858,135,41.2,20.2,Albania
+43053054,Algerien,DZ,688,2,28,1.7,Algeria
+76177,Andorra,AD,189,248,42.5,1.5,Andorra
+31825299,Angola,AO,266,1,-12.3,17.5,Angola
+97115,Antigua und Barbuda,AG,29,30,17.3,-61.8,Antigua and Barbuda
+44780675,Argentinien,AR,8124,18,-38.4,-63.6,Argentina
+2957728,Armenien,AM,11846,401,40.1,45,Armenia
+25203200,Australien,AU,9705,39,-25.7,134.5,Australia
+8858775,Österreich,AT,56561,638,47.5,14.6,Austria
+10047719,Aserbaidschan,AZ,16021,159,40.1,47.6,Azerbaijan
+389486,Bahamas,BS,122,31,24.3,-76.6,Bahamas
+1641164,Bahrain,BH,224,14,26,50.6,Bahrain
+163046173,Bangladesch,BD,1475,1,23.7,90.4,Bangladesh
+287021,Barbados,BB,2242,781,13.2,-59.6,Barbados
+9452409,Belarus,BY,13756,146,53.7,28,Belarus
+11455519,Belgien,BE,78180,682,50.8,4,Belgium
+390351,Belize,BZ,1013,260,17.2,-88.7,Belize
+11801151,Benin,BJ,55,0,9.6,2.3,Benin
+763094,Bhutan,BT,2,0,27.5,90.4,Bhutan
+11513102,Bolivien,BO,4456,39,-16.3,-63.6,Bolivia
+3300998,Bosnien und Herzegowina,BA,5565,169,43.9,17.7,Bosnia and Herzegovina
+2303703,Botswana,BW,6168,268,-22.2,23.8,Botswana
+211049519,Brasilien,BR,71384,34,-14.2,-51.9,Brazil
+433296,Brunei,BN,536,124,4.5,114.7,Brunei
+7000039,Bulgarien,BG,29549,422,42.7,25.5,Bulgaria
+20321383,Burkina Faso,BF,310,2,12.2,-1.6,Burkina Faso
+54045422,Myanmar,MM,6865,13,21.2,96.5,Burma
+11530577,Burundi,BI,84,1,-3.4,29.9,Burundi
+549936,Kap Verde,CV,45,8,16,-24,Cabo Verde
+16486542,Kambodscha,KH,547,3,12.6,105,Cambodia
+25876387,Kamerun,CM,1849,7,3.8,11.5,Cameroon
+37411038,Kanada,CA,16606,44,61.4,-98.3,Canada
+4745179,Zentralafrikanische Republik,CF,0,0,6.6,20.5,Central African Republic
+15946882,Tschad,TD,2,0,15.3,18.6,Chad
+18952035,Chile,CL,14656,77,-35.7,-71.5,Chile
+1433783692,China,CN,592,0,36.6,103.8,China
+50339443,Kolumbien,CO,12982,26,4.6,-74.3,Colombia
+850891,Komoren,KM,55,6,-11.9,43.7,Comoros
+86790568,DR Kongo,CD,483,1,-4,21.8,Congo (Kinshasa)
+5380504,Kongo,CG,73,1,-0.8,15.2,Congo (Brazzaville)
+5047561,Costa Rica,CR,2403,48,9.7,-83.8,Costa Rica
+25716554,Elfenbeinküste,CI,115,0,7.5,-5.5,Cote d'Ivoire
+4076246,Kroatien,HR,31095,763,45.2,15.5,Croatia
+11333484,Kuba,CU,3818,34,21.6,-79,Cuba
+875899,Zypern,CY,1503,172,35.1,33.4,Cyprus
+10649800,Tschechien,CZ,53504,502,49.8,15.5,Czechia
+5806081,Dänemark,DK,16142,278,56.3,9.5,Denmark
+973557,Dschibuti,DJ,11,1,11.7,42.6,Djibouti
+71808,Dominica,DM,247,344,15.4,-61.4,Dominica
+10738957,Dominikanische Republik,DO,6614,62,18.7,-70.2,Dominican Republic
+17373657,Ecuador,EC,3527,20,-1.8,-78.2,Ecuador
+100388076,Ägypten,EG,6446,6,26,30,Egypt
+6453550,El Salvador,SV,2836,44,13.7,-88.9,El Salvador
+1355982,Äquatorialguinea,GQ,91,7,1.7,10.3,Equatorial Guinea
+3497117,Eritrea,ER,120,3,15.4,38.8,Eritrea
+1324820,Estland,EE,10501,793,58.6,25,Estonia
+1148133,Eswatini,SZ,30,3,-26.5,31.5,Eswatini
+112078727,Äthiopien,ET,1997,2,9.1,40.5,Ethiopia
+889955,Fiji,FJ,118,13,-17.4,165.5,Fiji
+5517919,Finnland,FI,5501,100,64,26,Finland
+67012883,Frankreich,FR,51357,77,46.2,2.2,France
+2172578,Gabun,GA,785,36,-0.6,11.8,Gabon
+2347696,Gambia,GM,6,0,13.4,-15.4,Gambia
+3996762,Georgien,GE,33658,842,42.3,43.4,Georgia
+83019213,Deutschland,DE,177668,214,51.1,10.4,Germany
+30417858,Ghana,GH,314,1,8,-1.2,Ghana
+10724599,Griechenland,EL,44644,416,39.1,21.8,Greece
+112002,Grenada,GD,13,12,12.1,-61.7,Grenada
+17581476,Guatemala,GT,4092,23,15.7,-90.4,Guatemala
+12771246,Guinea,GN,42,0,10.4,-10.9,Guinea
+1920917,Guinea Bissau,GW,16,1,12,-14.9,Guinea-Bissau
+782775,Guyana,GY,600,77,4.8,-59,Guyana
+11263079,Haiti,HT,273,2,18.9,-72.7,Haiti
+815,Vatikan,VA,0,0,41.9,12.4,Holy See
+9746115,Honduras,HN,1214,12,15.2,-86.2,Honduras
+9772756,Ungarn,HU,35368,362,47.2,19.5,Hungary
+356991,Island,IS,832,233,65,-19,Iceland
+1366417756,Indien,IN,80876,6,21,78,India
+270625567,Indonesien,ID,3648,1,-0.8,113.9,Indonesia
+82913893,Iran,IR,61660,74,32,53,Iran
+39309789,Irak,IQ,7610,19,33,44,Iraq
+4904240,Irland,IE,24098,491,53.1,-7.7,Ireland
+8519373,Israel,IL,6548,77,31,35,Israel
+60359546,Italien,IT,37811,63,43,12,Italy
+2948277,Jamaika,JM,623,21,18.1,-77.3,Jamaica
+126860299,Japan,JP,1355,1,36,138,Japan
+10101697,Jordanien,JO,13705,136,31.2,36.5,Jordan
+18551428,Kasachstan,KZ,9459,51,48.2,67.3,Kazakhstan
+52573967,Kenia,KE,514,1,0.6,37.8,Kenya
+117006,Kiribati,KI,0,0,-3.370417,-168.734039,Kiribati
+1798506,Kosovo,KV,113,6,42.6,20.9,Kosovo
+4207077,Kuwait,KW,161,4,29.5,47.8,Kuwait
+6415851,Kirgisistan,KG,555,9,41.5,74.5,Kyrgyzstan
+7169456,Laos,LA,6886,96,18.5,103.7,Laos
+1919968,Lettland,LV,12336,643,56.9,24.6,Latvia
+6855709,Libanon,LB,4644,68,33.9,35.9,Lebanon
+2125267,Lesotho,LS,50,2,-29.6,28.2,Lesotho
+4937374,Liberia,LR,0,0,6.5,-9.3,Liberia
+6777453,Libyen,LY,3745,55,27,18,Libya
+38378,Liechtenstein,LI,76,198,47.1,9.6,Liechtenstein
+2794184,Litauen,LT,17961,643,55.2,23.9,Lithuania
+613894,Luxemburg,LU,1611,262,49.8,6.1,Luxembourg
+26969306,Madagaskar,MG,6,0,-19.4,46.7,Madagascar
+18628749,Malawi,MW,18,0,-13.2,34.3,Malawi
+31949789,Malaysia,MY,34584,108,2.5,112.5,Malaysia
+530957,Malediven,MV,1051,198,3.2,73.2,Maldives
+19658023,Mali,ML,308,2,17.3,-3.5,Mali
+493559,Malta,MT,258,52,35.9,14.4,Malta
+58791,Marshallinseln,MH,0,0,7.1,171.2,Marshall Islands
+4525698,Mauretanien,MR,387,9,20.3,-10.3,Mauritania
+1269670,Mauritius,MU,719,57,-20.3,57.6,Mauritius
+127575529,Mexiko,MX,19575,15,23.9,-102.5,Mexico
+113815,Mikronesien,FM,0,0,7.4256,150.5508,Micronesia
+4043258,Moldawien,MD,7991,198,47.2,28.5,Moldova
+33085,Monaco,MC,25,76,43.7,7.4,Monaco
+3225166,Mongolei,MN,6074,188,46.9,103.8,Mongolia
+622182,Montenegro,ME,4305,692,42.8,19.2,Montenegro
+36471766,Marokko,MA,1168,3,31.8,-7.1,Morocco
+30366043,Mosambik,MZ,69,0,-17.3,35.5,Mozambique
+2494524,Namibia,NA,76,3,-22.1,17.2,Namibia
+28608715,Nepal,NP,1918,7,28.4,84.1,Nepal
+17282163,Niederlande,NL,73305,424,52.1,5.3,Netherlands
+4783062,Neuseeland,NZ,1052,22,-40.9,174.9,New Zealand
+6545503,Nicaragua,NI,277,4,12.8,-85,Nicaragua
+23310719,Niger,NE,145,1,17.4,9.4,Niger
+200963603,Nigeria,NG,714,0,9.1,8.7,Nigeria
+2077132,Nordmazedonien,MK,3528,170,41.6,21.7,North Macedonia
+5328212,Norwegen,NO,9772,183,60.5,8.5,Norway
+4974992,Oman,OM,76,2,21,57,Oman
+216565317,Pakistan,PK,3543,2,30.4,69.3,Pakistan
+18008,Palau,PW,0,0,7.515,134.5825,Palau
+4246440,Panama,PA,858,20,8.5,-80.8,Panama
+8776119,Papua-Neuguinea,PG,1978,23,-6.5,145.2,Papua New Guinea
+7044639,Paraguay,PY,327,5,-23.4,-58.4,Paraguay
+32510462,Peru,PE,5701,18,-9.2,-75,Peru
+108116622,Philippinen,PH,14919,14,12.9,121.8,Philippines
+37972812,Polen,PL,81383,214,51.9,19.1,Poland
+10276617,Portugal,PT,6983,68,39.4,-8.2,Portugal
+2832071,Katar,QA,873,31,25.4,51.2,Qatar
+19414458,Rumänien,RO,56113,289,46,25,Romania
+145872260,Russland,RU,272513,187,60,90,Russia
+12626938,Ruanda,RW,251,2,-2,29.9,Rwanda
+52834,St. Kitts und Nevis,KN,42,79,17.3,-62.7,Saint Kitts and Nevis
+182795,Saint Lucia,LC,175,96,13.9,-61,Saint Lucia
+110593,St. Vincent Grenadines,VC,128,116,13.2,-61.2,Saint Vincent and the Grenadines
+197097,Samoa,WS,0,0,13.8,172.1,Samoa
+34453,San Marino,SM,51,148,43.9,12.5,San Marino
+215048,São Tomé und Príncipe,ST,15,7,0.4,6.7,Sao Tome and Principe
+34268529,Saudi-Arabien,SA,307,1,24,45,Saudi Arabia
+16296362,Senegal,SN,19,0,14.5,-14.5,Senegal
+6963764,Serbien,RS,38728,556,44,21,Serbia
+97741,Seychellen,SC,176,180,-4.7,55.5,Seychelles
+7813207,Sierra Leone,SL,0,0,8.6,-11.8,Sierra Leone
+5804343,Singapur,SG,19959,344,1.3,103.8,Singapore
+5450421,Slowakei,SK,36021,661,48.7,19.7,Slovakia
+2080908,Slowenien,SI,20154,969,46.2,15,Slovenia
+669821,Salomon-Inseln,SB,0,0,-9.6,160.2,Solomon Islands
+15442906,Somalia,SO,695,5,4.8,45.7,Somalia
+58558267,Südafrika,ZA,1850,3,-30.6,22.9,South Africa
+51225321,Südkorea,KR,15433,30,36,128,Korea
+11062114,Südsudan,SS,104,1,7.3,30.2,South Sudan
+46937060,Spanien,ES,20908,45,40,-4,Spain
+21323734,Sri Lanka,LK,4296,20,7.9,80.8,Sri Lanka
+42813237,Sudan,SD,0,0,16,29.9,Sudan
+581363,Surinam,SR,583,100,4.1,-55.9,Suriname
+10230185,Schweden,SE,5582,55,63,16,Sweden
+8544527,Schweiz,CH,16995,199,46.8,8.2,Switzerland
+17070132,Syrien,SY,1430,8,35,38.5,Syria
+23773881,Taiwan,TW,28,0,23.7,121,Taiwan*
+9321023,Tadschikistan,TJ,0,0,38.5,71,Tajikistan
+58005461,Tansania,TZ,42,0,-6.3,34.8,Tanzania
+69625581,Thailand,TH,55402,80,15.9,101,Thailand
+1293120,Osttimor,TL,9,1,8.9,125.7,Timor-Leste
+8082359,Togo,TG,43,1,8.6,0.8,Togo
+105697,Tonga,TO,0,0,21.179,175.1982,Tonga
+1394969,Trinidad Tobago,TT,2239,161,10.5,-61.3,Trinidad and Tobago
+11694721,Tunesien,TN,576,5,33.9,9.5,Tunisia
+82003882,Türkei,TR,199837,244,39,35.2,Turkey
+44269587,Uganda,UG,389,1,1.3,32.4,Uganda
+43993643,Ukraine,UA,160053,364,48.4,31.2,Ukraine
+9770526,Vereinigte Arabische Emirate,AE,517,5,23.4,53.8,United Arab Emirates
+66647112,Großbritannien,UK,238845,358,55.4,-3.4,UK
+3461731,Uruguay,UY,1357,39,-32.8,-56,Uruguay
+329064917,USA,US,512786,156,39.5,-98.3,USA
+32981715,Usbekistan,UZ,1925,6,41.8,63.1,Uzbekistan
+299882,Vanuatu,VU,0,0,-15.4,167,Vanuatu
+28515829,Venezuela,VE,6354,22,7.1,-66.2,Venezuela
+96462108,Vietnam,VN,49952,52,16,108,Vietnam
+4981422,Palästina,PS,1907,38,31.4,34.3,West Bank and Gaza
+29161922,Jemen,YE,84,0,15.9,47.6,Yemen
+17861034,Sambia,ZM,169,1,-13.5,27.8,Zambia
+14645473,Simbabwe,ZW,198,1,-19,29.9,Zimbabwe
